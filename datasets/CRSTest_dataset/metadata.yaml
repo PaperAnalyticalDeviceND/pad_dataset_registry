@@ -1,0 +1,39 @@
+name: Name of the dataset
+description: Description of the dataset
+data_creation: 2024-02-14T06:14:12+0000
+split:
+  dev_size: 0.8
+  random_seed: 2024
+hash_type: imagehash.average_hash
+dev_set:
+  - id: 22637
+    sample_id: 0
+    filename: 22637__acetaminophen-codeine__100.png
+    image_hash: 9f9f818d9d8c0000
+    image_source: https://pad.crc.nd.edu//var/www/html/images/padimages/processed/20000/22637_processed.png
+  - id: 46403
+    sample_id: 66350
+    filename: 46403__doxycycline__100.png
+    image_hash: ffff808088800026
+    image_source: https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/46403_processed.png
+  - id: 22390
+    sample_id: 24374
+    filename: 22390__acetaminophen-codeine__100.png
+    image_hash: 9f9f0e3f130f0036
+    image_source: https://pad.crc.nd.edu//var/www/html/images/padimages/processed/20000/22390_processed.png
+  - id: 18265
+    sample_id: 98766
+    filename: 18265__acetaminophen__100.png
+    image_hash: 9ebc8080fefcb0f6
+    image_source: https://pad.crc.nd.edu//var/www/html/images/padimages/processed/10000/18265_processed.png
+test_set:
+  - id: 41510
+    sample_id: 16755
+    filename: 41510__albendazole__100.png
+    image_hash: 1e1e007c7d7c7876
+    image_source: https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/41510_processed.png
+  - id: 21853
+    sample_id: 20961
+    filename: 21853__acetaminophen-codeine__100.png
+    image_hash: 1ebe18bfbebc0000
+    image_source: https://pad.crc.nd.edu//var/www/html/images/padimages/processed/20000/21853_processed.png
