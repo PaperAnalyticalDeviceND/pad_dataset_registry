@@ -1,6 +1,6 @@
 outs:
-- md5: 8ad82ef65f5769d51cae99411e87cc3b.dir
-  size: 1538
-  nfiles: 1
+- md5: 2217ed5d823f333dfb1c9ea7cda88e36.dir
+  size: 4860745
+  nfiles: 7
   hash: md5
   path: CRSTest_dataset
