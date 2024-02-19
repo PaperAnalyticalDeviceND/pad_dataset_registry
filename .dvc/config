@@ -3,5 +3,6 @@
     remote = area52-pmoreira
 ['remote "gd-pmoreira"']
     url = gdrive://1MDV7CYospLuAK7AlNCY3PT3N2zvkEO8-
+    
 ['remote "area52-pmoreira"']
-    url =  /mnt/slow_data/pmoreira/datasets/pad-dvc-remote
+    url = /mnt/slow_data/pmoreira/datasets/pad-dvc-remote
