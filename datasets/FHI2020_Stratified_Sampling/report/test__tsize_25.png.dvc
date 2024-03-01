@@ -1,0 +1,5 @@
+outs:
+- md5: 48b28e4df610e644bad63553d6d69f45
+  size: 102296
+  hash: md5
+  path: test__tsize_25.png

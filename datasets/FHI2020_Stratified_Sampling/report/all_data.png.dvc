@@ -1,0 +1,5 @@
+outs:
+- md5: 3da31bd5a962d9ea98b6ed8da372a053
+  size: 113445
+  hash: md5
+  path: all_data.png
