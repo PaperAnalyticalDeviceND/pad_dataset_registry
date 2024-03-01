@@ -1,3 +1,4 @@
-/dev_set.csv
 /dev_images
-/report
+/test_images
+test_set.csv
+metadata.yaml
