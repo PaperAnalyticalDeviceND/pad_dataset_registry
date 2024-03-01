@@ -1,0 +1,6 @@
+outs:
+- md5: cf5cb02e3f3263eb93c14d3d41fb2981.dir
+  size: 9921730422
+  nfiles: 5720
+  hash: md5
+  path: dev_images
