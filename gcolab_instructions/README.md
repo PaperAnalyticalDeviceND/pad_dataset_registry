@@ -3,7 +3,7 @@
 This guide provides step-by-step instructions on how to open the `PADs_get_dataset.ipynb` notebook from the GitHub repository `psaboia/pad-ml-pipeline` on Google Colab.
 
 ## Step 1: Visit Google Colab
-Go to the [Google Colab website](figs/https://colab.research.google.com/) and start the process by clicking on the `Open Colab` button.
+Go to the [Google Colab website](https://colab.research.google.com/) and start the process by clicking on the `Open Colab` button.
 
 ![Google Colab Home](figs/1__gcolab.png)
 
@@ -17,7 +17,7 @@ In the 'Open notebook' dialog, select the `GitHub` tab, which allows you to open
 In the GitHub tab, paste the following URL into the search bar:
 `https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/blob/main/gcolab_instructions/`
 
-This will automatically locate the `PADs_get_dataset.ipynb` notebook. Click on the notebook to open it in Colab.
+This will automatically locate the `get_dataset.ipynb` notebook. Click on the notebook to open it in Colab.
 
 ![Select Notebook](figs/3__gcolab.png)
 
