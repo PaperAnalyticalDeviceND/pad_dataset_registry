@@ -17,7 +17,7 @@ In the 'Open notebook' dialog, select the `GitHub` tab, which allows you to open
 In the GitHub tab, paste the following URL into the search bar:
 `https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/blob/main/gcolab_instructions/`
 
-This will automatically locate the `get_dataset.ipynb` notebook. Click on the notebook to open it in Colab.
+This will automatically locate the `PADs__get_dataset.ipynb` notebook. Click on the notebook to open it in Colab.
 
 ![Select Notebook](figs/3__gcolab.png)
 
