@@ -25,6 +25,10 @@ dependencies = [
     "dvc-gdrive",
     "jupyterlab",
     "ipyplot==1.1.1",
+    "opencv-python>=4.9.0.80",
+    "tdqm>=0.0.1",
+    "tqdm>=4.66.2",
+    "scipy>=1.12.0",
 ]
 
 [project.urls]
