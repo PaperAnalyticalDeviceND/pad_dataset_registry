@@ -9,9 +9,11 @@ import logging
 import csv
 from concurrent.futures import ThreadPoolExecutor
 from tqdm import tqdm
-# from requests.packages.urllib3.exceptions import InsecureRequestWarning
-
+from PIL import ImageFile
 import urllib3
+
+
+ImageFile.LOAD_TRUNCATED_IMAGES = True
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Change the image name pattern in this function
@@ -632,3 +634,14 @@ def regionRoutine(target, runSettings, save_dir=SAVE_DIR):
     endTime = datetime.now()
     regions = 3+12+20
     print('Time: ',endTime-startTime, ' time saved = ',i*regions*13/60.0)
+    
+
+def convert_from_cv2_to_image(img: np.ndarray) -> Image:
+    # return Image.fromarray(img)
+    return Image.fromarray(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
+
+
+def convert_from_image_to_cv2(img: Image) -> np.ndarray:
+    # return np.asarray(img)
+    return cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
+  
