@@ -9,8 +9,10 @@ import logging
 import csv
 from concurrent.futures import ThreadPoolExecutor
 from tqdm import tqdm
-from PIL import ImageFile
+from PIL import ImageFile, Image
 import urllib3
+import numpy as np
+
 
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True

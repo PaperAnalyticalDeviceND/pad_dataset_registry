@@ -1,5 +1,12 @@
 [core]
     autostage = true
-    remote = pad-gcloud-project
+    remote = pad-gdrive
+['remote "pad-gdrive"']
+    url = gdrive://1MDV7CYospLuAK7AlNCY3PT3N2zvkEO8-
 ['remote "pad-gcloud-project"']
     url = gdrive://1MDV7CYospLuAK7AlNCY3PT3N2zvkEO8-
+    gdrive_use_service_account = true
+    gdrive_service_account_user_email = dvc-service@dvc-pad-data-registry.iam.gserviceaccount.com
+
+
+
