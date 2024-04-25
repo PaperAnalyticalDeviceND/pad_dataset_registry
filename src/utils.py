@@ -647,3 +647,17 @@ def convert_from_image_to_cv2(img: Image) -> np.ndarray:
     # return np.asarray(img)
     return cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
   
+  
+def get_project_data(project_id):
+    API_URL = f"https://pad.crc.nd.edu/api/v2/projects/{project_id}/cards"
+    try:
+        # fetch_data_from_api
+        r = requests.get(url=API_URL,verify=False)  # NOTE: Using verify=False due to a SSL issue, I need a valid certificate, then I will remove this parameter.
+        r.raise_for_status() # Raise an exception if the status is not 200
+        data = r.json()
+        df = pd.json_normalize(data)
+        return df
+    except requests.exceptions.RequestException as e:
+        print(e)
+        print(f"Error accessing project data {project_id}: {r.status_code}")
+        return None
