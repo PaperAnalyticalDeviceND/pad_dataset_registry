@@ -1,3 +1,11 @@
-CRSTest_dataset/images
-FHI2020_Stratified_Sampling/images
-/MHS-Tanzania
+CRSTest_dataset/
+
+MHS-Tanzania/*
+!MHS-Tanzania/README.md
+!MHS-Tanzania/report/*
+
+FHI2020_Stratified_Sampling/*
+!MHS-Tanzania/README.md
+!MHS-Tanzania/metadata_dev.csv
+!MHS-Tanzania/metadata_test.csv
+!MHS-Tanzania/report/*
