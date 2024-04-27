@@ -5,7 +5,13 @@ Welcome to the FHI2020 Stratified Sampling Dataset! This is a curated collection
 
 
 ## Description
+
 ## How to download the dataset 
+
+### Using DVC 
+
+
+### Using Google Colab
 
 I you want to download the dataset using Google Colab, please refer to the [Google Colab Instructions](gcolab_instructions/README.md).
 
