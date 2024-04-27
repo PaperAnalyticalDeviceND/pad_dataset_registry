@@ -33,6 +33,7 @@ dependencies = [
     "openpyxl>=3.1.2",
     "openai>=1.23.2",
     "python-Levenshtein>=0.25.1",
+    "tensorflow[and-cuda]==2.14",
 ]
 
 [project.urls]

@@ -12,7 +12,9 @@ from tqdm import tqdm
 from PIL import ImageFile, Image
 import urllib3
 import numpy as np
-
+import seaborn as sns
+import shutil
+import os
 
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
@@ -182,7 +184,8 @@ def filter_by_empty_column(df, column_name):
     if column_name not in df.columns:
         raise ValueError("The column name is not in the dataframe")
     else:
-        return df[(df[column_name].isnull()) or (df[column_name] == "")].copy()
+        # return df[(df[column_name].isnull()) or (df[column_name] == "")].copy()
+        return df[(df[column_name].isnull()) | (df[column_name] == "")].copy()
     
     
 # Filter by 'unknown' column_name
@@ -661,3 +664,96 @@ def get_project_data(project_id):
         print(e)
         print(f"Error accessing project data {project_id}: {r.status_code}")
         return None
+
+def fix_img(name, img_dir):
+    img_path = os.path.join(img_dir, name)
+    img_pil = Image.open(img_path)
+    img_pil.save(img_path)
+    
+    
+    
+def plot_sample_distribution(data, title, file_path):
+    # Set the aesthetic style of the plots
+    sns.set_theme(style="whitegrid", context="talk")
+    sns.set_palette("dark")
+
+    # Create the plot
+    plt.figure(figsize=(10, 6))
+    plot = sns.histplot(data=data, x='sample_name', kde=True)
+
+    # Adjust the x-ticks to handle overlapping text
+    xticklabels = plot.get_xticklabels()
+    plot.set_xticks(range(len(xticklabels)))
+    plot.set_xticklabels(xticklabels, rotation=45, horizontalalignment='right')
+
+    # Set the title
+    plt.title(title)
+
+    # Adjust layout to make room for rotated x-tick labels
+    plt.tight_layout()
+    
+    # Save the plot
+    if file_path: plt.savefig(file_path)
+    
+    # Display the plot
+    plt.show()
+    
+
+def plot_combined_sample_distribution(datasets, title, file_path):
+    # Set the aesthetic style of the plots
+    sns.set_theme(style="whitegrid", context="talk")
+    sns.set_palette("dark")
+
+    # Create the plot
+    plt.figure(figsize=(12, 8))
+
+    # dataset names
+    dataset_names = [key for key in datasets.keys()]
+    
+    # Plotting data from the first dataframe
+    sns.histplot(data=datasets[dataset_names[0]], x='sample_name', kde=True, color='blue', label=dataset_names[0], alpha=0.6)
+
+    # Plotting data from the second dataframe
+    sns.histplot(data=datasets[dataset_names[1]], x='sample_name', kde=True, color='red', label=dataset_names[1], alpha=0.6)
+
+    # Add legend to distinguish the histograms
+    plt.legend(title='Sets')
+
+    # Adjust the x-ticks to handle overlapping text
+    plt.xticks(rotation=45, horizontalalignment='right')
+
+    # Set the title
+    plt.title(title)
+
+    # Adjust layout to make room for rotated x-tick labels
+    plt.tight_layout()
+
+    # Save the plot
+    plt.savefig(file_path)
+
+    # Display the plot
+    plt.show()
+    
+def copy_images(image_names, source_folder, destination_folder):
+    """
+    Copies specified images from a source folder to a destination folder.
+
+    Parameters:
+    - image_names: List of image file names to copy.
+    - source_folder: Path to the source folder where the images are located.
+    - destination_folder: Path to the destination folder where images will be copied.
+    """
+    # Ensure the destination folder exists
+    os.makedirs(destination_folder, exist_ok=True)
+
+    # Copy each specified image from the source to the destination folder
+    for image_name in image_names:
+        source_path = os.path.join(source_folder, image_name)
+        destination_path = os.path.join(destination_folder, image_name)
+        
+        # Check if the file exists to avoid errors
+        if os.path.exists(source_path):
+            shutil.copy(source_path, destination_path)
+            #print(f"Copied {image_name} to {destination_folder}")
+        else:
+            print(f"Image {image_name} does not exist in the source folder.")
