@@ -50,7 +50,7 @@ datasets/MHS-Tanzania
 | 9  | paracetamol-starch  |     90 |      22 |      112 |
 | -  | #total              |   2359 |     590 |     2949 |
 
-![Figure Description](./report/class_distribution_combined.png)
+![Figure Description](./figs/class_distribution_combined.png)
 
 ## How to download the dataset 
 
