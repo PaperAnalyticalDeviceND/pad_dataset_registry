@@ -4,4 +4,5 @@ FHI2020_Stratified_Sampling/*
 !FHI2020_Stratified_Sampling/README.md
 !FHI2020_Stratified_Sampling/metadata_dev.csv
 !FHI2020_Stratified_Sampling/metadata_test.csv
-!FHI2020_Stratified_Sampling/reports/
+!FHI2020_Stratified_Sampling/report/
+

@@ -1,0 +1,6 @@
+outs:
+- md5: 9eec9523086cacd1c293201ae854010e.dir
+  size: 2086800
+  nfiles: 12
+  hash: md5
+  path: FHI2020_Stratified_Sampling
