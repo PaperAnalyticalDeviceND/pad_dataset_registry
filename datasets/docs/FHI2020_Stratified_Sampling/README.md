@@ -1,7 +1,7 @@
 # <a id='toc1_'></a>[`FHI2020 Stratified Sampling` Dataset](#toc0_)
 
 
-Welcome to the FHI2020 Stratified Sampling Dataset, a curated collection of PADs (Paper Analytical Devices) cards employed in the FHI2020 and FHI2022 projects.
+Welcome to the FHI2020 Stratified Sampling Dataset, a curated collection of PADs (Paper Analytical Devices) employed in the FHI2020 and FHI2022 projects.
 
 ---
 
@@ -10,9 +10,9 @@ Welcome to the FHI2020 Stratified Sampling Dataset, a curated collection of PADs
 - [`FHI2020 Stratified Sampling` Dataset](#fhi2020-stratified-sampling-dataset)
   - [Description](#description)
     - [Data Distribution](#data-distribution)
-      - [**All Dataset**](#all-dataset)
-      - [**Development set**](#development-set)
-      - [**Test set**](#test-set)
+      - [**All Dataset (8001 images)**](#all-dataset-8001-images)
+      - [**Development set (5,923 images)**](#development-set-5923-images)
+      - [**Test set (2078 images)**](#test-set-2078-images)
       - [**Camera and Drug Heatmap**](#camera-and-drug-heatmap)
     - [Directory Structure](#directory-structure)
   - [How to download the dataset](#how-to-download-the-dataset)
@@ -40,7 +40,7 @@ Welcome to the FHI2020 Stratified Sampling Dataset, a curated collection of PADs
 
 This dataset draws from two projects, **FHI2020** and **FHI2022**. From Project FHI2020, it includes images of Paper Analytical Devices (PADs) that represent specific Active Pharmaceutical Ingredients (APIs) from a list of 20 APIs, available in one of four concentrations (*20%, 50%, 80%, 100%*), and PADs for `lactose` at *100%* concentration. From Project FHI2022, the dataset includes PADs categorized as `swiped but not run` and `blank`, with a nominal quantity of `0%` assigned for uniformity.
 
-The collection features multiple images of each PAD, taken under various lighting conditions and with different devices. Each image has a unique `id`, and all images from the same PAD(card) share a `sample_id`.
+The collection features multiple images of each PAD, taken under various lighting conditions and with different devices. Each image has a unique `id`, and all images from the same PAD (same card) share a `sample_id`.
 
 To address the challenge posed by its unbalanced nature regarding API names and quantities, a stratified sampling approach was employed for splitting the data into development (dev) and test sets.
 
@@ -52,13 +52,13 @@ This method maintains the balance of API types and quantities. It ensures that a
 
 ### <a id='toc1_1_1_'></a>[Data Distribution](#toc0_)
 
-#### **All Dataset**
+#### **All Dataset (8001 images)**
 ![All dataset](./figs/all_data.png)
 
-#### **Development set**
+#### **Development set (5,923 images)**
 ![Dev set](./figs/dev__tsize_25.png)
 
-#### **Test set**
+#### **Test set (2078 images)**
 ![Test set](./figs/test__tsize_25.png)
 
 #### **Camera and Drug Heatmap**
