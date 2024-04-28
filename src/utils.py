@@ -672,7 +672,7 @@ def fix_img(name, img_dir):
     
     
     
-def plot_sample_distribution(data, title, file_path):
+def plot_sample_distribution(data, title, file_path=None):
     # Set the aesthetic style of the plots
     sns.set_theme(style="whitegrid", context="talk")
     sns.set_palette("dark")
