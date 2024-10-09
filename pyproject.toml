@@ -34,6 +34,8 @@ dependencies = [
     "openai>=1.23.2",
     "python-Levenshtein>=0.25.1",
     "tensorflow[and-cuda]==2.14",
+    "plotly>=5.24.1",
+    "chart-studio>=1.1.0",
 ]
 
 [project.urls]
