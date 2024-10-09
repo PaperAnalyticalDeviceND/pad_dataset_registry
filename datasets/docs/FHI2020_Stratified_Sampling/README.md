@@ -1,8 +1,25 @@
 # <a id='toc1_'></a>[`FHI2020 Stratified Sampling` Dataset](#toc0_)
 
 
-Welcome to the FHI2020 Stratified Sampling Dataset, a curated collection of PADs (Paper Analytical Devices) employed in the FHI2020 and FHI2022 projects.
+Welcome to the **FHI2020 Stratified Sampling Dataset**, a comprehensive collection of Paper Analytical Devices (PADs) used in the FHI2020 and FHI2022 projects. This dataset was utilized to train some machine learning models, as listed below:
 
+1. **CNN Model for Drug Label Prediction (API)**  
+   Model Name: *24fhiNN1classifyAPI*  
+   [View Model](https://pad.crc.nd.edu/api/v2/neural-networks/16)
+
+2. **CNN Model for Drug Concentration Prediction**  
+   Model Name: *24 fhi NN1 API concentration*  
+   [View Model](https://pad.crc.nd.edu/api/v2/neural-networks/19)
+
+3. **CNN Model for Drug Concentration Prediction**  
+   Model Name: *24fhiNN1concAPI*  
+   [View Model](https://pad.crc.nd.edu/api/v2/neural-networks/17)
+
+4. **PLS Model for Drug Concentration Prediction (Based on Known Drug Label)**  
+   Model Name: *24fhiPLS1conc*  
+   [View Model](https://pad.crc.nd.edu/api/v2/neural-networks/18)
+
+  
 ---
 
 
