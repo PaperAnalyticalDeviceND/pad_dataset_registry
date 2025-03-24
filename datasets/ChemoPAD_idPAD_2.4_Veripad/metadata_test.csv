@@ -1,0 +1,312 @@
+id,sample_id,sample_name,quantity,camera_type_1,processed_file_location,md5_hash,image_name
+32233,59653,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32233_processed.png,b3b53aeed4ee500ea5f0fef36d57cb4f,32233_59653_lactose_100.png
+32234,59653,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32234_processed.png,723f0e6bf886dcb840513b8cc8434146,32234_59653_lactose_100.png
+32235,59653,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32235_processed.png,99caf1e24ffea187f874b66c935be011,32235_59653_lactose_100.png
+32236,59653,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32236_processed.png,7dbe9acb5cb0d8d2dc42a0d935cf22a2,32236_59653_lactose_100.png
+47506,59653,Cocos,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47506_processed.png,75c1ae4b6adddd57da9a8800f4aa1f5d,47506_59653_Cocos_100.png
+47507,59653,Cocos,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47507_processed.png,9c3b00cd45a898634ac37be0c43790e8,47507_59653_Cocos_100.png
+32241,59655,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32241_processed.png,8f03da0cbad5266bcbee73c40c135e7a,32241_59655_lactose_100.png
+32246,59655,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32246_processed.png,0ac181b1c5b0c86745278713b279b382,32246_59655_lactose_100.png
+32251,59655,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32251_processed.png,d85d3559a27319dc0b8e050757e60177,32251_59655_lactose_100.png
+32252,59655,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32252_processed.png,d2344a4c6abeea3724b46c12cd345391,32252_59655_lactose_100.png
+32267,59610,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32267_processed.png,873bf51896258bea46b86c86b542b790,32267_59610_lactose_100.png
+32275,59610,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32275_processed.png,2277b56d0f8330b18735495b74879d78,32275_59610_lactose_100.png
+32290,59610,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32290_processed.png,327b62460f835f1c39deeb8996197ff6,32290_59610_lactose_100.png
+32291,59610,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32291_processed.png,388891bb0a1ffed73f18cfdc58fd08ce,32291_59610_lactose_100.png
+32295,59613,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32295_processed.png,31639a120cc747021809b299fe4029d1,32295_59613_lactose_100.png
+32304,59613,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32304_processed.png,0288c209968e454915d0661a9c23e67e,32304_59613_lactose_100.png
+32314,59613,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32314_processed.png,24cb55aea407ce47962d18f55a190840,32314_59613_lactose_100.png
+32315,59613,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32315_processed.png,1ae04e2ad2114b1eda4ed9da458b56dd,32315_59613_lactose_100.png
+32298,59643,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32298_processed.png,b78df0ed4f0b20fe45943154c8b63168,32298_59643_lactose_100.png
+32307,59643,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32307_processed.png,aa6c50837643b0650d502e081d14108e,32307_59643_lactose_100.png
+32320,59643,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32320_processed.png,dc0564a75d3480b5ed2f270be997379c,32320_59643_lactose_100.png
+32321,59643,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32321_processed.png,4fb8df3c690a6ff4247535a4277200e3,32321_59643_lactose_100.png
+32302,59147,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32302_processed.png,e9918bd195c4c58d4ac5482dfe9309d2,32302_59147_lactose_100.png
+32311,59147,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32311_processed.png,cc7ac949152bec6175c27dfbad1b7c52,32311_59147_lactose_100.png
+32328,59147,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32328_processed.png,ab9a71e751d07de8e488af80bb0c62f5,32328_59147_lactose_100.png
+32329,59147,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32329_processed.png,1e2b0e0519a7b631f59d5660664b2136,32329_59147_lactose_100.png
+32330,59146,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32330_processed.png,d4d86c3e4edda2ca217673520a56094e,32330_59146_lactose_100.png
+32339,59146,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32339_processed.png,e6f524015203e98496f3698638eeb564,32339_59146_lactose_100.png
+32349,59146,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32349_processed.png,b9f0cc4f8c3498455ddb6f34d7aab082,32349_59146_lactose_100.png
+32350,59146,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32350_processed.png,52cbbda81b1d853af76f9c250e7a8115,32350_59146_lactose_100.png
+32335,59173,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32335_processed.png,fec870a42f258389e35181f7f630bec7,32335_59173_lactose_100.png
+32344,59173,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32344_processed.png,125f8faf96249c04a33fe9e038f96faa,32344_59173_lactose_100.png
+32359,59173,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32359_processed.png,7bd2c7903ac1dfcdd19eff961d538442,32359_59173_lactose_100.png
+32360,59173,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32360_processed.png,a827c9b898cbf4d5ff19f8c5d4e2fddf,32360_59173_lactose_100.png
+32369,59171,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32369_processed.png,0b9cf24336138e01d021610768783efc,32369_59171_lactose_100.png
+32378,59171,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32378_processed.png,b0175e1e25acce2028eb2ee224dd410b,32378_59171_lactose_100.png
+32389,59171,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32389_processed.png,28f7744f419b8a4f95f285c8abf75393,32389_59171_lactose_100.png
+32390,59171,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32390_processed.png,69383561c05cb661ab03dc85633af5dc,32390_59171_lactose_100.png
+32371,59185,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32371_processed.png,061ff9f72455a22ae68d5eb50d0b63b8,32371_59185_lactose_100.png
+32380,59185,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32380_processed.png,33fd673388d4819e6292a0cfb8aefdd5,32380_59185_lactose_100.png
+32393,59185,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32393_processed.png,f7c066e83074a57e3a43d0d190756a70,32393_59185_lactose_100.png
+32394,59185,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32394_processed.png,3e8cdacc8354e91decfd859572752ed7,32394_59185_lactose_100.png
+32405,59180,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32405_processed.png,55c48257386c5d119b878bf9c6ccf5c6,32405_59180_lactose_100.png
+32411,59180,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32411_processed.png,bf917a5d2f1b1d78e79d68b5410313d5,32411_59180_lactose_100.png
+32421,59180,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32421_processed.png,e8ed4b8454e0801bb55dcd9d6bdb21c7,32421_59180_lactose_100.png
+32422,59180,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32422_processed.png,6f3e8f1744d931837ceaabdde7b10e6f,32422_59180_lactose_100.png
+32407,59182,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32407_processed.png,308b80d84fdde403a47b1339ef222617,32407_59182_lactose_100.png
+32413,59182,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32413_processed.png,625a601b107c179ba295bd88a7c4f31a,32413_59182_lactose_100.png
+32425,59182,lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32425_processed.png,25bf024e6fbcb6f6ee7200e2607dfe26,32425_59182_lactose_100.png
+32426,59182,lactose,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32426_processed.png,7969ec96190c0a08a81dff2595aa8e71,32426_59182_lactose_100.png
+32442,59177,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32442_processed.png,2bebd910256c9b8a6a6c3f9161909360,32442_59177_diphenhydramine_100.png
+32450,59177,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32450_processed.png,1e89407090a0c6d29af5d9c8dcce1ae3,32450_59177_diphenhydramine_100.png
+32461,59177,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32461_processed.png,8385ca26f68e9f6880ecc7225a273aed,32461_59177_diphenhydramine_100.png
+32462,59177,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32462_processed.png,42b6f7dfce026aac74c543d266284a15,32462_59177_diphenhydramine_100.png
+32445,59090,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32445_processed.png,acb8f445d617d8851d5ae0b16a859e71,32445_59090_diphenhydramine_100.png
+32453,59090,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32453_processed.png,6a888555927fef54e2b2ba985301bad8,32453_59090_diphenhydramine_100.png
+32467,59090,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32467_processed.png,bd048ff95831a0aa38008645fabb5451,32467_59090_diphenhydramine_100.png
+32468,59090,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32468_processed.png,c91f464bd446037ec6ced5e09262b84c,32468_59090_diphenhydramine_100.png
+32505,59650,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32505_processed.png,ed7001303d068a65d3ef445b17736e88,32505_59650_diphenhydramine_100.png
+32513,59650,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32513_processed.png,4ce33bad2338b7f8baaa61d8846a382b,32513_59650_diphenhydramine_100.png
+32522,59650,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32522_processed.png,554bc23ab88e2e8b78701802cd66078f,32522_59650_diphenhydramine_100.png
+32523,59650,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32523_processed.png,7f62414cef991ce1d345f69e59d6b133,32523_59650_diphenhydramine_100.png
+32538,59769,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32538_processed.png,6bd83c28ccbd14337d16a6da8e95242f,32538_59769_diphenhydramine_100.png
+32547,59769,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32547_processed.png,340aec36fe14f7036865b66ebbac8870,32547_59769_diphenhydramine_100.png
+32557,59769,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32557_processed.png,5f7b36b893c95e1ed2b69f9f6de89b39,32557_59769_diphenhydramine_100.png
+32558,59769,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32558_processed.png,f7a18a26d5ea32b506beb6ba06d6961f,32558_59769_diphenhydramine_100.png
+32540,59095,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32540_processed.png,5983467123fc5484c843d8fdfa802e15,32540_59095_diphenhydramine_100.png
+32549,59095,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32549_processed.png,670e9d20e3a12b2219b595da446105ff,32549_59095_diphenhydramine_100.png
+32561,59095,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32561_processed.png,7db06c865390ba7f647245ad009121b5,32561_59095_diphenhydramine_100.png
+32562,59095,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32562_processed.png,08662f6c2df0d97c01ab611eed71d823,32562_59095_diphenhydramine_100.png
+32574,59221,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32574_processed.png,ce55341140d8afce1de33674a17f8a37,32574_59221_diphenhydramine_100.png
+32581,59221,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32581_processed.png,317563e2b33e59370fb875791fbf0ddb,32581_59221_diphenhydramine_100.png
+32593,59221,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32593_processed.png,793b2031ee2b02acb5e2cacbfe5a0a90,32593_59221_diphenhydramine_100.png
+32594,59221,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32594_processed.png,48c4d8b53e4f5f9786e57b7df1c8157a,32594_59221_diphenhydramine_100.png
+32611,59344,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32611_processed.png,ee8b0930bc80a1f940a2e3da07c9cffe,32611_59344_diphenhydramine_100.png
+32619,59344,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32619_processed.png,84e4a6ac9b80a730b984890a4056235b,32619_59344_diphenhydramine_100.png
+32629,59344,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32629_processed.png,d6397cdc5cb7ca0619b61d77ae9903f2,32629_59344_diphenhydramine_100.png
+32630,59344,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32630_processed.png,dd1927886c4fcda1bec734b2cd7b1ff9,32630_59344_diphenhydramine_100.png
+32612,59050,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32612_processed.png,7b75a98d1df27805a45d7cefa18dc6e3,32612_59050_diphenhydramine_100.png
+32620,59050,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32620_processed.png,e24ed2fa4ba09b964f6b6c5fb2b5c035,32620_59050_diphenhydramine_100.png
+32631,59050,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32631_processed.png,043ddab4dc9df849d86e59cf43c367c4,32631_59050_diphenhydramine_100.png
+32632,59050,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32632_processed.png,35d03f03fc1ae203b24f566d3695539b,32632_59050_diphenhydramine_100.png
+32613,59087,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32613_processed.png,342318aed2ac2068fe1ad4b217d69af8,32613_59087_diphenhydramine_100.png
+32622,59087,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32622_processed.png,365c55812cafeafbc9b49798f8f44a0c,32622_59087_diphenhydramine_100.png
+32633,59087,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32633_processed.png,e7725c86d664a8cabde502fe6c4e783e,32633_59087_diphenhydramine_100.png
+32634,59087,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32634_processed.png,6c9051a5453035fd370c589bd1304e10,32634_59087_diphenhydramine_100.png
+32615,59217,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32615_processed.png,816e9a120f9748945a64cdf849b6afe4,32615_59217_diphenhydramine_100.png
+32626,59217,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32626_processed.png,d62e329b989bca9f7855058dc44cbacf,32626_59217_diphenhydramine_100.png
+32637,59217,diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32637_processed.png,15311609157edaa3cff62ff9da1d6588,32637_59217_diphenhydramine_100.png
+32638,59217,diphenhydramine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32638_processed.png,199b4d8e40f94177225317788a1b53a0,32638_59217_diphenhydramine_100.png
+32647,58998,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32647_processed.png,fa5f882a5ad6e804fb8be057ecda629f,32647_58998_cocaine HCl_100.png
+32655,58998,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32655_processed.png,c001152eea4c08331dff805a0af1dd26,32655_58998_cocaine HCl_100.png
+32664,58998,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32664_processed.png,9c50a1765e9dade2256664e0e69eae2f,32664_58998_cocaine HCl_100.png
+32665,58998,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32665_processed.png,c307f49064aa39d986e3a4d4fc992b19,32665_58998_cocaine HCl_100.png
+32666,58998,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32666_processed.png,7fdd60f82fe61383ae7bd31c4ed3ab32,32666_58998_cocaine HCl_100.png
+47308,58998,Cocos,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47308_processed.png,ef67c4d8265654a91349de3bd9aba78a,47308_58998_Cocos_100.png
+47317,58998,Cocos,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47317_processed.png,4089c3233832cb8827c079bf36e8878c,47317_58998_Cocos_100.png
+32648,58997,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32648_processed.png,55dc32ccc41af1df466265fb7fcf82f0,32648_58997_cocaine HCl_100.png
+32656,58997,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32656_processed.png,2e735c89057510084a6fda2efa6dc2db,32656_58997_cocaine HCl_100.png
+32667,58997,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32667_processed.png,fbf5c31d760b6b968428465f5273efd1,32667_58997_cocaine HCl_100.png
+32668,58997,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32668_processed.png,8d1d710626376c061849feb17dd48267,32668_58997_cocaine HCl_100.png
+47309,58997,Cocos,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47309_processed.png,d2fa0272a563e0bfe664ab087266ce7d,47309_58997_Cocos_100.png
+47318,58997,Cocos,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47318_processed.png,a5ae4b983300cf24d45c37d62ed7f5e4,47318_58997_Cocos_100.png
+47322,58997,,100,iPhone,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47322_processed.png,48af6a6b0fdc29c74bb4ac68a6ca56aa,47322_58997__100.png
+47569,58997,Cocain_HCL,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47569_processed.png,1a7714d4216d9abe663cb1b25f12772e,47569_58997_Cocain_HCL_100.png
+32653,59623,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32653_processed.png,5aa004e020699fc501607e8e78390d5e,32653_59623_cocaine HCl_100.png
+32661,59623,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32661_processed.png,247a2f011119a290a56d68cc525d99be,32661_59623_cocaine HCl_100.png
+32678,59623,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32678_processed.png,3e96123b267b20f831b28b6ff2b0891d,32678_59623_cocaine HCl_100.png
+32679,59623,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32679_processed.png,6203282b50de0fd8f674d1e987ffbb13,32679_59623_cocaine HCl_100.png
+47315,59623,Cocos,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47315_processed.png,b87d1d74dcdcf3f6e2cdde663e7a1321,47315_59623_Cocos_100.png
+32686,59401,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32686_processed.png,4d328b66bea8b9f84a3bf3ef0f6f44d4,32686_59401_cocaine HCl_100.png
+32694,59401,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32694_processed.png,cf41ff52e1def59abcdb0d402d53306a,32694_59401_cocaine HCl_100.png
+32706,59401,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32706_processed.png,c324bffc9d768e4a6e77456d8094967b,32706_59401_cocaine HCl_100.png
+32707,59401,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32707_processed.png,88036d0eb5b093c48c701093551be625,32707_59401_cocaine HCl_100.png
+32773,59353,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32773_processed.png,b101d3ecf3eadad631075614e3c80c9f,32773_59353_cocaine HCl_100.png
+32777,59353,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32777_processed.png,1e032def5b1432b7f9fe825bb1bfd213,32777_59353_cocaine HCl_100.png
+32790,59353,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32790_processed.png,3c065754566aceea967d480aa3eb00c8,32790_59353_cocaine HCl_100.png
+32791,59353,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32791_processed.png,82e895c0eb6ff198b5754447aab2bb18,32791_59353_cocaine HCl_100.png
+32784,59334,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32784_processed.png,a32baefa3f7cd09250239dc225cb950c,32784_59334_cocaine HCl_100.png
+32788,59334,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32788_processed.png,17950482bff27fbd50ded4bb8c1316ce,32788_59334_cocaine HCl_100.png
+32802,59334,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32802_processed.png,cba1b29f88191bd392eb6e8340eb1488,32802_59334_cocaine HCl_100.png
+32803,59334,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32803_processed.png,bf41e683c85577cea91a100a92c05442,32803_59334_cocaine HCl_100.png
+32806,59033,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32806_processed.png,90f3d32044f3be6dc096102708b46778,32806_59033_cocaine HCl_100.png
+32814,59033,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32814_processed.png,78468eb8e3ce5523a807f267bec3bf4f,32814_59033_cocaine HCl_100.png
+32830,59033,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32830_processed.png,b7f3dcbfa4f339a7856cc1176a7a0f8e,32830_59033_cocaine HCl_100.png
+32831,59033,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32831_processed.png,3215c65cc11036d2b54ab2cf8455a4b5,32831_59033_cocaine HCl_100.png
+32818,59002,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32818_processed.png,253666c58a59c1129f26a4cf3139af89,32818_59002_cocaine HCl_100.png
+32823,59002,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32823_processed.png,ce9b69f976e31ec127419716efef446b,32823_59002_cocaine HCl_100.png
+32842,59002,cocaine HCl,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32842_processed.png,a8f11210b55f0b9879d338da2f90617f,32842_59002_cocaine HCl_100.png
+32843,59002,cocaine HCl,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32843_processed.png,7d4c136081b2d0e96f73e479fbf0c327,32843_59002_cocaine HCl_100.png
+32960,59139,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32960_processed.png,ae5af45a6889e871c300984fffb2fffc,32960_59139_crack cocaine_100.png
+32968,59139,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32968_processed.png,20b3aeaf69f38723758f482452dbc2dd,32968_59139_crack cocaine_100.png
+32976,59139,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32976_processed.png,777aa542c3bbdb4548d4ca355a70e8a7,32976_59139_crack cocaine_100.png
+32984,59139,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32984_processed.png,ee4bad814d045ceaf13750757d1a0e4d,32984_59139_crack cocaine_100.png
+32985,59139,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32985_processed.png,7205c0099aa128bf0458980ffecdf488,32985_59139_crack cocaine_100.png
+32966,59577,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32966_processed.png,d3c731f256797bce2d41ef6d8fc299c2,32966_59577_crack cocaine_100.png
+32974,59577,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32974_processed.png,8ff9e468032ea4020d35da26dd140e0a,32974_59577_crack cocaine_100.png
+32982,59577,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32982_processed.png,f3e69f545b9778f307cf895beb0c2c75,32982_59577_crack cocaine_100.png
+32992,59577,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32992_processed.png,7b349c7e1eaa6a23f776c313de2a9978,32992_59577_crack cocaine_100.png
+32997,59580,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32997_processed.png,67ac405d9f97337a12cdbe36402d4ce0,32997_59580_crack cocaine_100.png
+33006,59580,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33006_processed.png,5e467fa763678e0c34293d35e8950a1b,33006_59580_crack cocaine_100.png
+33017,59580,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33017_processed.png,bb626dfaace21793fe18d714bdacda76,33017_59580_crack cocaine_100.png
+33018,59580,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33018_processed.png,cfae45cd955da1c7129e796e08935f03,33018_59580_crack cocaine_100.png
+32999,59477,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/32999_processed.png,f0185723cbc8d46313577f31ede528df,32999_59477_crack cocaine_100.png
+33000,59477,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33000_processed.png,f0185723cbc8d46313577f31ede528df,33000_59477_crack cocaine_100.png
+33008,59477,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33008_processed.png,c6660c68e2f03795af08fb69f56115e9,33008_59477_crack cocaine_100.png
+33021,59477,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33021_processed.png,fcd04d549bdfd6d236f35d22eaa8e1cc,33021_59477_crack cocaine_100.png
+33026,59477,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33026_processed.png,67eccf1d5a0e29f83164e08212f3f03e,33026_59477_crack cocaine_100.png
+33001,59476,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33001_processed.png,116ec5b7968b95dc2d894bfef39a7304,33001_59476_crack cocaine_100.png
+33009,59476,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33009_processed.png,137f1f6dde8caa8d250b176bd57561d6,33009_59476_crack cocaine_100.png
+33022,59476,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33022_processed.png,90a24f71a4a4d322ba79ad3967302e26,33022_59476_crack cocaine_100.png
+33025,59476,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33025_processed.png,e6b0b320ccce47cdbe21f757d48c1bb3,33025_59476_crack cocaine_100.png
+33002,59143,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33002_processed.png,db417e50be254cbfc005492195ab9562,33002_59143_crack cocaine_100.png
+33010,59143,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33010_processed.png,bc087e3245d0760d8ada2812799b4317,33010_59143_crack cocaine_100.png
+33023,59143,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33023_processed.png,c1ca7f42b6f340ae805e9bbf78a86aaa,33023_59143_crack cocaine_100.png
+33024,59143,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33024_processed.png,4af424054a7abbf550401a2bb0d07d1f,33024_59143_crack cocaine_100.png
+33028,59141,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33028_processed.png,2d31b88e24d259dffa85cc2500d81fa8,33028_59141_crack cocaine_100.png
+33040,59141,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33040_processed.png,db996b150c594d101a8ea162682fd71c,33040_59141_crack cocaine_100.png
+33045,59141,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33045_processed.png,5caa76aec53306950ced82fd252a076b,33045_59141_crack cocaine_100.png
+33046,59141,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33046_processed.png,ef083e67abb51878795a581e1c559e85,33046_59141_crack cocaine_100.png
+33029,59151,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33029_processed.png,9d890f6bb57bbaa9aa0673f6c588484a,33029_59151_crack cocaine_100.png
+33041,59151,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33041_processed.png,8ebc18c40ef732fade4a095631d37c3d,33041_59151_crack cocaine_100.png
+33047,59151,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33047_processed.png,1debf66f6415140416eafbc0afa5a780,33047_59151_crack cocaine_100.png
+33048,59151,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33048_processed.png,334a3553fe6bbd09dd37961e482adfae,33048_59151_crack cocaine_100.png
+33035,59598,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33035_processed.png,d9868470253029ec363aac9d1e43e8ee,33035_59598_crack cocaine_100.png
+33039,59598,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33039_processed.png,1fbb9e8483fd852e63547a5cc5270ea1,33039_59598_crack cocaine_100.png
+33057,59598,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33057_processed.png,ad44014d86b9f481a277636d8b3ff883,33057_59598_crack cocaine_100.png
+33058,59598,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33058_processed.png,1ea500ac6fa504010566e5843403e3da,33058_59598_crack cocaine_100.png
+33059,59597,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33059_processed.png,efd80a50d02cf80c46707a3794dc6531,33059_59597_crack cocaine_100.png
+33063,59597,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33063_processed.png,110c48de221683103296865e7628a682,33063_59597_crack cocaine_100.png
+33067,59597,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33067_processed.png,0f1d2a231320302ab3b5d3b505cd5857,33067_59597_crack cocaine_100.png
+33068,59597,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33068_processed.png,1b797025e5dad7e00dc91069d42e951a,33068_59597_crack cocaine_100.png
+33060,59596,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33060_processed.png,3b4f0acf85052019d380366db346cc21,33060_59596_crack cocaine_100.png
+33064,59596,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33064_processed.png,f81e77a4f024cff424237a3ec72cfebd,33064_59596_crack cocaine_100.png
+33069,59596,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33069_processed.png,ee0b29cd61e5ec16ab9fa62be7cc45da,33069_59596_crack cocaine_100.png
+33070,59596,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33070_processed.png,0862c31fb3d2875acb8c6b284c2dff86,33070_59596_crack cocaine_100.png
+33062,59490,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33062_processed.png,5d23bb91c67e792663ae38e86cdb2e0a,33062_59490_crack cocaine_100.png
+33066,59490,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33066_processed.png,c7b04f1ab6e977472f78c4d0c5ff57a1,33066_59490_crack cocaine_100.png
+33074,59490,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33074_processed.png,e5595b9e92c370370f5de3d112a1f1ef,33074_59490_crack cocaine_100.png
+33075,59490,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33075_processed.png,6c352cfbbb3f3e22e7efa40b23fcb773,33075_59490_crack cocaine_100.png
+33077,59489,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33077_processed.png,520fcaf0f9c54e9638d82c230e06d9e2,33077_59489_crack cocaine_100.png
+33080,59489,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33080_processed.png,8a4ec8638d222372675f887a5f9fdb4f,33080_59489_crack cocaine_100.png
+33087,59489,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33087_processed.png,f0d488fe284acca082aa175e320cf45a,33087_59489_crack cocaine_100.png
+33088,59489,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33088_processed.png,f7332909931b6ed826566872e55ae91f,33088_59489_crack cocaine_100.png
+33079,59159,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33079_processed.png,e9b312ab2defee198a0ccd5a946597f7,33079_59159_crack cocaine_100.png
+33081,59159,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33081_processed.png,b4c6244b0bf64be12c00bebac8fd5f1a,33081_59159_crack cocaine_100.png
+33089,59159,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33089_processed.png,ad6c78a2080723ca37d67e5a34ae49d6,33089_59159_crack cocaine_100.png
+33090,59159,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33090_processed.png,1eb89895c5871c20f603a8a5e0e165fe,33090_59159_crack cocaine_100.png
+33091,59158,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33091_processed.png,c2b60cd953df4e169486830ff1c84733,33091_59158_crack cocaine_100.png
+33099,59158,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33099_processed.png,9dc747c55fcfc855d0489b62e76bc68d,33099_59158_crack cocaine_100.png
+33106,59158,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33106_processed.png,83976d91286ea6157e75d9378594795e,33106_59158_crack cocaine_100.png
+33108,59158,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33108_processed.png,9c413f21ab0a4493129d0a1d288b8213,33108_59158_crack cocaine_100.png
+33098,59212,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33098_processed.png,10bb17a82a6f486dd9dab94448c44376,33098_59212_crack cocaine_100.png
+33105,59212,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33105_processed.png,93a4becf08b083f753a27df5497e4a3c,33105_59212_crack cocaine_100.png
+33119,59212,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33119_processed.png,f0c17441fb70ec40e1837703d4ecc577,33119_59212_crack cocaine_100.png
+33120,59212,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33120_processed.png,eed0973e74c6b20b1bdf5bf31b2091dc,33120_59212_crack cocaine_100.png
+33124,59570,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33124_processed.png,39932cf56b52687577ec548318828ccc,33124_59570_crack cocaine_100.png
+33128,59570,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33128_processed.png,f8e0a110093881adc6bcee896b715e8d,33128_59570_crack cocaine_100.png
+33137,59570,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33137_processed.png,f7cafb433327940af739ef80c228db98,33137_59570_crack cocaine_100.png
+33138,59570,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33138_processed.png,a8ff9ff520b8e3db50c6e9ae70760bca,33138_59570_crack cocaine_100.png
+33151,59519,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33151_processed.png,28ce7de5238dd897df4f181635ab6fb0,33151_59519_crack cocaine_100.png
+33155,59519,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33155_processed.png,fa54b28c0211c82aa22409abd56cc956,33155_59519_crack cocaine_100.png
+33162,59519,crack cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33162_processed.png,147de6a8e95f62e5205299a1d82cef74,33162_59519_crack cocaine_100.png
+33163,59519,crack cocaine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33163_processed.png,7efea0226b04a5cb8b872f7857238ba3,33163_59519_crack cocaine_100.png
+33165,59310,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33165_processed.png,f9fada4c0e55fb43f04d3f7ced6bfffc,33165_59310_methamphetamine_100.png
+33174,59310,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33174_processed.png,4894c7c041c134c10450ba3d652bd99a,33174_59310_methamphetamine_100.png
+33184,59310,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33184_processed.png,1a6024dff8ce88af379e85d282850e8e,33184_59310_methamphetamine_100.png
+33186,59310,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33186_processed.png,d5ff883e682f4fa08e222e9c4944d9c6,33186_59310_methamphetamine_100.png
+33167,59311,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33167_processed.png,76e718661eac6bbd0ed5044c2e4d97c3,33167_59311_methamphetamine_100.png
+33175,59311,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33175_processed.png,a1b7c573c7efe8dc40f03932fb87e2d4,33175_59311_methamphetamine_100.png
+33188,59311,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33188_processed.png,990ee0f0ba5c45fc276eb8b4637553ed,33188_59311_methamphetamine_100.png
+33189,59311,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33189_processed.png,a5d5a5c9c8fbe68a7148de2a4ded3e2d,33189_59311_methamphetamine_100.png
+33170,59304,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33170_processed.png,294b6a3af40e6a4caefa4c782e2c4aa1,33170_59304_methamphetamine_100.png
+33173,59304,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33173_processed.png,4855b4f602fadad85ad64e7a412e56ba,33173_59304_methamphetamine_100.png
+33182,59304,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33182_processed.png,66a46e2c0516e5d254ea311543fabe1c,33182_59304_methamphetamine_100.png
+33183,59304,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33183_processed.png,27cc769e4ee7fa615b119e015897381c,33183_59304_methamphetamine_100.png
+33196,59196,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33196_processed.png,b074289345968184b02ec3490f4b85e3,33196_59196_methamphetamine_100.png
+33206,59196,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33206_processed.png,2fba33606d120711f1945a8dd00d7528,33206_59196_methamphetamine_100.png
+33210,59196,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33210_processed.png,ca388a38c0ac8a6ff2661980b8aff38e,33210_59196_methamphetamine_100.png
+33213,59196,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33213_processed.png,ba4c8bfd8a3e072a0d4040ea30b7ad01,33213_59196_methamphetamine_100.png
+33202,59194,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33202_processed.png,4ce5cbf82297ebc8c9463762d171b34b,33202_59194_methamphetamine_100.png
+33204,59194,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33204_processed.png,ae6b386b7ce76507778241286ae9538b,33204_59194_methamphetamine_100.png
+33216,59194,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33216_processed.png,627b4a68c4f5f14c35a67fbb70ce8c10,33216_59194_methamphetamine_100.png
+33217,59194,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33217_processed.png,da3e7cbf595fd2e28a838960c498a77f,33217_59194_methamphetamine_100.png
+33203,59199,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33203_processed.png,66fc0df47e7ed36bbd9f6de8edf202c3,33203_59199_methamphetamine_100.png
+33205,59199,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33205_processed.png,c1bf83136cd1fae86c64e00c6c697304,33205_59199_methamphetamine_100.png
+33218,59199,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33218_processed.png,d971922453d764d1637a943c73538a3a,33218_59199_methamphetamine_100.png
+33219,59199,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33219_processed.png,807c11256d0936e049c57815322f07ba,33219_59199_methamphetamine_100.png
+33242,59308,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33242_processed.png,0e275ee995617a6fb0d6ac8dcdc6dc2a,33242_59308_methamphetamine_100.png
+33243,59308,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33243_processed.png,6d70f824d11bfd5ee58a2272c19fe3a0,33243_59308_methamphetamine_100.png
+33254,59308,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33254_processed.png,86f0672fba7f3bd1f50b4fcdc07b2636,33254_59308_methamphetamine_100.png
+33255,59308,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33255_processed.png,4a2c35d648b3939a36565ccbff30e00a,33255_59308_methamphetamine_100.png
+33262,59342,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33262_processed.png,ad3df00bd14539cbf38f6a2c6cca0d5c,33262_59342_methamphetamine_100.png
+33270,59342,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33270_processed.png,7fe885b36679080692495f0013b2b008,33270_59342_methamphetamine_100.png
+33282,59342,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33282_processed.png,bdc8081817a2044ff986b00e1225c277,33282_59342_methamphetamine_100.png
+33283,59342,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33283_processed.png,d6bf4074aaa95c4314ecd592b6c3b2ce,33283_59342_methamphetamine_100.png
+33264,59339,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33264_processed.png,1fea180078d0513ec3799366b01fb73c,33264_59339_methamphetamine_100.png
+33276,59339,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33276_processed.png,805c7e16f798927fad1b827af14114e5,33276_59339_methamphetamine_100.png
+33290,59339,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33290_processed.png,faaa4f874367f10a8309138c69930baf,33290_59339_methamphetamine_100.png
+33291,59339,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33291_processed.png,76d0faaef666e774689aafa2ba2b015d,33291_59339_methamphetamine_100.png
+33325,59562,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33325_processed.png,be273fd1c33e928888d0386d3f1b865e,33325_59562_methamphetamine_100.png
+33339,59562,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33339_processed.png,2d7c243d5a737c799959d519be552681,33339_59562_methamphetamine_100.png
+33346,59562,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33346_processed.png,8e671e4e6577ea1af07115ed927f9ada,33346_59562_methamphetamine_100.png
+33347,59562,methamphetamine,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33347_processed.png,6f1a345f3fe6e1afa38e4d2db36b631e,33347_59562_methamphetamine_100.png
+33348,59562,methamphetamine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33348_processed.png,d2f299923300d59d32952f7e35ffdb8b,33348_59562_methamphetamine_100.png
+33365,59011,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33365_processed.png,4a14b84863fe53290628a075cbc78ace,33365_59011_heroin_100.png
+33380,59011,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33380_processed.png,613ce101980e5b9a5c634bef234b0cc3,33380_59011_heroin_100.png
+33396,59011,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33396_processed.png,f62ac8bf01cc3a102daeaab8c52104ef,33396_59011_heroin_100.png
+33397,59011,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33397_processed.png,8f2530ca9094238adce0df0e5ae49c69,33397_59011_heroin_100.png
+47328,59011,,100,iPhone,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47328_processed.png,a4ebce95ad0083b38cc4a49e50173efc,47328_59011__100.png
+47329,59011,Cocos,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47329_processed.png,41e71a8d55ceff597ded25f0f07090be,47329_59011_Cocos_100.png
+47341,59011,Heroin,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47341_processed.png,3f28b349db1e0d44334efddee9dda17d,47341_59011_Heroin_100.png
+47488,59011,Heroin,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47488_processed.png,b59db4c9af52f5e1d013d8e3cdbbdcaa,47488_59011_Heroin_100.png
+47489,59011,Heroin,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47489_processed.png,da6a21d9649096b4d8d822b5570fe12b,47489_59011_Heroin_100.png
+47504,59011,,100,iPhone,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47504_processed.png,4fca803cf9c73a09e424d62cb8bf8046,47504_59011__100.png
+47505,59011,Cocos,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47505_processed.png,d304908f05c58cda2c1815a559077307,47505_59011_Cocos_100.png
+33368,59010,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33368_processed.png,384e0b4dc17b27ce436836d5172b4549,33368_59010_heroin_100.png
+33379,59010,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33379_processed.png,1930c164d3c298cce2a3894ab35165a8,33379_59010_heroin_100.png
+33392,59010,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33392_processed.png,58a7e338d30a42816eaee92e6ceee7d8,33392_59010_heroin_100.png
+33393,59010,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33393_processed.png,ddab0c6f1da1f9161e42ae1b79d610b1,33393_59010_heroin_100.png
+47502,59010,Heroin,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47502_processed.png,20add15765f4adae892f987be2275cd9,47502_59010_Heroin_100.png
+47503,59010,,100,iPhone,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47503_processed.png,29c8abe17fb37d8bcb42cddff330b8ae,47503_59010__100.png
+33370,59037,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33370_processed.png,a36ac786d5eb1ffe7b358c8c3eed9bcc,33370_59037_heroin_100.png
+33375,59037,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33375_processed.png,b895260ad6af198922d7721af00bf963,33375_59037_heroin_100.png
+33390,59037,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33390_processed.png,cc5bf1795b95246d6b0e23ea0a81d3d8,33390_59037_heroin_100.png
+33391,59037,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33391_processed.png,1249cdd7338220721410e0c819f4884e,33391_59037_heroin_100.png
+47351,59037,Heroin,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47351_processed.png,0984fddd92cf69f70189ec9f2b2c543e,47351_59037_Heroin_100.png
+47352,59037,Cocos,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47352_processed.png,fa14ec4e0ff1f88a8584cadf6099aaaa,47352_59037_Cocos_100.png
+47353,59037,Heroin,100,samsung SM-A528B,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/47353_processed.png,ba499c01879b75e449d009590960e89b,47353_59037_Heroin_100.png
+33403,59131,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33403_processed.png,77a44d291731a55e745e457d572347d3,33403_59131_heroin_100.png
+33407,59131,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33407_processed.png,c4a3f467648a9bf8339ab5096356ffbd,33407_59131_heroin_100.png
+33432,59131,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33432_processed.png,3baace72444ba9a2ca304b709ec517b3,33432_59131_heroin_100.png
+33433,59131,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33433_processed.png,f196cc1b4e5192226c0a7e417c346394,33433_59131_heroin_100.png
+33438,59133,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33438_processed.png,4fc49931e0d0eab349fcba29e796901b,33438_59133_heroin_100.png
+33444,59133,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33444_processed.png,16cf22fe872e69f79cfbd8818dad242f,33444_59133_heroin_100.png
+33452,59133,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33452_processed.png,4346cfbbfa4d9853d1d178c52ce5cd7e,33452_59133_heroin_100.png
+33453,59133,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33453_processed.png,fc7a7c727eb58f533fb35afb958b150b,33453_59133_heroin_100.png
+33501,59085,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33501_processed.png,fd05dcbed51f8be891790e1ee40ea1b2,33501_59085_heroin_100.png
+33507,59085,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33507_processed.png,457955b20ccfa812842fb44649b60ffd,33507_59085_heroin_100.png
+33521,59085,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33521_processed.png,98050727184c1105502e301699643da0,33521_59085_heroin_100.png
+33522,59085,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33522_processed.png,0ab765c6b055f34b869866fac4f6ecf4,33522_59085_heroin_100.png
+33527,59691,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33527_processed.png,2ed03335c65ebaaf6ea76d5833342767,33527_59691_heroin_100.png
+33530,59691,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33530_processed.png,18386f02adebf315f23445bf9cf4999d,33530_59691_heroin_100.png
+33542,59691,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33542_processed.png,77725ed4a9a3a022488471722dce23e4,33542_59691_heroin_100.png
+33543,59691,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33543_processed.png,8a0c0d00942f7cfd309bc2681f7c38ba,33543_59691_heroin_100.png
+33534,59281,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33534_processed.png,497f3f773c3cc09a178a01de1e3ffe38,33534_59281_heroin_100.png
+33551,59281,heroin,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33551_processed.png,85b85ed27743888a3cb7944ff79cc131,33551_59281_heroin_100.png
+33552,59281,heroin,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/30000/33552_processed.png,5778dc13ac5e1bcbf9f6f8eec14f2403,33552_59281_heroin_100.png
+46187,69204,Lactose,100,iPad,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46187_processed.png,fd84d5443b61c5d10a5c0048ec52f959,46187_69204_Lactose_100.png
+46189,69204,Lactose,100,iPad,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46189_processed.png,01ae32125095ca04c28ea82a22799249,46189_69204_Lactose_100.png
+46200,69204,Cocaine HCL,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46200_processed.png,5a77fc6b6aafa60a84489573011f989c,46200_69204_Cocaine HCL_100.png
+46209,69204,Cocaine HCL,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46209_processed.png,95348360906c75bb6d3fd28190125588,46209_69204_Cocaine HCL_100.png
+46215,65163,Lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46215_processed.png,11758b3a538c44df5d8247ed0c7f838c,46215_65163_Lactose_100.png
+46222,65163,Lactose,100,iPad,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46222_processed.png,7b3c2b05a1346f990cbd820bdcced37c,46222_65163_Lactose_100.png
+46223,65163,Lactose,100,iPad,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46223_processed.png,563d2fafa68fbeee1ed737e6aa4ce9ab,46223_65163_Lactose_100.png
+46239,65163,Lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46239_processed.png,ffcb13465a804c3ff2212606c62118c9,46239_65163_Lactose_100.png
+46247,69203,Lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46247_processed.png,ab2bf01eeb2a6ad560dd9a8f63a7c9f1,46247_69203_Lactose_100.png
+46255,69203,Lactose,100,iPad,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46255_processed.png,023635f332e33c9dc599f68cc59010a3,46255_69203_Lactose_100.png
+46262,69203,Lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46262_processed.png,0850e6ca6861051760363dba47a1a4d3,46262_69203_Lactose_100.png
+46283,69212,Diphenhydramine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46283_processed.png,07f87272baa212e398659ec534b4db01,46283_69212_Diphenhydramine_100.png
+46289,69223,Lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46289_processed.png,ffb1175cb2a5729a5aaee72d3bfffe67,46289_69223_Lactose_100.png
+46296,69356,Lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46296_processed.png,9bd5e8d4300b51f3195ba9ca87f49d10,46296_69356_Lactose_100.png
+46297,69221,Lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46297_processed.png,f662490a89ab384c0a60538436f6df58,46297_69221_Lactose_100.png
+46300,69383,Lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46300_processed.png,3f9449e61f70f7cb6265561ee5e149c9,46300_69383_Lactose_100.png
+46302,69216,Lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46302_processed.png,53b78ecfc7ee14f918e89c29cb519562,46302_69216_Lactose_100.png
+46306,69358,Lactose,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46306_processed.png,1be079db5b50d3088abf2534c635341a,46306_69358_Lactose_100.png
+46315,69331,Lactose,50,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46315_processed.png,0a38e21cce39d1bc9271df5f3e4b292e,46315_69331_Lactose_50.png
+46319,69313,Cocaine HCL,20,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46319_processed.png,d527dc420187ba6386b7992a6fe63849,46319_69313_Cocaine HCL_20.png
+46349,69262,Crack Cocaine,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46349_processed.png,09d014e81e0c07a69b285443f433ce74,46349_69262_Crack Cocaine_100.png
+46358,69326,Cocaine HCL,100,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46358_processed.png,e8598bdde23945a52c9599f7470f10d8,46358_69326_Cocaine HCL_100.png
+46398,69300,Crack Cocaine,80,Google Pixel 3a,https://pad.crc.nd.edu/var/www/html/images/padimages/processed/40000/46398_processed.png,2533cecf1603279cd088b5a8f54e9ada,46398_69300_Crack Cocaine_80.png
