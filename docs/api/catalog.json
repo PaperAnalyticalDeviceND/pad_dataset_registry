@@ -121,8 +121,8 @@
         ]
       }
     ],
-    "url": "/datasets/FHI2020_Stratified_Sampling",
-    "apiUrl": "/api/datasets/FHI2020_Stratified_Sampling.json"
+    "url": "/pad_dataset_registry/datasets/FHI2020_Stratified_Sampling",
+    "apiUrl": "/pad_dataset_registry/api/datasets/FHI2020_Stratified_Sampling.json"
   },
   {
     "name": "FHI2021",
@@ -137,8 +137,8 @@
       "columns": []
     },
     "dataSplits": [],
-    "url": "/datasets/FHI2021",
-    "apiUrl": "/api/datasets/FHI2021.json"
+    "url": "/pad_dataset_registry/datasets/FHI2021",
+    "apiUrl": "/pad_dataset_registry/api/datasets/FHI2021.json"
   },
   {
     "name": "FHI2022",
@@ -153,8 +153,8 @@
       "columns": []
     },
     "dataSplits": [],
-    "url": "/datasets/FHI2022",
-    "apiUrl": "/api/datasets/FHI2022.json"
+    "url": "/pad_dataset_registry/datasets/FHI2022",
+    "apiUrl": "/pad_dataset_registry/api/datasets/FHI2022.json"
   },
   {
     "name": "FHI360_FHI2020-FHI2022_MidTrainingSet_Good_v1.0",
@@ -294,8 +294,8 @@
         ]
       }
     ],
-    "url": "/datasets/FHI360_FHI2020-FHI2022_MidTrainingSet_Good_v1.0",
-    "apiUrl": "/api/datasets/FHI360_FHI2020-FHI2022_MidTrainingSet_Good_v1.0.json"
+    "url": "/pad_dataset_registry/datasets/FHI360_FHI2020-FHI2022_MidTrainingSet_Good_v1.0",
+    "apiUrl": "/pad_dataset_registry/api/datasets/FHI360_FHI2020-FHI2022_MidTrainingSet_Good_v1.0.json"
   },
   {
     "name": "FHI360_FHI2020_MidTrainingSet-Zero_Good_v1.1",
@@ -435,8 +435,8 @@
         ]
       }
     ],
-    "url": "/datasets/FHI360_FHI2020_MidTrainingSet-Zero_Good_v1.1",
-    "apiUrl": "/api/datasets/FHI360_FHI2020_MidTrainingSet-Zero_Good_v1.1.json"
+    "url": "/pad_dataset_registry/datasets/FHI360_FHI2020_MidTrainingSet-Zero_Good_v1.1",
+    "apiUrl": "/pad_dataset_registry/api/datasets/FHI360_FHI2020_MidTrainingSet-Zero_Good_v1.1.json"
   },
   {
     "name": "FHI360_FHI2020_MidTrainingSet_Good_v1.0",
@@ -560,8 +560,8 @@
         ]
       }
     ],
-    "url": "/datasets/FHI360_FHI2020_MidTrainingSet_Good_v1.0",
-    "apiUrl": "/api/datasets/FHI360_FHI2020_MidTrainingSet_Good_v1.0.json"
+    "url": "/pad_dataset_registry/datasets/FHI360_FHI2020_MidTrainingSet_Good_v1.0",
+    "apiUrl": "/pad_dataset_registry/api/datasets/FHI360_FHI2020_MidTrainingSet_Good_v1.0.json"
   },
   {
     "name": "FHI360_FHI360-FHI2020_BalancedData_v1.0",
@@ -730,8 +730,8 @@
         ]
       }
     ],
-    "url": "/datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0",
-    "apiUrl": "/api/datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0.json"
+    "url": "/pad_dataset_registry/datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0",
+    "apiUrl": "/pad_dataset_registry/api/datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0.json"
   },
   {
     "name": "Veripad_ChemoPAD-idPAD2.4_v1.0",
@@ -871,7 +871,7 @@
         ]
       }
     ],
-    "url": "/datasets/Veripad_ChemoPAD-idPAD2.4_v1.0",
-    "apiUrl": "/api/datasets/Veripad_ChemoPAD-idPAD2.4_v1.0.json"
+    "url": "/pad_dataset_registry/datasets/Veripad_ChemoPAD-idPAD2.4_v1.0",
+    "apiUrl": "/pad_dataset_registry/api/datasets/Veripad_ChemoPAD-idPAD2.4_v1.0.json"
   }
 ]
