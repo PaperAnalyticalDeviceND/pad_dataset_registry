@@ -1,0 +1,230 @@
+{
+  "@context": {
+    "@language": "en",
+    "cr": "http://mlcommons.org/croissant/",
+    "schema": "http://schema.org/",
+    "dct": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "@vocab": "http://mlcommons.org/croissant/",
+    "name": "schema:name",
+    "description": "schema:description",
+    "version": "schema:version",
+    "datePublished": {
+      "@id": "schema:datePublished",
+      "@type": "xsd:dateTime"
+    },
+    "license": {
+      "@id": "schema:license",
+      "@type": "@id"
+    },
+    "creator": "schema:creator",
+    "recordCount": {
+      "@id": "cr:recordCount",
+      "@type": "xsd:integer"
+    },
+    "fileCount": {
+      "@id": "cr:fileCount",
+      "@type": "xsd:integer"
+    },
+    "distribution": "schema:distribution",
+    "contentUrl": {
+      "@id": "schema:contentUrl",
+      "@type": "@id"
+    },
+    "encodingFormat": "schema:encodingFormat",
+    "sha256": "cr:sha256"
+  },
+  "@id": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/ec795cce057d5892d8defd14fa165de7f173a1f2/datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0",
+  "@type": [
+    "cr:Dataset",
+    "schema:Dataset"
+  ],
+  "name": "FHI360_FHI360-FHI2020_BalancedData_v1.0",
+  "description": "Dataset: FHI360_FHI360-FHI2020_BalancedData_v1.0 from PaperAnalyticalDeviceND/pad_dataset_registry",
+  "version": "ec795cc",
+  "datePublished": "2025-03-24T15:16:49Z",
+  "license": "https://www.apache.org/licenses/LICENSE-2.0",
+  "creator": {
+    "@type": "schema:Person",
+    "name": "chrissweet",
+    "url": "https://github.com/PaperAnalyticalDeviceND"
+  },
+  "publisher": {
+    "@type": "schema:Organization",
+    "name": "PaperAnalyticalDeviceND",
+    "url": "https://github.com/PaperAnalyticalDeviceND"
+  },
+  "url": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0",
+  "sameAs": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/ec795cce057d5892d8defd14fa165de7f173a1f2/datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "FHI360_FHI360-FHI2020_BalancedData_v1.0",
+    "machine learning",
+    "computer vision",
+    "dataset"
+  ],
+  "citations": [],
+  "distribution": [
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0/metadata_dev.csv",
+      "name": "metadata_dev.csv",
+      "description": "Train dataset for FHI360_FHI360-FHI2020_BalancedData_v1.0",
+      "contentUrl": "https://raw.githubusercontent.com/PaperAnalyticalDeviceND/pad_dataset_registry/ec795cce057d5892d8defd14fa165de7f173a1f2/datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0/metadata_dev.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "b94ce2bd34e7aaf12c5718182e3d9548d6b08486f967afe33afa9159f00beb9d",
+      "dateModified": "2025-03-24T15:16:49Z",
+      "contentSize": "1271313 bytes",
+      "inLanguage": "en"
+    },
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0/metadata_val.csv",
+      "name": "metadata_val.csv",
+      "description": "Validation dataset for FHI360_FHI360-FHI2020_BalancedData_v1.0",
+      "contentUrl": "https://raw.githubusercontent.com/PaperAnalyticalDeviceND/pad_dataset_registry/ec795cce057d5892d8defd14fa165de7f173a1f2/datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0/metadata_val.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "f5d31ea89fa19b7cf05c725f3f0ec084f472f0e3f7efa37255d4a0fe306b8946",
+      "dateModified": "2025-03-24T15:16:49Z",
+      "contentSize": "531804 bytes",
+      "inLanguage": "en"
+    },
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0/metadata_test.csv",
+      "name": "metadata_test.csv",
+      "description": "Test dataset for FHI360_FHI360-FHI2020_BalancedData_v1.0",
+      "contentUrl": "https://raw.githubusercontent.com/PaperAnalyticalDeviceND/pad_dataset_registry/ec795cce057d5892d8defd14fa165de7f173a1f2/datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0/metadata_test.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "ca3e13f7f45a8f058bcddfdb47e2edee52217ec3728cef79a2fdabf020997c4e",
+      "dateModified": "2025-03-24T15:16:49Z",
+      "contentSize": "312449 bytes",
+      "inLanguage": "en"
+    },
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0/projects.csv",
+      "name": "projects.csv",
+      "description": "Projects dataset for FHI360_FHI360-FHI2020_BalancedData_v1.0",
+      "contentUrl": "https://raw.githubusercontent.com/PaperAnalyticalDeviceND/pad_dataset_registry/ec795cce057d5892d8defd14fa165de7f173a1f2/datasets/FHI360_FHI360-FHI2020_BalancedData_v1.0/projects.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "0c7c5f018d5648bd903edb73b2ec350371bc4224c1c8f9a7f334d6b17ef4d00f",
+      "dateModified": "2025-03-24T15:16:49Z",
+      "contentSize": "14 bytes",
+      "inLanguage": "en"
+    }
+  ],
+  "recordCount": 10483,
+  "fileCount": 4,
+  "temporalCoverage": "2025-03-24",
+  "datasetSchema": {
+    "@type": "cr:TableSchema",
+    "columns": [
+      {
+        "@type": "xsd:string",
+        "name": "camera_type_1",
+        "description": "Column: camera_type_1",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:integer",
+        "name": "quantity",
+        "description": "Column: quantity",
+        "dataType": "integer"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "sample_name",
+        "description": "Column: sample_name",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "image_name",
+        "description": "Column: image_name",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:anyURI",
+        "name": "processed_file_location",
+        "description": "Column: processed_file_location",
+        "dataType": "url"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "md5_hash",
+        "description": "Column: md5_hash",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:integer",
+        "name": "sample_id",
+        "description": "Column: sample_id",
+        "dataType": "integer"
+      },
+      {
+        "@type": "xsd:integer",
+        "name": "id",
+        "description": "Column: id",
+        "dataType": "integer"
+      }
+    ]
+  },
+  "dataSplits": [
+    {
+      "@type": "cr:DataSplit",
+      "name": "train",
+      "description": "Training data split",
+      "recordCount": 6300,
+      "splits": [
+        {
+          "@type": "schema:PropertyValue",
+          "propertyID": "train",
+          "value": "train"
+        }
+      ]
+    },
+    {
+      "@type": "cr:DataSplit",
+      "name": "validation",
+      "description": "Validation data split",
+      "recordCount": 2632,
+      "splits": [
+        {
+          "@type": "schema:PropertyValue",
+          "propertyID": "validation",
+          "value": "validation"
+        }
+      ]
+    },
+    {
+      "@type": "cr:DataSplit",
+      "name": "test",
+      "description": "Test data split",
+      "recordCount": 1550,
+      "splits": [
+        {
+          "@type": "schema:PropertyValue",
+          "propertyID": "test",
+          "value": "test"
+        }
+      ]
+    }
+  ]
+}

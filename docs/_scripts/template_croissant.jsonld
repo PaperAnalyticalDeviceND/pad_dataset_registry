@@ -34,19 +34,19 @@
     "encodingFormat": "schema:encodingFormat",
     "sha256": "cr:sha256"
   },
-  "@id": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/FHI2020_Stratified_Sampling",
+  "@id": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/DATASET_NAME",
   "@type": [
     "cr:Dataset",
     "schema:Dataset"
   ],
-  "name": "FHI2020_Stratified_Sampling",
-  "description": "Enhanced approach to selecting training/test sets for the FHI2020 dataset",
-  "version": "1.0",
-  "datePublished": "2025-03-24T15:15:09Z",
+  "name": "DATASET_NAME",
+  "description": "DATASET_DESCRIPTION",
+  "version": "VERSION",
+  "datePublished": "YYYY-MM-DDTHH:MM:SSZ",
   "license": "https://www.apache.org/licenses/LICENSE-2.0",
   "creator": {
     "@type": "schema:Person",
-    "name": "Chris Sweet",
+    "name": "CREATOR_NAME",
     "url": "https://github.com/PaperAnalyticalDeviceND"
   },
   "publisher": {
@@ -54,7 +54,7 @@
     "name": "PaperAnalyticalDeviceND",
     "url": "https://github.com/PaperAnalyticalDeviceND"
   },
-  "url": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/FHI2020_Stratified_Sampling",
+  "url": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/DATASET_NAME",
   "isAccessibleForFree": true,
   "keywords": [
     "DATASET_NAME",
@@ -70,14 +70,14 @@
         "schema:MediaObject",
         "schema:DataDownload"
       ],
-      "@id": "datasets/FHI2020_Stratified_Sampling/metadata_dev.csv",
+      "@id": "datasets/DATASET_NAME/metadata_dev.csv",
       "name": "metadata_dev.csv",
-      "description": "Train dataset for FHI2020_Stratified_Sampling",
-      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/FHI2020_Stratified_Sampling/metadata_dev.csv",
+      "description": "Train dataset for DATASET_NAME",
+      "contentUrl": "https://raw.githubusercontent.com/PaperAnalyticalDeviceND/pad_dataset_registry/main/datasets/DATASET_NAME/metadata_dev.csv",
       "encodingFormat": "text/csv",
-      "sha256": "85210047ad80da398a9aa2897e5f096e900bc7b4ce54d968cd640fdfb41c72da",
-      "dateModified": "2025-03-24T15:15:14Z",
-      "contentSize": "1208033 bytes",
+      "sha256": "SHA256_HASH",
+      "dateModified": "YYYY-MM-DDTHH:MM:SSZ",
+      "contentSize": "SIZE bytes",
       "inLanguage": "en"
     },
     {
@@ -86,70 +86,34 @@
         "schema:MediaObject",
         "schema:DataDownload"
       ],
-      "@id": "datasets/FHI2020_Stratified_Sampling/metadata_test.csv",
+      "@id": "datasets/DATASET_NAME/metadata_test.csv",
       "name": "metadata_test.csv",
-      "description": "Test dataset for FHI2020_Stratified_Sampling",
-      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/FHI2020_Stratified_Sampling/metadata_test.csv",
+      "description": "Test dataset for DATASET_NAME",
+      "contentUrl": "https://raw.githubusercontent.com/PaperAnalyticalDeviceND/pad_dataset_registry/main/datasets/DATASET_NAME/metadata_test.csv",
       "encodingFormat": "text/csv",
-      "sha256": "b82e3e69a7c2e50abfa92c018a351cc576b83fd19ceff66ff04ce56dbc9cd7e0",
-      "dateModified": "2025-03-24T15:15:14Z",
-      "contentSize": "423860 bytes",
+      "sha256": "SHA256_HASH",
+      "dateModified": "YYYY-MM-DDTHH:MM:SSZ",
+      "contentSize": "SIZE bytes",
       "inLanguage": "en"
     }
   ],
-  "recordCount": 8001,
-  "fileCount": 2,
+  "recordCount": 0,
+  "fileCount": 0,
   "temporalCoverage": "DATE",
   "datasetSchema": {
     "@type": "cr:TableSchema",
     "columns": [
       {
-        "@type": "xsd:integer",
-        "name": "id",
-        "description": "Column: id",
-        "dataType": "integer"
-      },
-      {
-        "@type": "xsd:integer",
-        "name": "sample_id",
-        "description": "Column: sample_id",
-        "dataType": "integer"
-      },
-      {
         "@type": "xsd:string",
-        "name": "sample_name",
-        "description": "Column: sample_name",
+        "name": "column_name_1",
+        "description": "Column: column_name_1",
         "dataType": "string"
       },
       {
         "@type": "xsd:integer",
-        "name": "quantity",
-        "description": "Column: quantity",
+        "name": "column_name_2",
+        "description": "Column: column_name_2",
         "dataType": "integer"
-      },
-      {
-        "@type": "xsd:string",
-        "name": "camera_type_1",
-        "description": "Column: camera_type_1",
-        "dataType": "string"
-      },
-      {
-        "@type": "xsd:string",
-        "name": "url",
-        "description": "Column: url",
-        "dataType": "string"
-      },
-      {
-        "@type": "xsd:string",
-        "name": "hashlib_md5",
-        "description": "Column: hashlib_md5",
-        "dataType": "string"
-      },
-      {
-        "@type": "xsd:string",
-        "name": "image_name",
-        "description": "Column: image_name",
-        "dataType": "string"
       }
     ]
   },
@@ -158,7 +122,7 @@
       "@type": "cr:DataSplit",
       "name": "train",
       "description": "Training data split",
-      "recordCount": 5923,
+      "recordCount": 0,
       "splits": [
         {
           "@type": "schema:PropertyValue",
@@ -171,7 +135,7 @@
       "@type": "cr:DataSplit",
       "name": "test",
       "description": "Test data split",
-      "recordCount": 2078,
+      "recordCount": 0,
       "splits": [
         {
           "@type": "schema:PropertyValue",

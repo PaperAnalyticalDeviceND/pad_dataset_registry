@@ -1,68 +1,89 @@
 # PAD Dataset Registry
 
-Welcome to the PAD Dataset Registry! This repository is a curated collection of datasets employed in PAD (Paper Analytical Device) projects.\
-Here, we organize and store dataset metadata, which facilitates the use and management of datasets across various PAD initiatives.
+A repository of Paper Analytical Device (PAD) datasets for machine learning models, formatted according to the [MLCommons Croissant specification](http://mlcommons.org/croissant/).
 
-Please note that actual dataset images are not stored on GitHub. We use [Data Version Control (DVC)](https://dvc.org/doc/use-cases/data-registry) to handle large datasets, which allows for efficient downloading of images directly via DVC commands.
+## About Paper Analytical Devices
 
-In case you don't have access to a computer that you can install DVC on, you can still access the datasets through scripts that utilize the metadata available for the *Google Colab platform*.\
-For more information on how to access the datasets using Google Colab, please refer to the [Google Colab Instructions](gcolab_instructions/README.md).
+Paper Analytical Devices (PADs) are test cards that can quickly determine whether a drug tablet contains the correct medicines. They are cheap and easy to use, requiring no power, chemicals, solvents, or expensive instruments.
 
+PADs work by performing twelve chemical tests on a drug sample and producing a distinctive color barcode that is analyzed to identify the chemical composition of the drug. If a falsified version of the medicine lacks the active ingredient or includes substitute fillers, the difference in color is perceivable by a trained human evaluator or machine learning model.
 
-## Accessing Datasets
-Requirements: dvc, dvc-gdrive and Git installed on your computer.
+## Repository Structure
 
-If you are using python, here is an example of how to set up a environment then install `dvc` and `dvc-gdrive`.
-In your terminal, run the following commands:
+- **datasets/**: Contains the dataset directories, each with:
+  - `croissant.jsonld`: The Croissant metadata file
+  - `metadata_dev.csv`: The training dataset metadata
+  - `metadata_test.csv`: The test dataset metadata
+  - `metadata_val.csv`: The validation dataset metadata (optional)
+  - `labels.csv`: The dataset labels (optional)
+  - `projects.csv`: The project metadata (optional)
 
-```bash
-# Create a virtual environment in the directory you want to download the datasets
-python3 -m venv .venv
+- **docs/**: Contains the GitHub Pages website for browsing and accessing the datasets
+  - `_layouts/`: Jekyll layout templates
+  - `assets/`: CSS, JS, and images
+  - `_data/`: Data files for Jekyll
+  - `api/`: API endpoints for Croissant-compliant data access
+  - `datasets/`: Dataset pages for browsing
 
-# Activate the virtual environment
-source .venv/bin/activate
+## Dataset Server
 
-# Install dvc and dvc-gdrive
-pip install dvc dvc-gdrive
+This repository includes a GitHub Pages website that serves as a dataset server. The server provides:
 
+1. **Dataset Catalog**: A browsable catalog of all available datasets
+2. **Dataset Pages**: Detailed information about each dataset
+3. **Croissant API**: APIs for programmatically accessing the datasets
+4. **Documentation**: Information about the datasets and how to use them
+
+The server is automatically updated when changes are made to the repository through GitHub Actions.
+
+### API Endpoints
+
+The following API endpoints are available:
+
+- `/api/catalog.json`: A catalog of all available datasets
+- `/api/datasets/{dataset-name}.json`: The Croissant metadata for a specific dataset
+
+## Getting Started
+
+### Using the Datasets
+
+To use a dataset in a machine learning project, you can access it through the catalog API:
+
+```python
+import requests
+import pandas as pd
+
+# Get the catalog
+catalog = requests.get('https://paperanalyticaldevicend.github.io/pad_dataset_registry/api/catalog.json').json()
+
+# Get metadata for a specific dataset
+dataset_name = 'FHI2020_Stratified_Sampling'
+dataset_info = requests.get(f'https://paperanalyticaldevicend.github.io/pad_dataset_registry/api/datasets/{dataset_name}.json').json()
+
+# Download training data
+train_data_url = next(item['contentUrl'] for item in dataset_info['distribution'] if item['name'] == 'metadata_dev.csv')
+train_df = pd.read_csv(train_data_url)
+
+# Download test data
+test_data_url = next(item['contentUrl'] for item in dataset_info['distribution'] if item['name'] == 'metadata_test.csv')
+test_df = pd.read_csv(test_data_url)
 ```
 
-### List Available Datasets 
+### Contributing a New Dataset
 
-To see the list of datasets available in the registry, you have two options:
+To add a new dataset to the registry:
 
-- Examine the `datasets` directory in this repository.
-- Use the DVC command to list the datasets:
+1. Create a new directory in the `datasets` folder with your dataset name
+2. Add the required files to the directory:
+   - `croissant.jsonld`: The Croissant metadata file
+   - `metadata_dev.csv`: The training dataset metadata
+   - `metadata_test.csv`: The test dataset metadata
 
-    ```bash
-    dvc list https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry datasets
-    ```
+3. Push your changes to the repository. GitHub Actions will automatically:
+   - Validate your Croissant metadata
+   - Generate the dataset catalog
+   - Build and deploy the website
 
-### Download Datasets 
+## License
 
-You can download datasets from the registry using the DVC command. For example, to download the `FHI2020_Stratified_Sampling` dataset, use the following command:
-
-```bash
-dvc get https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry datasets/FHI2020_Stratified_Sampling
-```
-
-This command will download all the dataset images and metadata to your local machine.
-For getting a specific file, for example `metadata_dev.csv`, you can use the following command:
-
-```bash
- dvc get https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry datasets/FHI2020_Stratified_Sampling/metadata_dev.csv
-```
-
-## Dataset Structure
-
-In the registry, each dataset is contained within its own directory and includes specific metadata and DVC files:
-
-- `metadata_dev.csv` - Metadata for the development dataset.
-- `metadata_test.csv` - Metadata for the test dataset.
-- `reports/` - A directory containing reports related to the dataset.
-- `dev_images.dvc` - A DVC file that links to the development images in remote storage.
-- `test_images.dvc` - A DVC file that links to the test images in remote storage.
-
-These files ensure that datasets are well-documented and that image retrieval is straightforward for researchers and contributors working on PAD projects.
-
-Thank you for contributing to or using the PAD Dataset Registry. We are committed to supporting your research and development efforts in the field of PAD.
+This repository and the datasets within it are licensed under the [Apache License 2.0](LICENSE).
