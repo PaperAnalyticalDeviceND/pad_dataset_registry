@@ -1,0 +1,201 @@
+{
+  "@context": {
+    "@language": "en",
+    "cr": "http://mlcommons.org/croissant/",
+    "schema": "http://schema.org/",
+    "dct": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "@vocab": "http://mlcommons.org/croissant/",
+    "name": "schema:name",
+    "description": "schema:description",
+    "version": "schema:version",
+    "datePublished": {
+      "@id": "schema:datePublished",
+      "@type": "xsd:dateTime"
+    },
+    "license": {
+      "@id": "schema:license",
+      "@type": "@id"
+    },
+    "creator": "schema:creator",
+    "recordCount": {
+      "@id": "cr:recordCount",
+      "@type": "xsd:integer"
+    },
+    "fileCount": {
+      "@id": "cr:fileCount",
+      "@type": "xsd:integer"
+    },
+    "distribution": "schema:distribution",
+    "contentUrl": {
+      "@id": "schema:contentUrl",
+      "@type": "@id"
+    },
+    "encodingFormat": "schema:encodingFormat",
+    "sha256": "cr:sha256"
+  },
+  "@id": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/ec795cce057d5892d8defd14fa165de7f173a1f2/datasets/Veripad_ChemoPAD-idPAD2.4_v1.0",
+  "@type": [
+    "cr:Dataset",
+    "schema:Dataset"
+  ],
+  "name": "Veripad_ChemoPAD-idPAD2.4_v1.0",
+  "description": "Dataset: Veripad_ChemoPAD-idPAD2.4_v1.0 from PaperAnalyticalDeviceND/pad_dataset_registry",
+  "version": "ec795cc",
+  "datePublished": "2025-03-24T15:16:49Z",
+  "license": "https://www.apache.org/licenses/LICENSE-2.0",
+  "creator": {
+    "@type": "schema:Person",
+    "name": "chrissweet",
+    "url": "https://github.com/PaperAnalyticalDeviceND"
+  },
+  "publisher": {
+    "@type": "schema:Organization",
+    "name": "PaperAnalyticalDeviceND",
+    "url": "https://github.com/PaperAnalyticalDeviceND"
+  },
+  "url": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/Veripad_ChemoPAD-idPAD2.4_v1.0",
+  "sameAs": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/ec795cce057d5892d8defd14fa165de7f173a1f2/datasets/Veripad_ChemoPAD-idPAD2.4_v1.0",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "Veripad_ChemoPAD-idPAD2.4_v1.0",
+    "machine learning",
+    "computer vision",
+    "dataset"
+  ],
+  "citations": [],
+  "distribution": [
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/Veripad_ChemoPAD-idPAD2.4_v1.0/metadata_dev.csv",
+      "name": "metadata_dev.csv",
+      "description": "Train dataset for Veripad_ChemoPAD-idPAD2.4_v1.0",
+      "contentUrl": "https://raw.githubusercontent.com/PaperAnalyticalDeviceND/pad_dataset_registry/ec795cce057d5892d8defd14fa165de7f173a1f2/datasets/Veripad_ChemoPAD-idPAD2.4_v1.0/metadata_dev.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "d8a38ec1b5400766c20498dea2115e6b1ec8fe6ae933b912da4b79c5a7bfeb65",
+      "dateModified": "2025-03-24T15:16:49Z",
+      "contentSize": "222753 bytes",
+      "inLanguage": "en"
+    },
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/Veripad_ChemoPAD-idPAD2.4_v1.0/metadata_test.csv",
+      "name": "metadata_test.csv",
+      "description": "Test dataset for Veripad_ChemoPAD-idPAD2.4_v1.0",
+      "contentUrl": "https://raw.githubusercontent.com/PaperAnalyticalDeviceND/pad_dataset_registry/ec795cce057d5892d8defd14fa165de7f173a1f2/datasets/Veripad_ChemoPAD-idPAD2.4_v1.0/metadata_test.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "22d01c765c75564a01e0659b588376e12dbf506d1165ec16cedbd8042266e810",
+      "dateModified": "2025-03-24T15:16:49Z",
+      "contentSize": "62430 bytes",
+      "inLanguage": "en"
+    },
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/Veripad_ChemoPAD-idPAD2.4_v1.0/projects.csv",
+      "name": "projects.csv",
+      "description": "Projects dataset for Veripad_ChemoPAD-idPAD2.4_v1.0",
+      "contentUrl": "https://raw.githubusercontent.com/PaperAnalyticalDeviceND/pad_dataset_registry/ec795cce057d5892d8defd14fa165de7f173a1f2/datasets/Veripad_ChemoPAD-idPAD2.4_v1.0/projects.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "c14ce97730273c294e5d6246c0381c122ace0550c8b7613cb44020e6196269f7",
+      "dateModified": "2025-03-24T15:16:49Z",
+      "contentSize": "44 bytes",
+      "inLanguage": "en"
+    }
+  ],
+  "recordCount": 1424,
+  "fileCount": 3,
+  "temporalCoverage": "2025-03-24",
+  "datasetSchema": {
+    "@type": "cr:TableSchema",
+    "columns": [
+      {
+        "@type": "xsd:string",
+        "name": "camera_type_1",
+        "description": "Column: camera_type_1",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:integer",
+        "name": "quantity",
+        "description": "Column: quantity",
+        "dataType": "integer"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "sample_name",
+        "description": "Column: sample_name",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "image_name",
+        "description": "Column: image_name",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:anyURI",
+        "name": "processed_file_location",
+        "description": "Column: processed_file_location",
+        "dataType": "url"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "md5_hash",
+        "description": "Column: md5_hash",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:integer",
+        "name": "sample_id",
+        "description": "Column: sample_id",
+        "dataType": "integer"
+      },
+      {
+        "@type": "xsd:integer",
+        "name": "id",
+        "description": "Column: id",
+        "dataType": "integer"
+      }
+    ]
+  },
+  "dataSplits": [
+    {
+      "@type": "cr:DataSplit",
+      "name": "train",
+      "description": "Training data split",
+      "recordCount": 1111,
+      "splits": [
+        {
+          "@type": "schema:PropertyValue",
+          "propertyID": "train",
+          "value": "train"
+        }
+      ]
+    },
+    {
+      "@type": "cr:DataSplit",
+      "name": "test",
+      "description": "Test data split",
+      "recordCount": 311,
+      "splits": [
+        {
+          "@type": "schema:PropertyValue",
+          "propertyID": "test",
+          "value": "test"
+        }
+      ]
+    }
+  ]
+}
