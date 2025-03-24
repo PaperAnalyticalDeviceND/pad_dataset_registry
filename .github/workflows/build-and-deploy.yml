@@ -1,0 +1,58 @@
+name: Build and Deploy GitHub Pages
+
+on:
+  push:
+    branches: [ main, dataset_server ]
+    paths:
+      - 'datasets/**'
+      - 'docs/**'
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # fetch all history
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install jsonschema pyyaml requests
+
+      - name: Validate Croissant JSONLDs
+        run: python docs/_scripts/validate_croissant.py
+      
+      - name: Generate dataset catalog
+        run: python docs/_scripts/generate_catalog.py
+      
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'
+          bundler-cache: true
+
+      - name: Install Jekyll
+        run: |
+          gem install jekyll bundler
+          cd docs
+          bundle init
+          bundle add jekyll github-pages webrick
+        
+      - name: Build Jekyll site
+        run: |
+          cd docs
+          bundle exec jekyll build --trace
+      
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: docs/_site
+          branch: gh-pages
