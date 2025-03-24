@@ -18,6 +18,9 @@ OUTPUT_DIR = os.path.join(REPO_ROOT, 'docs', '_data')
 API_DIR = os.path.join(REPO_ROOT, 'docs', 'api')
 DATASETS_API_DIR = os.path.join(API_DIR, 'datasets')
 
+# Site paths
+BASEURL = "/pad_dataset_registry"  # Set this to match _config.yml baseurl
+
 # Ensure output directories exist
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(API_DIR, exist_ok=True)
@@ -73,8 +76,9 @@ def get_dataset_metadata(dataset_dir):
             'distribution': croissant_data.get('distribution', []),
             'datasetSchema': croissant_data.get('datasetSchema', None),
             'dataSplits': croissant_data.get('dataSplits', []),
-            'url': f'/datasets/{dataset_name}',
-            'apiUrl': f'/api/datasets/{dataset_name}.json'
+            # Important: Include the baseurl in the URLs
+            'url': f"{BASEURL}/datasets/{dataset_name}",
+            'apiUrl': f"{BASEURL}/api/datasets/{dataset_name}.json"
         }
         
         # Copy the Croissant file to the API directory
