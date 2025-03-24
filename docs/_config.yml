@@ -1,6 +1,6 @@
 title: PAD Dataset Registry
 description: A repository of Paper Analytical Device (PAD) datasets for machine learning models
-baseurl: ""
+baseurl: "/pad_dataset_registry"
 url: "https://paperanalyticaldevicend.github.io"
 
 # Build settings
