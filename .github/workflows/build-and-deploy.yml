@@ -1,4 +1,4 @@
-name: Build and Deploy GitHub Pages
+name: Build and Process Dataset Catalog
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-and-deploy:
+  process-datasets:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install jsonschema pyyaml requests
+          pip install jsonschema pyyaml requests pandas
 
       - name: Validate Croissant JSONLDs
         run: python docs/_scripts/validate_croissant.py
@@ -33,26 +33,8 @@ jobs:
       - name: Generate dataset catalog
         run: python docs/_scripts/generate_catalog.py
       
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          ruby-version: '3.0'
-          bundler-cache: true
-
-      - name: Install Jekyll
-        run: |
-          gem install jekyll bundler
-          cd docs
-          bundle init
-          bundle add jekyll github-pages webrick
-        
-      - name: Build Jekyll site
-        run: |
-          cd docs
-          bundle exec jekyll build --trace
-      
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: docs/_site
-          branch: gh-pages
+          commit_message: "Update dataset catalog"
+          file_pattern: "docs/_data/* docs/api/* docs/datasets/*"
