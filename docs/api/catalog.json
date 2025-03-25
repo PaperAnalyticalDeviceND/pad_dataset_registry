@@ -871,8 +871,8 @@
     ],
     "url": "/pad_dataset_registry/datasets/TFDA_MSH-Tanzania_v2.0",
     "apiUrl": "/pad_dataset_registry/api/datasets/TFDA_MSH-Tanzania_v2.0.json",
-    "has_readme": false,
-    "readme_url": null
+    "has_readme": true,
+    "readme_url": "/pad_dataset_registry/datasets/TFDA_MSH-Tanzania_v2.0/readme"
   },
   {
     "name": "Veripad_ChemoPAD-idPAD2.4_v1.0",
