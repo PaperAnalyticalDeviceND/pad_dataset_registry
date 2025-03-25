@@ -5,12 +5,30 @@ This script scans the datasets directory, reads the croissant.jsonld files,
 and produces a catalog file for the website.
 """
 
+def fix_image_paths(readme_path, dataset_name):
+    """Modify image paths in README.md to use local files instead of GitHub URLs."""
+    if not os.path.exists(readme_path):
+        return
+    
+    with open(readme_path, 'r') as f:
+        content = f.read()
+    
+    # Replace GitHub raw content URLs with local paths
+    # Pattern for GitHub raw content: https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/DATASET/...
+    github_pattern = re.compile(r'https://github\.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/' + dataset_name + r'/([^\)"]+)')
+    # Replace with local path
+    content = github_pattern.sub(r'\1', content)
+    
+    with open(readme_path, 'w') as f:
+        f.write(content)
+
 import json
 import os
 import glob
 import shutil
 from datetime import datetime
 import hashlib
+import re
 
 # Base paths
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
@@ -149,6 +167,32 @@ dataset: {dataset_name}
             # Copy README.md to the readme directory for processing by Jekyll
             readme_dest = os.path.join(readme_dir, 'README.md')
             shutil.copy2(readme_source, readme_dest)
+            
+            # Fix image paths in the README.md to use local paths
+            fix_image_paths(readme_dest, dataset_name)
+            
+            # Copy figure/image directories if they exist
+            figs_source_dir = os.path.join(DATASETS_DIR, dataset_name, 'figs')
+            if os.path.exists(figs_source_dir):
+                figs_dest_dir = os.path.join(readme_dir, 'figs')
+                if os.path.exists(figs_dest_dir):
+                    shutil.rmtree(figs_dest_dir)
+                shutil.copytree(figs_source_dir, figs_dest_dir)
+                
+            # Also copy any other image directories that might be referenced
+            images_source_dir = os.path.join(DATASETS_DIR, dataset_name, 'images')
+            if os.path.exists(images_source_dir):
+                images_dest_dir = os.path.join(readme_dir, 'images')
+                if os.path.exists(images_dest_dir):
+                    shutil.rmtree(images_dest_dir)
+                shutil.copytree(images_source_dir, images_dest_dir)
+                
+            # Copy any image files in the same directory as README.md
+            dataset_dir = os.path.join(DATASETS_DIR, dataset_name)
+            for file in os.listdir(dataset_dir):
+                file_path = os.path.join(dataset_dir, file)
+                if os.path.isfile(file_path) and file.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.svg')):
+                    shutil.copy2(file_path, os.path.join(readme_dir, file))
             
             # Create README page with special layout
             # Create front matter with f-string for variables
