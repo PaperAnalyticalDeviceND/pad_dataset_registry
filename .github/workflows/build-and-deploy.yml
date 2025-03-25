@@ -1,0 +1,53 @@
+name: Build and Process Dataset Catalog
+on:
+  push:
+    branches: [ main, dataset_server ]
+    paths:
+      - 'datasets/**'
+      - 'docs/**'
+      - '**.md'
+  workflow_dispatch:
+
+jobs:
+  process-datasets:
+    runs-on: ubuntu-latest
+    # Add explicit permissions for GitHub token
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # fetch all history
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install jsonschema pyyaml requests pandas
+
+      - name: Validate Croissant JSONLDs
+        run: python docs/_scripts/validate_croissant.py
+      
+      - name: Generate dataset catalog
+        run: python docs/_scripts/generate_catalog.py
+      
+      # Add a debugging step to see what's in the docs directory
+      - name: Debug - List docs directory content
+        run: |
+          echo "Listing docs directory content:"
+          ls -la docs/
+          echo "Number of files in docs directory:"
+          find docs -type f | wc -l
+      
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: docs
+          branch: gh-pages
+          clean: true  # Automatically remove deleted files from the deploy branch
+          token: ${{ secrets.GITHUB_TOKEN }}  # Explicitly set the token

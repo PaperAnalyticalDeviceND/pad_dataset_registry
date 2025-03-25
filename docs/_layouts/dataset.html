@@ -1,0 +1,105 @@
+---
+layout: default
+---
+
+{% assign dataset_name = page.dataset %}
+{% assign dataset = site.data.catalog | where: "name", dataset_name | first %}
+
+<div class="dataset-header">
+  <h1>{{ dataset.name }}</h1>
+  <p class="dataset-description">{{ dataset.description }}</p>
+  
+  <div class="dataset-meta">
+    <div class="meta-item">
+      <span class="meta-label">Records:</span>
+      <span class="meta-value">{{ dataset.recordCount }}</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Files:</span>
+      <span class="meta-value">{{ dataset.fileCount }}</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Version:</span>
+      <span class="meta-value">{{ dataset.version }}</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Published:</span>
+      <span class="meta-value">{{ dataset.datePublished | date: "%Y-%m-%d" }}</span>
+    </div>
+  </div>
+  
+  <div class="dataset-actions">
+    <a href="{{ site.github.repository_url }}/tree/main/datasets/{{ dataset_name }}" class="button" target="_blank">
+      View on GitHub
+    </a>
+    <a href="{{ site.baseurl }}/api/datasets/{{ dataset_name }}.json" class="button" target="_blank">
+      Croissant JSONLD
+    </a>
+    {% if dataset.has_readme %}
+    <a href="{{ dataset.readme_url }}" class="button readme-button">
+      Documentation
+    </a>
+    {% endif %}
+  </div>
+</div>
+
+<div class="dataset-content">
+  <h2>Files</h2>
+  <table class="files-table">
+    <thead>
+      <tr>
+        <th>Filename</th>
+        <th>Description</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for file in dataset.distribution %}
+        <tr>
+          <td>{{ file.name }}</td>
+          <td>{{ file.description }}</td>
+          <td>
+            <a href="{{ file.contentUrl }}" class="button-small" target="_blank">
+              Download
+            </a>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  
+  {% if dataset.datasetSchema %}
+    <h2>Data Schema</h2>
+    <table class="schema-table">
+      <thead>
+        <tr>
+          <th>Column</th>
+          <th>Data Type</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for column in dataset.datasetSchema.columns %}
+          <tr>
+            <td>{{ column.name }}</td>
+            <td>{{ column.dataType }}</td>
+            <td>{{ column.description }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% endif %}
+  
+  {% if dataset.dataSplits %}
+    <h2>Data Splits</h2>
+    <div class="data-splits">
+      {% for split in dataset.dataSplits %}
+        <div class="split-item">
+          <h3>{{ split.name | capitalize }}</h3>
+          <p>{{ split.description }}</p>
+          <p><strong>Records:</strong> {{ split.recordCount }}</p>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+</div>
