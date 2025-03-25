@@ -151,13 +151,16 @@ dataset: {dataset_name}
             shutil.copy2(readme_source, readme_dest)
             
             # Create README page with special layout
-            readme_page = f"""---
+            # Create front matter with f-string for variables
+            front_matter = f"""---
 layout: readme
 title: {dataset_name} - Documentation
 dataset: {dataset_name}
 ---
-{% include_relative README.md %}
 """
+            # Add the Jekyll include statement separately (not inside the f-string)
+            include_statement = "{% include_relative README.md %}"
+            readme_page = front_matter + include_statement
             with open(os.path.join(readme_dir, 'index.md'), 'w') as f:
                 f.write(readme_page)
         
