@@ -35,6 +35,11 @@ layout: default
     <a href="{{ site.baseurl }}/api/datasets/{{ dataset_name }}.json" class="button" target="_blank">
       Croissant JSONLD
     </a>
+    {% if dataset.has_readme %}
+    <a href="{{ dataset.readme_url }}" class="button readme-button">
+      Documentation
+    </a>
+    {% endif %}
   </div>
 </div>
 

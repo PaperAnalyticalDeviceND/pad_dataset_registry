@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+{% assign dataset_name = page.dataset %}
+{% assign dataset = site.data.catalog | where: "name", dataset_name | first %}
+
+<div class="dataset-header">
+  <h1>{{ dataset.name }} - Documentation</h1>
+  
+  <div class="dataset-actions">
+    <a href="{{ site.baseurl }}/datasets/{{ dataset_name }}" class="button">
+      Back to Dataset
+    </a>
+    <a href="{{ site.github.repository_url }}/tree/main/datasets/{{ dataset_name }}" class="button" target="_blank">
+      View on GitHub
+    </a>
+  </div>
+</div>
+
+<div class="readme-content markdown-body">
+  {{ content }}
+</div>
+
+<style>
+  .readme-content {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  
+  .readme-content img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .readme-content table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .readme-content th, .readme-content td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .readme-content th {
+    background-color: #f2f2f2;
+  }
+  
+  .readme-content tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+</style>

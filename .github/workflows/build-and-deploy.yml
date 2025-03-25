@@ -6,6 +6,7 @@ on:
     paths:
       - 'datasets/**'
       - 'docs/**'
+      - '**.md'
   workflow_dispatch:
 
 jobs:
@@ -36,5 +37,5 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update dataset catalog"
-          file_pattern: "docs/_data/* docs/api/* docs/datasets/*"
+          commit_message: "Update dataset catalog and README files"
+          file_pattern: "docs/_data/* docs/api/* docs/datasets/**/*"

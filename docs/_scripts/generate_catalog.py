@@ -8,6 +8,7 @@ and produces a catalog file for the website.
 import json
 import os
 import glob
+import shutil
 from datetime import datetime
 import hashlib
 
@@ -51,6 +52,8 @@ def get_dataset_metadata(dataset_dir):
     """Extract metadata from a dataset directory."""
     dataset_name = os.path.basename(dataset_dir)
     croissant_path = os.path.join(dataset_dir, 'croissant.jsonld')
+    readme_path = os.path.join(dataset_dir, 'README.md')
+    has_readme = os.path.exists(readme_path)
     
     # Skip if no croissant.jsonld file
     if not os.path.exists(croissant_path):
@@ -78,7 +81,9 @@ def get_dataset_metadata(dataset_dir):
             'dataSplits': croissant_data.get('dataSplits', []),
             # Important: Include the baseurl in the URLs
             'url': f"{BASEURL}/datasets/{dataset_name}",
-            'apiUrl': f"{BASEURL}/api/datasets/{dataset_name}.json"
+            'apiUrl': f"{BASEURL}/api/datasets/{dataset_name}.json",
+            'has_readme': has_readme,
+            'readme_url': f"{BASEURL}/datasets/{dataset_name}/readme" if has_readme else None
         }
         
         # Copy the Croissant file to the API directory
@@ -124,7 +129,7 @@ def main():
         dataset_output_dir = os.path.join(REPO_ROOT, 'docs', 'datasets', dataset_name)
         os.makedirs(dataset_output_dir, exist_ok=True)
         
-        # Create page
+        # Create main dataset page
         page_content = f"""---
 layout: dataset
 title: {dataset_name}
@@ -133,6 +138,28 @@ dataset: {dataset_name}
 """
         with open(os.path.join(dataset_output_dir, 'index.md'), 'w') as f:
             f.write(page_content)
+        
+        # Create README page if available
+        readme_source = os.path.join(DATASETS_DIR, dataset_name, 'README.md')
+        if os.path.exists(readme_source):
+            # Create readme directory
+            readme_dir = os.path.join(dataset_output_dir, 'readme')
+            os.makedirs(readme_dir, exist_ok=True)
+            
+            # Copy README.md to the readme directory for processing by Jekyll
+            readme_dest = os.path.join(readme_dir, 'README.md')
+            shutil.copy2(readme_source, readme_dest)
+            
+            # Create README page with special layout
+            readme_page = f"""---
+layout: readme
+title: {dataset_name} - Documentation
+dataset: {dataset_name}
+---
+{% include_relative README.md %}
+"""
+            with open(os.path.join(readme_dir, 'index.md'), 'w') as f:
+                f.write(readme_page)
         
         print(f"Generated page for {dataset_name}")
 
