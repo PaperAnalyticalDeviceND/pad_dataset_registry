@@ -32,8 +32,3 @@ show_downloads: false
 github:
   is_project_page: true
   repository_url: https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry
-
-# SCSS/SASS settings
-sass:
-  sass_dir: _sass
-  style: compressed

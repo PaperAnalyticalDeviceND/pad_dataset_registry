@@ -1,0 +1,184 @@
+{
+  "@context": {
+    "@language": "en",
+    "cr": "http://mlcommons.org/croissant/",
+    "schema": "http://schema.org/",
+    "dct": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "@vocab": "http://mlcommons.org/croissant/",
+    "name": "schema:name",
+    "description": "schema:description",
+    "version": "schema:version",
+    "datePublished": {
+      "@id": "schema:datePublished",
+      "@type": "xsd:dateTime"
+    },
+    "license": {
+      "@id": "schema:license",
+      "@type": "@id"
+    },
+    "creator": "schema:creator",
+    "recordCount": {
+      "@id": "cr:recordCount",
+      "@type": "xsd:integer"
+    },
+    "fileCount": {
+      "@id": "cr:fileCount",
+      "@type": "xsd:integer"
+    },
+    "distribution": "schema:distribution",
+    "contentUrl": {
+      "@id": "schema:contentUrl",
+      "@type": "@id"
+    },
+    "encodingFormat": "schema:encodingFormat",
+    "sha256": "cr:sha256"
+  },
+  "@id": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/TFDA_MSH-Tanzania_v2.0",
+  "@type": [
+    "cr:Dataset",
+    "schema:Dataset"
+  ],
+  "name": "TFDA_MSH-Tanzania_v2.0",
+  "description": "New version of the dataset based on the MSH Tanzania project.",
+  "version": "2.0",
+  "datePublished": "2025-03-24T20:17:36Z",
+  "license": "https://www.apache.org/licenses/LICENSE-2.0",
+  "creator": {
+    "@type": "schema:Person",
+    "name": "Priscila Moreira",
+    "url": "https://github.com/PaperAnalyticalDeviceND"
+  },
+  "publisher": {
+    "@type": "schema:Organization",
+    "name": "PaperAnalyticalDeviceND",
+    "url": "https://github.com/PaperAnalyticalDeviceND"
+  },
+  "url": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/TFDA_MSH-Tanzania_v2.0",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "DATASET_NAME",
+    "machine learning",
+    "computer vision",
+    "dataset"
+  ],
+  "citations": [],
+  "distribution": [
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/TFDA_MSH-Tanzania_v2.0/metadata_dev.csv",
+      "name": "metadata_dev.csv",
+      "description": "Train dataset for TFDA_MSH-Tanzania_v2.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/TFDA_MSH-Tanzania_v2.0/metadata_dev.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "12537f48d215e905700782c6e74f03a5c5c65bd9ad2039629d70d5d7d8edae58",
+      "dateModified": "2025-03-24T20:17:48Z",
+      "contentSize": "443623 bytes",
+      "inLanguage": "en"
+    },
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/TFDA_MSH-Tanzania_v2.0/metadata_test.csv",
+      "name": "metadata_test.csv",
+      "description": "Test dataset for TFDA_MSH-Tanzania_v2.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/TFDA_MSH-Tanzania_v2.0/metadata_test.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "d5365f74fa82899c526fa16737ae5ff51f188d916ac76af944c743094c680701",
+      "dateModified": "2025-03-24T20:17:48Z",
+      "contentSize": "110965 bytes",
+      "inLanguage": "en"
+    }
+  ],
+  "recordCount": 2949,
+  "fileCount": 2,
+  "temporalCoverage": "DATE",
+  "datasetSchema": {
+    "@type": "cr:TableSchema",
+    "columns": [
+      {
+        "@type": "xsd:integer",
+        "name": "id",
+        "description": "Column: id",
+        "dataType": "integer"
+      },
+      {
+        "@type": "xsd:integer",
+        "name": "sample_id",
+        "description": "Column: sample_id",
+        "dataType": "integer"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "sample_name",
+        "description": "Column: sample_name",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:integer",
+        "name": "quantity",
+        "description": "Column: quantity",
+        "dataType": "integer"
+      },
+      {
+        "@type": "xsd:integer",
+        "name": "project.id",
+        "description": "Column: project.id",
+        "dataType": "integer"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "url",
+        "description": "Column: url",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "hashlib_md5",
+        "description": "Column: hashlib_md5",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "image_name",
+        "description": "Column: image_name",
+        "dataType": "string"
+      }
+    ]
+  },
+  "dataSplits": [
+    {
+      "@type": "cr:DataSplit",
+      "name": "train",
+      "description": "Training data split",
+      "recordCount": 2359,
+      "splits": [
+        {
+          "@type": "schema:PropertyValue",
+          "propertyID": "train",
+          "value": "train"
+        }
+      ]
+    },
+    {
+      "@type": "cr:DataSplit",
+      "name": "test",
+      "description": "Test data split",
+      "recordCount": 590,
+      "splits": [
+        {
+          "@type": "schema:PropertyValue",
+          "propertyID": "test",
+          "value": "test"
+        }
+      ]
+    }
+  ]
+}
