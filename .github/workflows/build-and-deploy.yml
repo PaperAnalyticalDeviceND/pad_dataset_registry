@@ -58,4 +58,3 @@ jobs:
       #   with:
       #     commit_message: "Update dataset catalog and README files"
       #     file_pattern: "docs/_data/* docs/api/* docs/datasets/**/*"
-
