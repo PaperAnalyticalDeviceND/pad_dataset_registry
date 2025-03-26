@@ -51,6 +51,7 @@ jobs:
           branch: gh-pages
           # Make sure this matches 'gh-pages' (with a hyphen) or use your branch name
           token: ${{ secrets.GITHUB_TOKEN }}
+          nojekyll: true
           
       # - name: Commit changes
       #   uses: stefanzweifel/git-auto-commit-action@v4
