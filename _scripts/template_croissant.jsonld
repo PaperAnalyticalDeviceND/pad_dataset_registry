@@ -1,0 +1,148 @@
+{
+  "@context": {
+    "@language": "en",
+    "cr": "http://mlcommons.org/croissant/",
+    "schema": "http://schema.org/",
+    "dct": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "@vocab": "http://mlcommons.org/croissant/",
+    "name": "schema:name",
+    "description": "schema:description",
+    "version": "schema:version",
+    "datePublished": {
+      "@id": "schema:datePublished",
+      "@type": "xsd:dateTime"
+    },
+    "license": {
+      "@id": "schema:license",
+      "@type": "@id"
+    },
+    "creator": "schema:creator",
+    "recordCount": {
+      "@id": "cr:recordCount",
+      "@type": "xsd:integer"
+    },
+    "fileCount": {
+      "@id": "cr:fileCount",
+      "@type": "xsd:integer"
+    },
+    "distribution": "schema:distribution",
+    "contentUrl": {
+      "@id": "schema:contentUrl",
+      "@type": "@id"
+    },
+    "encodingFormat": "schema:encodingFormat",
+    "sha256": "cr:sha256"
+  },
+  "@id": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/DATASET_NAME",
+  "@type": [
+    "cr:Dataset",
+    "schema:Dataset"
+  ],
+  "name": "DATASET_NAME",
+  "description": "DATASET_DESCRIPTION",
+  "version": "VERSION",
+  "datePublished": "YYYY-MM-DDTHH:MM:SSZ",
+  "license": "https://www.apache.org/licenses/LICENSE-2.0",
+  "creator": {
+    "@type": "schema:Person",
+    "name": "CREATOR_NAME",
+    "url": "https://github.com/PaperAnalyticalDeviceND"
+  },
+  "publisher": {
+    "@type": "schema:Organization",
+    "name": "PaperAnalyticalDeviceND",
+    "url": "https://github.com/PaperAnalyticalDeviceND"
+  },
+  "url": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/DATASET_NAME",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "DATASET_NAME",
+    "machine learning",
+    "computer vision",
+    "dataset"
+  ],
+  "citations": [],
+  "distribution": [
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/DATASET_NAME/metadata_dev.csv",
+      "name": "metadata_dev.csv",
+      "description": "Train dataset for DATASET_NAME",
+      "contentUrl": "https://raw.githubusercontent.com/PaperAnalyticalDeviceND/pad_dataset_registry/main/datasets/DATASET_NAME/metadata_dev.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "SHA256_HASH",
+      "dateModified": "YYYY-MM-DDTHH:MM:SSZ",
+      "contentSize": "SIZE bytes",
+      "inLanguage": "en"
+    },
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/DATASET_NAME/metadata_test.csv",
+      "name": "metadata_test.csv",
+      "description": "Test dataset for DATASET_NAME",
+      "contentUrl": "https://raw.githubusercontent.com/PaperAnalyticalDeviceND/pad_dataset_registry/main/datasets/DATASET_NAME/metadata_test.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "SHA256_HASH",
+      "dateModified": "YYYY-MM-DDTHH:MM:SSZ",
+      "contentSize": "SIZE bytes",
+      "inLanguage": "en"
+    }
+  ],
+  "recordCount": 0,
+  "fileCount": 0,
+  "temporalCoverage": "DATE",
+  "datasetSchema": {
+    "@type": "cr:TableSchema",
+    "columns": [
+      {
+        "@type": "xsd:string",
+        "name": "column_name_1",
+        "description": "Column: column_name_1",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:integer",
+        "name": "column_name_2",
+        "description": "Column: column_name_2",
+        "dataType": "integer"
+      }
+    ]
+  },
+  "dataSplits": [
+    {
+      "@type": "cr:DataSplit",
+      "name": "train",
+      "description": "Training data split",
+      "recordCount": 0,
+      "splits": [
+        {
+          "@type": "schema:PropertyValue",
+          "propertyID": "train",
+          "value": "train"
+        }
+      ]
+    },
+    {
+      "@type": "cr:DataSplit",
+      "name": "test",
+      "description": "Test data split",
+      "recordCount": 0,
+      "splits": [
+        {
+          "@type": "schema:PropertyValue",
+          "propertyID": "test",
+          "value": "test"
+        }
+      ]
+    }
+  ]
+}

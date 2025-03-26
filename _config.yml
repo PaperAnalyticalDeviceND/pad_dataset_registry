@@ -1,0 +1,39 @@
+title: PAD Dataset Registry
+description: A repository of Paper Analytical Device (PAD) datasets for machine learning models
+baseurl: "/pad_dataset_registry"
+url: "https://paperanalyticaldevicend.github.io"
+
+# Build settings
+markdown: kramdown
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: "datasets"
+      type: pages
+    values:
+      layout: dataset
+
+# Custom variables
+repository_url: https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry
+organization_name: Paper Analytical Device Project
+organization_url: https://padproject.nd.edu
+
+# Theme settings
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry
+
+# SCSS/SASS settings
+sass:
+  sass_dir: _sass
+  style: compressed

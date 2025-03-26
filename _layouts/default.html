@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/readme-styles.css" | relative_url }}">
+    {% seo %}
+  </head>
+  <body>
+    <header class="page-header">
+      <div class="container">
+        <h1><a href="{{ site.baseurl }}/" class="site-title">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <p class="project-tagline">{{ site.description | default: site.github.project_tagline }}</p>
+        
+        <div class="header-links">
+          <a href="{{ site.baseurl }}/" class="btn">Home</a>
+          <a href="{{ site.baseurl }}/datasets" class="btn">Dataset Catalog</a>
+          <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+        </div>
+      </div>
+    </header>
+
+    <main class="main-content">
+      <div class="container">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.organization_name }}. All rights reserved.</p>
+        <p>Hosted on GitHub Pages &mdash; <a href="{{ site.organization_url }}">Visit our website</a></p>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,15 @@
+# Generated catalog files
+_data/catalog.json
+api/catalog.json
+api/datasets/*.json
+
+# Generated dataset files
+datasets/*/readme/
+datasets/*/figs/
+datasets/*/images/
+
+# Jekyll generated files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
