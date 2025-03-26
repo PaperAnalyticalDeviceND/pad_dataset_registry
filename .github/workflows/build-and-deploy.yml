@@ -33,9 +33,27 @@ jobs:
       
       - name: Generate dataset catalog
         run: python docs/_scripts/generate_catalog.py
+        
+      # Debug step to see what's in docs/
+      - name: Debug - List docs directory content
+        run: |
+          echo "Listing docs directory content:"
+          ls -la docs/
+          echo "Number of files in docs directory:"
+          find docs -type f | wc -l
       
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          commit_message: "Update dataset catalog and README files"
-          file_pattern: "docs/_data/* docs/api/* docs/datasets/**/*"
+          # This folder should be the built site output
+          folder: docs
+          # The branch that will become your publicly served GitHub Pages branch
+          branch: gh-pages
+          # Make sure this matches 'gh-pages' (with a hyphen) or use your branch name
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      # - name: Commit changes
+      #   uses: stefanzweifel/git-auto-commit-action@v4
+      #   with:
+      #     commit_message: "Update dataset catalog and README files"
+      #     file_pattern: "docs/_data/* docs/api/* docs/datasets/**/*"
