@@ -1,10 +1,10 @@
 # Generated catalog files
-_data/catalog.json
-api/catalog.json
-api/datasets/*.json
+#_data/catalog.json
+#api/catalog.json
+#api/datasets/*.json
 
 # Generated dataset files
-datasets/*/readme/
-datasets/*/figs/
-datasets/*/images/
+#datasets/*/readme/
+#datasets/*/figs/
+#datasets/*/images/
 
