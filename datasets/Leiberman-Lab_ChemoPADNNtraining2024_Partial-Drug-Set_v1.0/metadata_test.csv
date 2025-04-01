@@ -1,0 +1,763 @@
+id,sample_id,sample_name,quantity,camera_type_1,url,hashlib_md5,image_name
+47998,80902,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/47998_processed.png,0d0815de3d6cd74a6d774b225148f12a,47998__80902__hydroxyurea__100.png
+48002,80902,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48002_processed.png,4ff71514d02d1f7cba8d5ab312be5280,48002__80902__hydroxyurea__100.png
+48004,80902,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48004_processed.png,14f7665c3b71c5a7ec1745a7912bbed6,48004__80902__hydroxyurea__100.png
+48005,80902,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48005_processed.png,c857c66c1081b82d29aaa7f0a9dd2fc6,48005__80902__hydroxyurea__100.png
+48006,80902,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48006_processed.png,87bef0a0cde2252312b0eb43bb01a52a,48006__80902__hydroxyurea__100.png
+48008,80902,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48008_processed.png,e018c7773b46aa63c195f7c731908c86,48008__80902__hydroxyurea__100.png
+48009,80902,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48009_processed.png,eaef91778cc278e0d7d9927af2390107,48009__80902__hydroxyurea__100.png
+48053,80426,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48053_processed.png,e27a1fcff9498ccaf7093d7373406c6b,48053__80426__hydroxyurea__100.png
+48054,80426,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48054_processed.png,74262b65365ee8fca9f2d08e8ed6e0c3,48054__80426__hydroxyurea__100.png
+48055,80426,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48055_processed.png,07f3c2ced1c91aa2efd84798fc38bf26,48055__80426__hydroxyurea__100.png
+48056,80426,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48056_processed.png,62e8ebf37b5bcfa47d2d362f49560e36,48056__80426__hydroxyurea__100.png
+48057,80426,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48057_processed.png,1f8480aa77193ade3fc7fc66a3baf5cc,48057__80426__hydroxyurea__100.png
+48070,80424,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48070_processed.png,86d39ed33e8e8ee1bd4351d86e2b29a4,48070__80424__hydroxyurea__100.png
+48071,80424,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48071_processed.png,4a27170109c8f9b3bd2bf4e6d77cbc2b,48071__80424__hydroxyurea__100.png
+48072,80424,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48072_processed.png,63c17125d06a616bdb9fcd48e74ea321,48072__80424__hydroxyurea__100.png
+48073,80424,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48073_processed.png,e433f97bcb94568f1bf30b30b0a44fea,48073__80424__hydroxyurea__100.png
+48074,80424,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48074_processed.png,d9ad31f5f8e9cb2346ffa2b2a5d0a416,48074__80424__hydroxyurea__100.png
+48111,81565,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48111_processed.png,810a108e4df7810fd7478d14ab0caa42,48111__81565__hydroxyurea__100.png
+48112,81565,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48112_processed.png,d60ba92d1ea56ae02776c89a3d2f955c,48112__81565__hydroxyurea__100.png
+48113,81565,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48113_processed.png,f9810f14cd26b6e9dcb68b3fccdf5685,48113__81565__hydroxyurea__100.png
+48114,81565,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48114_processed.png,396a27ad322073b942956ea3b66d61b3,48114__81565__hydroxyurea__100.png
+48115,81565,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48115_processed.png,68e939f464dd435fef07ce3800a32b71,48115__81565__hydroxyurea__100.png
+48116,81565,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48116_processed.png,673abf86dfdf2d8d9927656ffc51f0cc,48116__81565__hydroxyurea__100.png
+48119,81565,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48119_processed.png,0599c048891a91965dc66139c0e83cda,48119__81565__hydroxyurea__100.png
+48147,81562,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48147_processed.png,98ebb489a4e2602c9c9667f9f045672e,48147__81562__hydroxyurea__100.png
+48148,81562,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48148_processed.png,3395f003b34346cb6a81086f57cc1edf,48148__81562__hydroxyurea__100.png
+48149,81562,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48149_processed.png,dd94f578fed753a7e07a94faf06dad03,48149__81562__hydroxyurea__100.png
+48150,81562,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48150_processed.png,9aa349eaf837d2409430829c94878d28,48150__81562__hydroxyurea__100.png
+48151,81562,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48151_processed.png,278a677f18e38970ae167eabd4f54776,48151__81562__hydroxyurea__100.png
+48152,81562,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48152_processed.png,73f3965d866bb7ddf493d1e3ba7a5acf,48152__81562__hydroxyurea__100.png
+48165,81561,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48165_processed.png,a7b3561958a1e9966d5e8cc84214f195,48165__81561__hydroxyurea__100.png
+48166,81561,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48166_processed.png,b00f85902fec6cc3ed481dd206fe7f4d,48166__81561__hydroxyurea__100.png
+48167,81561,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48167_processed.png,302ef3883161b06c0c3ce884a0de4a6c,48167__81561__hydroxyurea__100.png
+48168,81561,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48168_processed.png,e999d9b05ceb56cef7d0f1ffc2a3ec1c,48168__81561__hydroxyurea__100.png
+48169,81561,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48169_processed.png,4e4a5555e451c7c6605c5b46ac22ab78,48169__81561__hydroxyurea__100.png
+48170,81561,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48170_processed.png,c702cea04c2c1484b73f4f3ff0867136,48170__81561__hydroxyurea__100.png
+48171,81561,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48171_processed.png,cfd3c73d039fd6bf2d1e136c25bcb6d9,48171__81561__hydroxyurea__100.png
+48201,81827,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48201_processed.png,0978eab5de4aefc8277a28a453023529,48201__81827__hydroxyurea__100.png
+48202,81827,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48202_processed.png,512a8ed51ac670125ac58aa54514214b,48202__81827__hydroxyurea__100.png
+48203,81827,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48203_processed.png,797463de5902920e60507971e40db310,48203__81827__hydroxyurea__100.png
+48204,81827,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48204_processed.png,149402f28cdb5f8f612e33e3a6a815ac,48204__81827__hydroxyurea__100.png
+48205,81827,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48205_processed.png,a7b45c787197756bbb0cc50559bcd5ec,48205__81827__hydroxyurea__100.png
+48206,81827,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48206_processed.png,177594a0786c283da0b8970824ab580b,48206__81827__hydroxyurea__100.png
+48213,81824,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48213_processed.png,a19c710837bfbb25c41f8a93eef4746a,48213__81824__hydroxyurea__100.png
+48214,81824,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48214_processed.png,d22a98d43255076a2ab498615619483b,48214__81824__hydroxyurea__100.png
+48215,81824,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48215_processed.png,c57d6a2a0a47035a59ee7e3b9e19e79b,48215__81824__hydroxyurea__100.png
+48216,81824,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48216_processed.png,a313d47dd2bfba55750122b1901c63b2,48216__81824__hydroxyurea__100.png
+48217,81824,hydroxyurea,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48217_processed.png,d89f332ec3de870c0095ce24f068f1af,48217__81824__hydroxyurea__100.png
+48218,81824,hydroxyurea,100,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48218_processed.png,472d6cd7309ae7266b89afd78759ed0d,48218__81824__hydroxyurea__100.png
+48244,80790,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48244_processed.png,7a5ba2f59cfc6b82dbdd2eeffd512109,48244__80790__hydroxyurea__66.png
+48245,80790,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48245_processed.png,5c83b95bfa37ff2cf1fd807df9593aec,48245__80790__hydroxyurea__66.png
+48246,80790,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48246_processed.png,d60b411c9e3d2bfba385c6b926e9aaad,48246__80790__hydroxyurea__66.png
+48247,80790,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48247_processed.png,56dabc6942eb1b5cbff3dcc48fce5850,48247__80790__hydroxyurea__66.png
+48248,80790,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48248_processed.png,de5c4462e54a7aad60b87941dd03ce42,48248__80790__hydroxyurea__66.png
+48249,80790,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48249_processed.png,c1426a02d5c428ae13fa30ff31f5af64,48249__80790__hydroxyurea__66.png
+48251,80790,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48251_processed.png,f0e74f18e8799a3936d0ccb485af9f55,48251__80790__hydroxyurea__66.png
+48256,80450,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48256_processed.png,b507b146b4498e686db7dcbbd36a66a1,48256__80450__hydroxyurea__66.png
+48257,80450,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48257_processed.png,1591c387b975e473df563cb1b482ad68,48257__80450__hydroxyurea__66.png
+48258,80450,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48258_processed.png,0659ad87f9d3b11e7741981d185b2ae0,48258__80450__hydroxyurea__66.png
+48259,80450,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48259_processed.png,3898a4b5332c3006aef28327adca27e4,48259__80450__hydroxyurea__66.png
+48260,80450,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48260_processed.png,04f28ab7bde3178adce92b8ab69bf14b,48260__80450__hydroxyurea__66.png
+48261,80450,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48261_processed.png,6bf811e2441857e63b52fbd38b98369d,48261__80450__hydroxyurea__66.png
+48300,80782,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48300_processed.png,1a39f64ca302426509ae865464b7ddb8,48300__80782__hydroxyurea__66.png
+48326,80888,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48326_processed.png,bf348c381c377411c17aaf04eae39e1e,48326__80888__hydroxyurea__66.png
+48328,80888,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48328_processed.png,5c2fa7c70831fa7c3d0e41e97ee12442,48328__80888__hydroxyurea__66.png
+48329,80888,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48329_processed.png,f71b53d2b154c50b272b7b7dbf3fbe89,48329__80888__hydroxyurea__66.png
+48330,80888,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48330_processed.png,d9fdd3bff1d3fd7d988bfd50bc7bcf99,48330__80888__hydroxyurea__66.png
+48331,80888,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48331_processed.png,cab3cfe9dea548e3fa5306695ebcd825,48331__80888__hydroxyurea__66.png
+48333,80888,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48333_processed.png,abe685dce40188c95bd03b6b9b4a01fd,48333__80888__hydroxyurea__66.png
+48335,80888,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48335_processed.png,6b8de3af9faaedf2263bd8057c3a1858,48335__80888__hydroxyurea__66.png
+48344,80889,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48344_processed.png,75ca66687424ec176d5d26a525bc484b,48344__80889__hydroxyurea__66.png
+48345,80889,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48345_processed.png,3d8df33da8063ff5c9f8c229ae09a866,48345__80889__hydroxyurea__66.png
+48346,80889,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48346_processed.png,504e57c2f4626b999fd71bed99cc8f7c,48346__80889__hydroxyurea__66.png
+48347,80889,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48347_processed.png,481d26c0ac9f74e21e09f83a3dbcef87,48347__80889__hydroxyurea__66.png
+48348,80889,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48348_processed.png,ca152d777a19b81bf0b9ca80c72e9926,48348__80889__hydroxyurea__66.png
+48349,80889,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48349_processed.png,504e57c2f4626b999fd71bed99cc8f7c,48349__80889__hydroxyurea__66.png
+48358,81460,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48358_processed.png,7cbe9bd1efb8441a33f88fb19272302e,48358__81460__hydroxyurea__66.png
+48360,81460,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48360_processed.png,6216a42faed885f83b6f8758146f842e,48360__81460__hydroxyurea__66.png
+48361,81460,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48361_processed.png,77f4db54664f42db6bcd6dd71c46a3e6,48361__81460__hydroxyurea__66.png
+48362,81460,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48362_processed.png,13dda8834100b495274974deb356aa25,48362__81460__hydroxyurea__66.png
+48415,80754,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48415_processed.png,98642ad4bb0dec20669840877a937620,48415__80754__hydroxyurea__66.png
+48416,80754,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48416_processed.png,54ec5e62d5d3b24c1a8f30f3f0464b96,48416__80754__hydroxyurea__66.png
+48417,80757,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48417_processed.png,d1a55fea4f2c79b9edeff87a8f1e7cc6,48417__80757__hydroxyurea__66.png
+48418,80757,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48418_processed.png,950881c4f31bd4b9676cfade5cf86484,48418__80757__hydroxyurea__66.png
+48419,80757,hydroxyurea,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48419_processed.png,28d005b1dab978b1376e01c98c657f20,48419__80757__hydroxyurea__66.png
+48475,80754,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48475_processed.png,0a41ca974ab5123d38fc46791225e8ed,48475__80754__hydroxyurea__66.png
+48484,80757,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48484_processed.png,0c34f3701ea3261f37577f954432b4f6,48484__80757__hydroxyurea__66.png
+48485,80757,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48485_processed.png,1f3d8e912c24249235fc9b20209323cf,48485__80757__hydroxyurea__66.png
+48498,80754,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48498_processed.png,4bab0b09c475aa32b0f3731dcc514f04,48498__80754__hydroxyurea__66.png
+48504,80757,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48504_processed.png,5d80c6ba581c45c000336532644b0d0a,48504__80757__hydroxyurea__66.png
+48512,80754,hydroxyurea,66,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48512_processed.png,a9b9053596d0a023987b970189f6a6ff,48512__80754__hydroxyurea__66.png
+48466,81596,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48466_processed.png,b0b2f51a859e6b52f8f6ca8a63ab88b9,48466__81596__hydroxyurea__33.png
+48467,81596,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48467_processed.png,3947653916b6204159b446d31bf0d0d1,48467__81596__hydroxyurea__33.png
+48468,81596,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48468_processed.png,c50297855f2985117796b1553a8924d7,48468__81596__hydroxyurea__33.png
+48479,80915,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48479_processed.png,dd5bf9e818c5e763884099b1ec01e10c,48479__80915__hydroxyurea__33.png
+48497,80915,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48497_processed.png,43a4b7f91b9730528733d5aa4d53b32e,48497__80915__hydroxyurea__33.png
+48502,80915,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48502_processed.png,1989c3fd720bbc814de507c0a989feb1,48502__80915__hydroxyurea__33.png
+48505,81596,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48505_processed.png,364db70ce3265d57e7030816e72cfaa6,48505__81596__hydroxyurea__33.png
+48513,80915,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48513_processed.png,22d9fe8d40e640040609abb06784769f,48513__80915__hydroxyurea__33.png
+48517,81596,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48517_processed.png,5859cb27f7d66d6fd111f23b7adfa3a2,48517__81596__hydroxyurea__33.png
+48519,80915,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48519_processed.png,4444a1a7f6dfba30ea7c5d14a9b84fc0,48519__80915__hydroxyurea__33.png
+48527,80915,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48527_processed.png,781d78c4663d8dbe998a18ee50af2b29,48527__80915__hydroxyurea__33.png
+48542,81596,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48542_processed.png,6b4215bbd8872f0d8b3fa5d15f38599e,48542__81596__hydroxyurea__33.png
+48548,80915,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48548_processed.png,09927976a34e152737934f3fddc047f7,48548__80915__hydroxyurea__33.png
+48604,81556,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48604_processed.png,fff2f7e2857a9832681fccba50cdd459,48604__81556__hydroxyurea__33.png
+48605,81555,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48605_processed.png,a538f6c58faa6602b85b878690db573b,48605__81555__hydroxyurea__33.png
+48606,81555,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48606_processed.png,1787b294d2f1a3ae323081518e8c6eab,48606__81555__hydroxyurea__33.png
+48607,81555,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48607_processed.png,67d6051a9f1d247212076d3d133593f4,48607__81555__hydroxyurea__33.png
+48608,81556,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48608_processed.png,fbc54100105c9412fd0e8a5e5353b81a,48608__81556__hydroxyurea__33.png
+48609,81555,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48609_processed.png,07353331cc906f8319395e0a67ae0d16,48609__81555__hydroxyurea__33.png
+48610,81556,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48610_processed.png,3dde7c75a426ed04ea5aa6c55b1d9505,48610__81556__hydroxyurea__33.png
+48611,81555,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48611_processed.png,ff1676ac408120053077578ace87e050,48611__81555__hydroxyurea__33.png
+48612,81555,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48612_processed.png,9e4b9cf76d2d40b57e60211efcc26418,48612__81555__hydroxyurea__33.png
+48613,81556,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48613_processed.png,0d6591b563f0094806bd5ba5a125c1bd,48613__81556__hydroxyurea__33.png
+48614,81556,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48614_processed.png,ca73625f60cb1745d6344de6cac26317,48614__81556__hydroxyurea__33.png
+48615,81555,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48615_processed.png,b43966137445b13b3943505ac032a0fc,48615__81555__hydroxyurea__33.png
+48659,81585,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48659_processed.png,e2d7277bfdc178d78ee64bbb8c5ac203,48659__81585__hydroxyurea__33.png
+48661,81585,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48661_processed.png,a5a845dfd06c17c00c3546e9d16abe45,48661__81585__hydroxyurea__33.png
+48662,81585,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48662_processed.png,348ecce7157fb67e1a608b043a4ac849,48662__81585__hydroxyurea__33.png
+48664,81585,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48664_processed.png,f3d7f9a25c97eb58902a1fc29fbf9fec,48664__81585__hydroxyurea__33.png
+48665,81585,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48665_processed.png,0c90c080418060bcd216b84fb65b8319,48665__81585__hydroxyurea__33.png
+48666,81585,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48666_processed.png,9cddac2fc8b5d0e35c48471266efc16f,48666__81585__hydroxyurea__33.png
+48669,81585,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48669_processed.png,e83ef6670a4721fd43278b9ee7747636,48669__81585__hydroxyurea__33.png
+48683,80485,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48683_processed.png,bce0230643fd067a9f62bac6ef3722f9,48683__80485__hydroxyurea__33.png
+48684,80485,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48684_processed.png,3419f07c8cfbb9e38f304ed19b8fb268,48684__80485__hydroxyurea__33.png
+48685,80485,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48685_processed.png,bc5f90a25e5828d8842f9c39b248ff23,48685__80485__hydroxyurea__33.png
+48686,80485,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48686_processed.png,6aa8a08e896c44c880bddf5fda2fa84c,48686__80485__hydroxyurea__33.png
+48687,80485,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48687_processed.png,c0098fe387793c65af2daccb4c362163,48687__80485__hydroxyurea__33.png
+48688,80485,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48688_processed.png,df1dae62a65802af797db90037ecf506,48688__80485__hydroxyurea__33.png
+48689,80485,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48689_processed.png,059b51dd3674b216e7614a3aed439803,48689__80485__hydroxyurea__33.png
+48700,81588,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48700_processed.png,88b51ded82799f6e79f9d1407d9652af,48700__81588__hydroxyurea__33.png
+48701,80483,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48701_processed.png,c29be8695f4bf77e4227675df6d267ef,48701__80483__hydroxyurea__33.png
+48702,80483,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48702_processed.png,318967663f07ceaec09e6f75a89cf6ba,48702__80483__hydroxyurea__33.png
+48703,80483,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48703_processed.png,dd870b91e1330dd03e6728790f3983ac,48703__80483__hydroxyurea__33.png
+48704,81588,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48704_processed.png,3613126c1d4caabfcd171419b8ad900a,48704__81588__hydroxyurea__33.png
+48705,81588,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48705_processed.png,9b06df0b29882a6b253f994c589dd245,48705__81588__hydroxyurea__33.png
+48706,80483,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48706_processed.png,88e0849a49d6d77891f927b2928760a9,48706__80483__hydroxyurea__33.png
+48707,80483,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48707_processed.png,e7291f36a228896c157ca773392ca6f2,48707__80483__hydroxyurea__33.png
+48708,81588,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48708_processed.png,7a30755834751a68d49651894d6ab006,48708__81588__hydroxyurea__33.png
+48709,81588,hydroxyurea,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48709_processed.png,492a6427916f8393c5a53d28530ddf90,48709__81588__hydroxyurea__33.png
+48710,81588,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48710_processed.png,881eae68900031c6cc6391969d9934bb,48710__81588__hydroxyurea__33.png
+48711,80483,hydroxyurea,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48711_processed.png,048ec80c0e08a88c0620fc9ed5df92c5,48711__80483__hydroxyurea__33.png
+48722,81351,lactose,0,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48722_processed.png,fe3ac9dce2d35434bddd5e72b3d85ba7,48722__81351__lactose__0.png
+48723,81351,lactose,0,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48723_processed.png,1908dc7c5744c5a336e2f20398c843ce,48723__81351__lactose__0.png
+48724,81351,lactose,0,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48724_processed.png,5962fe6a1f53a144ab9f2ae1a1cde7fa,48724__81351__lactose__0.png
+48725,81351,lactose,0,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48725_processed.png,c65388663cea2e0d297f14746ea1e9dd,48725__81351__lactose__0.png
+48726,81351,lactose,0,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48726_processed.png,9358e840ab3ca914c98c2bf6f93208ba,48726__81351__lactose__0.png
+48727,81351,lactose,0,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48727_processed.png,3a27f2e6a0ef516ecdb87f10de822246,48727__81351__lactose__0.png
+48740,81357,lactose,0,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48740_processed.png,16ed200be9163ebc9087c71cccac2f15,48740__81357__lactose__0.png
+48744,81357,lactose,0,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48744_processed.png,60c3b373f73f77a86f073f327755fc76,48744__81357__lactose__0.png
+48747,81357,lactose,0,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48747_processed.png,b8223b081b26e085dde5a67ac9d5688c,48747__81357__lactose__0.png
+48750,81357,lactose,0,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/48750_processed.png,5ca7c5bbd2e8929d1ebdb0cc80959d3a,48750__81357__lactose__0.png
+49383,81650,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49383_processed.png,4cd026d2b5563e60036cddb5d1b60740,49383__81650__doxorubicin__100.png
+49385,81650,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49385_processed.png,3555cefea41c4936f74a9dadfcb5a49b,49385__81650__doxorubicin__100.png
+49387,81650,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49387_processed.png,5fc196ad0b23e5e945e31835ee5a9f36,49387__81650__doxorubicin__100.png
+49394,80683,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49394_processed.png,65f29ee60a120683a77ac8951f1074f0,49394__80683__doxorubicin__100.png
+49396,80683,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49396_processed.png,4399c5d71860ef338d1f7ef575b2ff55,49396__80683__doxorubicin__100.png
+49398,80683,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49398_processed.png,5301298b99347014104b1ca9ccbf7fbe,49398__80683__doxorubicin__100.png
+49400,81664,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49400_processed.png,bda9c6b459bae0ab24bef4fb59960b3b,49400__81664__doxorubicin__100.png
+49402,81664,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49402_processed.png,0dc29bc86328b1bd9830c6b014796074,49402__81664__doxorubicin__100.png
+49404,81664,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49404_processed.png,5b559628a3c943cc4657c11218a9f6c0,49404__81664__doxorubicin__100.png
+49406,80521,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49406_processed.png,a0ef8d7b33e62354a6dcc3a6fff044d9,49406__80521__doxorubicin__100.png
+49408,80521,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49408_processed.png,9c055a758893356e445adb7952667d6d,49408__80521__doxorubicin__100.png
+49411,80521,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49411_processed.png,9d71466316ce51ee527e01fd4cfde500,49411__80521__doxorubicin__100.png
+49412,80744,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49412_processed.png,5b6869b6bee6d3a0a1d55b048e8cd2e5,49412__80744__doxorubicin__100.png
+49414,80744,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49414_processed.png,9f8aec1d5096ed8c00af1f129ac174bf,49414__80744__doxorubicin__100.png
+49416,80744,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49416_processed.png,e51d911a2e17abd60200cd5a7c52c732,49416__80744__doxorubicin__100.png
+49431,81131,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49431_processed.png,ba102a11a60979e519decf846fdc3afb,49431__81131__doxorubicin__100.png
+49433,81131,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49433_processed.png,7fd4e5a85c85004b0bfe1c254321eceb,49433__81131__doxorubicin__100.png
+49435,81131,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49435_processed.png,acff3013a539950437b2ba006fe68bfe,49435__81131__doxorubicin__100.png
+49436,81659,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49436_processed.png,7408372897493e230030d9e83b4e3eaf,49436__81659__doxorubicin__100.png
+49437,81132,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49437_processed.png,2bd845df76a8d7ef962b7247f2c71d41,49437__81132__doxorubicin__100.png
+49438,81659,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49438_processed.png,f1d6d1fff13fb8859ca32385651eb65a,49438__81659__doxorubicin__100.png
+49439,81132,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49439_processed.png,02abfc060df1172437b9dc2a34a2ee46,49439__81132__doxorubicin__100.png
+49440,81659,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49440_processed.png,6df9790e5bb0ac22d6d18e79354017c9,49440__81659__doxorubicin__100.png
+49441,81132,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49441_processed.png,3f6129cdded8b52aa71800b5acbac68d,49441__81132__doxorubicin__100.png
+49562,81132,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49562_processed.png,7606954861c8d0e4075ad932ba208713,49562__81132__doxorubicin__100.png
+49563,81659,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49563_processed.png,19d5b3dd860fac6976f18fd3b6dd7682,49563__81659__doxorubicin__100.png
+49564,81132,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49564_processed.png,29a26fae11c51431c8b020da29da07b3,49564__81132__doxorubicin__100.png
+49565,81132,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49565_processed.png,355efe275af5b519d56df2639b3be726,49565__81132__doxorubicin__100.png
+49566,81132,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49566_processed.png,6e348f7894d5ddc381bec918e245b6cf,49566__81132__doxorubicin__100.png
+49567,81659,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49567_processed.png,035893c3fcb9843563e92bc76d9f8185,49567__81659__doxorubicin__100.png
+49568,81131,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49568_processed.png,80bfff6ea9e0f69381a8fa0dfb027bb5,49568__81131__doxorubicin__100.png
+49570,81131,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49570_processed.png,623c89d77da339f0bc0533f58c764f93,49570__81131__doxorubicin__100.png
+49572,81131,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49572_processed.png,5b50b3bc9cb357b36d2208e606db4727,49572__81131__doxorubicin__100.png
+49586,80744,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49586_processed.png,3dced08646283ec6df5e7137ab2b2620,49586__80744__doxorubicin__100.png
+49588,80744,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49588_processed.png,9bd04e79020a6ac773dbfb1df507ab2a,49588__80744__doxorubicin__100.png
+49590,80744,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49590_processed.png,bdaf8e5c3b842c8255c6f5de72d31395,49590__80744__doxorubicin__100.png
+49591,80521,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49591_processed.png,777195d0bb3d43be7db20859d2a2fb41,49591__80521__doxorubicin__100.png
+49594,80521,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49594_processed.png,b1718f311fc3e5ccdd4d0419d5572236,49594__80521__doxorubicin__100.png
+49596,80521,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49596_processed.png,85dbdb1f001b474282885759c2f9b999,49596__80521__doxorubicin__100.png
+49598,81664,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49598_processed.png,bee20ee436c276b490552d3a1dea7d30,49598__81664__doxorubicin__100.png
+49600,81664,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49600_processed.png,c990ab126888eb7e3f30c1c33c99b7c5,49600__81664__doxorubicin__100.png
+49602,81664,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49602_processed.png,8f2824ec0e6d4512675909c34f99fb93,49602__81664__doxorubicin__100.png
+49604,80683,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49604_processed.png,4f5eb554172de183d76512522c7ad2e7,49604__80683__doxorubicin__100.png
+49608,80683,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49608_processed.png,049b785ee135043b6aea74e41adf506e,49608__80683__doxorubicin__100.png
+49615,81650,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49615_processed.png,c93f27f1131ddbcab71185a5dd930887,49615__81650__doxorubicin__100.png
+49617,81650,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49617_processed.png,89123376560b799f042fa701a42d2db1,49617__81650__doxorubicin__100.png
+49619,81650,doxorubicin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49619_processed.png,3f98795924ac9fb5fb4a06c1444923cd,49619__81650__doxorubicin__100.png
+49755,81657,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49755_processed.png,ae6514eb60c2130017d4bfcf8fd60cef,49755__81657__doxorubicin__100.png
+49757,81657,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49757_processed.png,6e4e84d1a076bfc6a74433e160d942e7,49757__81657__doxorubicin__100.png
+49760,81657,doxorubicin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49760_processed.png,098d689048b5aa3660e22fbf4972ceb1,49760__81657__doxorubicin__100.png
+49637,81537,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49637_processed.png,3daa586ccac69ca6baf1223fd5055b77,49637__81537__doxorubicin__66.png
+49639,81537,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49639_processed.png,d43ddccb86d7513286473bd77db1bce5,49639__81537__doxorubicin__66.png
+49641,81537,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49641_processed.png,304d3083baae4e27b12db571daaa8b3d,49641__81537__doxorubicin__66.png
+49650,81403,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49650_processed.png,279dfe28d343b020fb9da1d7e37cc95f,49650__81403__doxorubicin__66.png
+49655,81403,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49655_processed.png,74e55e62211c923cfe66b65545090d99,49655__81403__doxorubicin__66.png
+49659,81403,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49659_processed.png,e2989a65dec946771ced8e86e9ec6bd1,49659__81403__doxorubicin__66.png
+49663,81372,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49663_processed.png,6d2707c2dd5b1e0bf365c57d95387dcf,49663__81372__doxorubicin__66.png
+49667,81372,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49667_processed.png,4eb516d7ec39da2c8d2633e8f3badf75,49667__81372__doxorubicin__66.png
+49671,81372,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49671_processed.png,e5aacd3c5a7b084c3e96fcdc939e8d6d,49671__81372__doxorubicin__66.png
+49673,81373,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49673_processed.png,2b189a6662a660a67c8234f1454fb7df,49673__81373__doxorubicin__66.png
+49674,80472,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49674_processed.png,106e3459a50cb5b44dff5480e517842f,49674__80472__doxorubicin__66.png
+49677,81373,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49677_processed.png,ea1da5fa49941d39a25591fa723c6c0b,49677__81373__doxorubicin__66.png
+49678,80472,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49678_processed.png,e2b1a8763562ca9a04f56d78a873f991,49678__80472__doxorubicin__66.png
+49681,81373,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49681_processed.png,011d6a116e6404d8e7ee489f2285623a,49681__81373__doxorubicin__66.png
+49682,80472,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49682_processed.png,7ea2f2b0fe7bd1573598f4a2836e31d1,49682__80472__doxorubicin__66.png
+49724,80764,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49724_processed.png,323ecfb5c9e4d0ef1fa7b36685e9d4a7,49724__80764__doxorubicin__66.png
+49729,80764,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49729_processed.png,0ef1cf075690d6e68e27c9b655a31586,49729__80764__doxorubicin__66.png
+49733,80764,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49733_processed.png,2c6ce7eea33346b082d51118305e6aff,49733__80764__doxorubicin__66.png
+49734,80525,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49734_processed.png,467fd548329617b132df106e6009f8d5,49734__80525__doxorubicin__66.png
+49736,81530,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49736_processed.png,52a19c248524742adb3c517209f50ea4,49736__81530__doxorubicin__66.png
+49737,80525,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49737_processed.png,f79e958d142adccb67c6ae4b8c8e5060,49737__80525__doxorubicin__66.png
+49739,81530,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49739_processed.png,c93807d5af6c3c8b2dc0854875a6d8a9,49739__81530__doxorubicin__66.png
+49740,80525,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49740_processed.png,6b372a804455c354cd3e4fb2cf4df2b9,49740__80525__doxorubicin__66.png
+49742,81530,doxorubicin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49742_processed.png,5071dfca163c50b315bf9c478259e698,49742__81530__doxorubicin__66.png
+49770,81129,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49770_processed.png,c9e3ef8fb6cff594833035fb60fa1bb9,49770__81129__doxorubicin__33.png
+49774,81129,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49774_processed.png,8b1abed1f0c1c4213311449b0d4ab77c,49774__81129__doxorubicin__33.png
+49778,81129,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49778_processed.png,4b055967fd205f56dbca06f488df71eb,49778__81129__doxorubicin__33.png
+49784,80458,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49784_processed.png,ce641ab83b63626648cf79fcc63fb042,49784__80458__doxorubicin__33.png
+49792,80458,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49792_processed.png,c5220b6d600d9de03bd6c11b09776a6e,49792__80458__doxorubicin__33.png
+49796,80458,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49796_processed.png,8268fca821b1f906dd7a37472bab1ccf,49796__80458__doxorubicin__33.png
+49802,80458,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49802_processed.png,5d8d1e167e93c18d3df45dc176e8ded3,49802__80458__doxorubicin__33.png
+49859,80761,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49859_processed.png,339be30ef2cc751b770a61f3f2d10328,49859__80761__doxorubicin__33.png
+49861,80332,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49861_processed.png,21bd68e1b081f3c99adf1c4161aa0bff,49861__80332__doxorubicin__33.png
+49862,80761,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49862_processed.png,e8902a33cedae9d41e25eb1039ca40e0,49862__80761__doxorubicin__33.png
+49864,80332,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49864_processed.png,ae612ee881f6987d464d734bfc6973e9,49864__80332__doxorubicin__33.png
+49865,80761,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49865_processed.png,05a0b9dc1b90ca59fcc382943e6a6584,49865__80761__doxorubicin__33.png
+49868,80761,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49868_processed.png,b0c78b5ef7942742b1c2555f88877296,49868__80761__doxorubicin__33.png
+49870,80332,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49870_processed.png,1f314f27a58018a6e9c958ff97225f98,49870__80332__doxorubicin__33.png
+49871,80332,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49871_processed.png,f1e99ca1a44157959fe11aee8df146c0,49871__80332__doxorubicin__33.png
+49878,80761,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49878_processed.png,85e23607a54936f39cc0d102ce44adb8,49878__80761__doxorubicin__33.png
+49879,80761,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49879_processed.png,45c23c81d58e61d6b6fb33c8158ac4dd,49879__80761__doxorubicin__33.png
+49881,80761,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49881_processed.png,76c8953e440dd877401f4caca8d4cfc8,49881__80761__doxorubicin__33.png
+49882,80332,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49882_processed.png,e063e5c5b5179e5f71ff644d6eddcee4,49882__80332__doxorubicin__33.png
+49883,80332,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49883_processed.png,b9e45481a23eb9246f54e00d69ecb48d,49883__80332__doxorubicin__33.png
+49909,80522,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49909_processed.png,a4e0498de1b18cc02055992f5ac5080f,49909__80522__doxorubicin__33.png
+49912,80522,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49912_processed.png,631ca4b88fa78c899d4b95a0bfeb68f4,49912__80522__doxorubicin__33.png
+49917,80522,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49917_processed.png,adf211756739988b81b5be0c7f1562fb,49917__80522__doxorubicin__33.png
+49921,80522,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49921_processed.png,680ae25219d20e2638b7fb0dacd6b6bb,49921__80522__doxorubicin__33.png
+49926,80522,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49926_processed.png,83d78305fb8fdff4f862697943994042,49926__80522__doxorubicin__33.png
+49927,80522,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49927_processed.png,1e7c1200ad3db05c0615b35b34896b40,49927__80522__doxorubicin__33.png
+49933,81163,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49933_processed.png,1529d7a90aba7fcf6ec19fba63af4a01,49933__81163__doxorubicin__33.png
+49936,81163,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49936_processed.png,4057c65c307bbfaf6caa72d6b688d88e,49936__81163__doxorubicin__33.png
+49940,81163,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49940_processed.png,28904ea2725d0f631267df323ebef6ba,49940__81163__doxorubicin__33.png
+49945,81163,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49945_processed.png,c446f4cf80c03b5fee8ca01dd45ff9bb,49945__81163__doxorubicin__33.png
+49950,81163,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49950_processed.png,653092b63954050c2ab682a131aee350,49950__81163__doxorubicin__33.png
+49951,81163,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49951_processed.png,d22c7c4dfd1d19f97ab06bc00f0dfafe,49951__81163__doxorubicin__33.png
+49956,80680,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49956_processed.png,a0b67dd2745d219dd1c683ee9f693ca9,49956__80680__doxorubicin__33.png
+49959,82186,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49959_processed.png,1a99e78360d0a7122949e4f3d4dd63b6,49959__82186__doxorubicin__33.png
+49960,80680,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49960_processed.png,dc8429912464f307fb3555f102101386,49960__80680__doxorubicin__33.png
+49964,82186,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49964_processed.png,eedc461c2cb3bddea427d64eba8c9ce9,49964__82186__doxorubicin__33.png
+49965,80680,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49965_processed.png,d4be457bc1f737cedc85c992090a1195,49965__80680__doxorubicin__33.png
+49968,82186,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49968_processed.png,50378c4ac0a2e368905fadb07d8c41ef,49968__82186__doxorubicin__33.png
+49969,80680,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49969_processed.png,16c4326d10a41d11052ba54fe82ec889,49969__80680__doxorubicin__33.png
+49972,82186,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49972_processed.png,57948077b64cd5c8df9b64c3502b0b48,49972__82186__doxorubicin__33.png
+49973,80680,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49973_processed.png,77bb8e15ca4c0e6dfc53d5ee6db839f4,49973__80680__doxorubicin__33.png
+49974,80680,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49974_processed.png,e4765958daf66d8bdc89abb1b38d8036,49974__80680__doxorubicin__33.png
+49979,82186,doxorubicin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49979_processed.png,2007d87a99b6f9eafa4fbfebda1ca5ee,49979__82186__doxorubicin__33.png
+49980,82186,doxorubicin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/40000/49980_processed.png,e598a86e9845ee8e0739451815959f6a,49980__82186__doxorubicin__33.png
+50023,80177,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50023_processed.png,1e770f47e39179357700386d33522118,50023__80177__cisplatin__100.png
+50027,80177,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50027_processed.png,76ca2edd150e56d5f39ebed5c0fbdb09,50027__80177__cisplatin__100.png
+50031,80177,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50031_processed.png,fe7c926356b17d43f28152510ed14556,50031__80177__cisplatin__100.png
+50035,80177,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50035_processed.png,d9510b7f2d27dec85b21acc6d7706941,50035__80177__cisplatin__100.png
+50040,80177,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50040_processed.png,438dc0bb4f9ed61b803f517ed68a4702,50040__80177__cisplatin__100.png
+50041,80177,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50041_processed.png,e32c30ff8994042e45ee3083a3de01ee,50041__80177__cisplatin__100.png
+50923,74863,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50923_processed.png,dc19ed06f846b590bf947f9c5b8f5367,50923__74863__cisplatin__100.png
+50926,74863,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50926_processed.png,c9cd362e73382e7508dd75cd4a58eabc,50926__74863__cisplatin__100.png
+50927,74863,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50927_processed.png,884513d24145a06998205ec3015f0767,50927__74863__cisplatin__100.png
+50928,74863,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50928_processed.png,79cc246e182010905fce20880a4da216,50928__74863__cisplatin__100.png
+50929,74863,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50929_processed.png,a1c70b1e6eb57a4bb916869f036b51fb,50929__74863__cisplatin__100.png
+50931,74863,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50931_processed.png,fa62b6c4e31031540655621b032d8e56,50931__74863__cisplatin__100.png
+50932,74863,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50932_processed.png,fd4e59fa6d6dd70ef2ccc3e54e0ca854,50932__74863__cisplatin__100.png
+50935,80621,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50935_processed.png,dfb92a8187d7a778941e47a67f0cd8d6,50935__80621__cisplatin__100.png
+50939,80621,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50939_processed.png,39589d916823f93ce2fc7a9421690061,50939__80621__cisplatin__100.png
+50948,80621,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50948_processed.png,82f48d997c8e2d455f672fde2aeaa19d,50948__80621__cisplatin__100.png
+50951,80621,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50951_processed.png,859c3999b0e4b18b12fd2306a3e9c380,50951__80621__cisplatin__100.png
+50952,80621,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50952_processed.png,8d55c21449dc09473e8a845529c55062,50952__80621__cisplatin__100.png
+51077,82184,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51077_processed.png,2980cfd7e7a9ff4ade78998fef3c40c6,51077__82184__cisplatin__100.png
+51079,82184,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51079_processed.png,2980cfd7e7a9ff4ade78998fef3c40c6,51079__82184__cisplatin__100.png
+51082,82184,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51082_processed.png,8fdf2578969d4231f2b338f6dc9b612d,51082__82184__cisplatin__100.png
+51086,82184,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51086_processed.png,719a4cccad9da5852b43a4a322ce2bc4,51086__82184__cisplatin__100.png
+51090,82184,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51090_processed.png,2811e803e7193a0a1c07fc6fb8fe565c,51090__82184__cisplatin__100.png
+51095,82184,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51095_processed.png,87488ff5c4b1f1c0fcddfa02f99de60b,51095__82184__cisplatin__100.png
+51103,74962,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51103_processed.png,05d01fcc3315ebd69883f97e86879215,51103__74962__cisplatin__100.png
+51107,74962,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51107_processed.png,02300c1b48553e707d2ef7d6db14d244,51107__74962__cisplatin__100.png
+51111,74962,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51111_processed.png,d82bc16be825cf1c195223667dab0490,51111__74962__cisplatin__100.png
+51115,74962,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51115_processed.png,562237f07836b26ac6a257482c9b4e0c,51115__74962__cisplatin__100.png
+51123,74962,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51123_processed.png,6986c9aaa5deda80b723ac7e5b4ff536,51123__74962__cisplatin__100.png
+51124,74962,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51124_processed.png,316c6cf215e0dc58fcc846cde810e07c,51124__74962__cisplatin__100.png
+51126,80415,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51126_processed.png,6538b46cfc33c2cc04bcb7435cd3c0a2,51126__80415__cisplatin__100.png
+51128,80420,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51128_processed.png,f1b924b4dabafe5eac44a2ea5f039dd0,51128__80420__cisplatin__100.png
+51130,80415,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51130_processed.png,1a3965cab3bdd9e5410508be92e948db,51130__80415__cisplatin__100.png
+51132,80420,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51132_processed.png,487021dbf39c3471100a247386670c7b,51132__80420__cisplatin__100.png
+51134,80415,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51134_processed.png,64a86d782ab7de8db3d8d1ee8001e7b2,51134__80415__cisplatin__100.png
+51136,80420,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51136_processed.png,7f1cdb3fdafac50c19ea2955b054003d,51136__80420__cisplatin__100.png
+51138,80415,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51138_processed.png,3440fc956969682064cff13241c8b259,51138__80415__cisplatin__100.png
+51140,80420,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51140_processed.png,6fe0ac1299996df4a674eec77c9b1856,51140__80420__cisplatin__100.png
+51143,80420,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51143_processed.png,6ae95b257f56ab60ef5e143df0a0f63d,51143__80420__cisplatin__100.png
+51144,80420,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51144_processed.png,04e5ae897bf1d6fa19b29996d7617ba0,51144__80420__cisplatin__100.png
+51145,80415,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51145_processed.png,8207b92917f3b8e2ebca668495e6e7cb,51145__80415__cisplatin__100.png
+51146,80415,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51146_processed.png,054cfae49aeecd29e032810b0eeb463e,51146__80415__cisplatin__100.png
+51149,74792,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51149_processed.png,eb8d01db08c93ffbf95ac6a4c95b8901,51149__74792__cisplatin__100.png
+51158,74792,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51158_processed.png,c524a8ba7fda7c0ba9603a5a9ffc0941,51158__74792__cisplatin__100.png
+51162,74792,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51162_processed.png,a7bd07b754ed355720fda6bf9076ca78,51162__74792__cisplatin__100.png
+51167,74792,cisplatin,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51167_processed.png,d6860cff544f1ded14f25edbc2881f60,51167__74792__cisplatin__100.png
+51168,74792,cisplatin,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51168_processed.png,90e6bc13d134746a085787ca3d311ae1,51168__74792__cisplatin__100.png
+51173,74793,cisplatin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51173_processed.png,5b43bce3fb6933f17df086c12a1a7cfc,51173__74793__cisplatin__66.png
+51174,74793,cisplatin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51174_processed.png,f19bb6de72b34456e5aec89af2710d2d,51174__74793__cisplatin__66.png
+51175,74793,cisplatin,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51175_processed.png,3726ab0ebdd7e4c4570c72e9efca3acf,51175__74793__cisplatin__66.png
+51176,74793,cisplatin,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51176_processed.png,85b2db8642cb12de5d67858e30a31bfd,51176__74793__cisplatin__66.png
+51177,74793,cisplatin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51177_processed.png,077bb1de1c11b1da493d4ecc3232def8,51177__74793__cisplatin__66.png
+51178,74793,cisplatin,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51178_processed.png,3e66f1909c43eee78b27e34d43cf1757,51178__74793__cisplatin__66.png
+51198,74923,cisplatin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51198_processed.png,433ad71198a2381ea202e8a6bcbc3c04,51198__74923__cisplatin__66.png
+51201,74923,cisplatin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51201_processed.png,381760abe5c4cc9c7b38278d069db203,51201__74923__cisplatin__66.png
+51205,74923,cisplatin,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51205_processed.png,cff7931e9a2d8aa5ad1d8f99968cf5f3,51205__74923__cisplatin__66.png
+51209,74923,cisplatin,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51209_processed.png,c6b57bdc278fdf9a2a72f3eb5bfc8048,51209__74923__cisplatin__66.png
+51213,74923,cisplatin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51213_processed.png,ee0e64fad0c64169e2341c3134219ff1,51213__74923__cisplatin__66.png
+51214,74923,cisplatin,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51214_processed.png,5384b5e02a4ef60c565e41df3f8aba9f,51214__74923__cisplatin__66.png
+51221,81507,cisplatin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51221_processed.png,1a4df055fbb7a375c20dfbe891c79614,51221__81507__cisplatin__66.png
+51225,81507,cisplatin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51225_processed.png,941f7e8c07b248aacf5bbe47dbdfea61,51225__81507__cisplatin__66.png
+51229,81507,cisplatin,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51229_processed.png,1b60ff0caaa945672de69ff513a0d99a,51229__81507__cisplatin__66.png
+51233,81507,cisplatin,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51233_processed.png,d6468090ccabc99902cee02e0ef74c70,51233__81507__cisplatin__66.png
+51237,81507,cisplatin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51237_processed.png,b58d3df9df60aedb4135eee65c585248,51237__81507__cisplatin__66.png
+51238,81507,cisplatin,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51238_processed.png,f9e4736aabb9700e504b6b2bc306be83,51238__81507__cisplatin__66.png
+51316,80765,cisplatin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51316_processed.png,dcc412f1b1d129ba0c0cdbe86203533d,51316__80765__cisplatin__66.png
+51320,80765,cisplatin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51320_processed.png,9f2f6183e69560eea77a62775a329ca9,51320__80765__cisplatin__66.png
+51324,80765,cisplatin,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51324_processed.png,8ef2e9b5cfb0c441d636c784f1e00746,51324__80765__cisplatin__66.png
+51328,80765,cisplatin,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51328_processed.png,227d4237a46ed63ad89234bfefd88ac5,51328__80765__cisplatin__66.png
+51330,80765,cisplatin,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51330_processed.png,172fcd0e64c6ef9a83e1e3e1c4778d5c,51330__80765__cisplatin__66.png
+51331,80765,cisplatin,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51331_processed.png,e3d89dca11b35aa86168140b688a3ca7,51331__80765__cisplatin__66.png
+51332,80765,cisplatin,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51332_processed.png,63e45ed623dffa81763046120cacf338,51332__80765__cisplatin__66.png
+51334,80765,cisplatin,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51334_processed.png,88d02080dade5d26e5f7348e192365bd,51334__80765__cisplatin__66.png
+51416,74913,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51416_processed.png,f2da954c379a70b22b5a12e21f19aca4,51416__74913__cisplatin__33.png
+51417,74910,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51417_processed.png,7c1f9bca7087589f6f7364faae2a4b9c,51417__74910__cisplatin__33.png
+51420,74913,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51420_processed.png,e4bd08073269481aad48ed777651aaa9,51420__74913__cisplatin__33.png
+51421,74910,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51421_processed.png,a4a48335f8847bf78c2bf369923ac985,51421__74910__cisplatin__33.png
+51425,74910,cisplatin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51425_processed.png,475b7241a7afc1724dffc741827cfc75,51425__74910__cisplatin__33.png
+51428,74913,cisplatin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51428_processed.png,d23a3e0f7d4c49b305aa8a6f566a0fc1,51428__74913__cisplatin__33.png
+51429,74910,cisplatin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51429_processed.png,f13388fa59a36326646163c5cabe60a4,51429__74910__cisplatin__33.png
+51432,74913,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51432_processed.png,7b84efa891de1486c1b4e984b8d60615,51432__74913__cisplatin__33.png
+51433,74913,cisplatin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51433_processed.png,5a9cd515b455cd60abbc951d42bca04a,51433__74913__cisplatin__33.png
+51434,74910,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51434_processed.png,44ba779f73e5f1359daca4899d72d81c,51434__74910__cisplatin__33.png
+51435,74910,cisplatin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51435_processed.png,6e6be6b20099368a377de71b2f29f338,51435__74910__cisplatin__33.png
+51483,81545,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51483_processed.png,c07190f3959f8671f690c09ac33a971a,51483__81545__cisplatin__33.png
+51484,81545,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51484_processed.png,c07190f3959f8671f690c09ac33a971a,51484__81545__cisplatin__33.png
+51488,81545,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51488_processed.png,a1f1103ee14951a44c03672b6f29d645,51488__81545__cisplatin__33.png
+51492,81545,cisplatin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51492_processed.png,19d06db41044c4f83dbdd40fe067cb5e,51492__81545__cisplatin__33.png
+51502,81545,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51502_processed.png,badc9e9d84989b9f3359ca3be4af0591,51502__81545__cisplatin__33.png
+51503,81545,cisplatin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51503_processed.png,80f9d90552479ccd6fbf84667cf37e3b,51503__81545__cisplatin__33.png
+51507,74935,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51507_processed.png,099a522615e90212007251a0c354e41d,51507__74935__cisplatin__33.png
+51511,74935,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51511_processed.png,95fa710a55cbd8ff55321e6a555a011c,51511__74935__cisplatin__33.png
+51515,74935,cisplatin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51515_processed.png,737f1cf99729f9824949e338dae5b7e5,51515__74935__cisplatin__33.png
+51521,74935,cisplatin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51521_processed.png,44f6e9d1a2ce59967751e35f160b94f0,51521__74935__cisplatin__33.png
+51524,74935,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51524_processed.png,8a0b60067b046885aba0a68efcce44f6,51524__74935__cisplatin__33.png
+51581,80258,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51581_processed.png,5449e306e1ee112481c76a408ea5bc39,51581__80258__cisplatin__33.png
+51587,80258,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51587_processed.png,9f269b45ea7a55cbb753468c9d4a2c45,51587__80258__cisplatin__33.png
+51591,80258,cisplatin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51591_processed.png,bf470d29629f6171c2f5c85604f700db,51591__80258__cisplatin__33.png
+51600,80258,cisplatin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51600_processed.png,eceb349306038e9b2b91a4b02c85c217,51600__80258__cisplatin__33.png
+51601,80258,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51601_processed.png,1aec65c5a22ddc1ffbf785c06e2d6a2a,51601__80258__cisplatin__33.png
+51633,81869,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51633_processed.png,0226e85bb2681fd0bbc6ceb138ddb67a,51633__81869__cisplatin__33.png
+51637,81869,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51637_processed.png,3e502d8335596c5d003e608f23d477c5,51637__81869__cisplatin__33.png
+51641,81869,cisplatin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51641_processed.png,b99910ed28316d9161123917146e0fad,51641__81869__cisplatin__33.png
+51645,81869,cisplatin,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51645_processed.png,36c87900180b55526274a4a8ae5302e8,51645__81869__cisplatin__33.png
+51652,81869,cisplatin,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51652_processed.png,dfb59b58a48352115b9f939377639782,51652__81869__cisplatin__33.png
+50046,81361,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50046_processed.png,ca5fd1013486ef362d2ee17c6b204e3c,50046__81361__mesna__100.png
+50047,81361,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50047_processed.png,3678ee4f0f0230c6a5f70b36d5c486c7,50047__81361__mesna__100.png
+50048,81361,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50048_processed.png,02a65fb706b53d8ae191651d91e9f507,50048__81361__mesna__100.png
+50049,81361,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50049_processed.png,a3f85c7a2a63a496cdfe2411aadd252c,50049__81361__mesna__100.png
+50050,81361,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50050_processed.png,383c0b36cabef7c5b5861c9985ffa962,50050__81361__mesna__100.png
+50051,81361,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50051_processed.png,cb55ce38a42a2ca84aba7a55a10c4a4c,50051__81361__mesna__100.png
+50055,82195,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50055_processed.png,8756f3a35102d167a9a8f543bf4a6b6d,50055__82195__mesna__100.png
+50059,82195,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50059_processed.png,ab58e79aeab00dd477afe0cac027cc31,50059__82195__mesna__100.png
+50063,82195,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50063_processed.png,fc9483a203a267ba4b4da341c96607c7,50063__82195__mesna__100.png
+50066,82195,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50066_processed.png,565dc8ed1b79d9e8b9f63b3d6ef7bb9f,50066__82195__mesna__100.png
+50073,82195,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50073_processed.png,416d86a4e2fafbf363e2c92888c9874b,50073__82195__mesna__100.png
+50074,82195,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50074_processed.png,70e7baf8455788ed2556a527a764ff06,50074__82195__mesna__100.png
+50076,81884,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50076_processed.png,c0d281c538ef1efe04ba53cca9f2585c,50076__81884__mesna__100.png
+50080,81884,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50080_processed.png,64d3e819f5f35dd474558ed3e1f665ad,50080__81884__mesna__100.png
+50083,81884,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50083_processed.png,cac44236812660819ad6ca13c938fc63,50083__81884__mesna__100.png
+50087,81884,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50087_processed.png,76b5f1aa4e106bee84016b04a981d64a,50087__81884__mesna__100.png
+50091,81884,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50091_processed.png,7bbdf5f1f43c59e55972b849cc4eb894,50091__81884__mesna__100.png
+50092,81884,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50092_processed.png,e1478e22ff60338a6f6a1fbf3ef271fe,50092__81884__mesna__100.png
+50099,81885,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50099_processed.png,68993b113ef006924e57ac1c20888b38,50099__81885__mesna__100.png
+50103,81885,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50103_processed.png,b77af999bfa7c810b609e261f5ca841a,50103__81885__mesna__100.png
+50107,81885,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50107_processed.png,14462c8d3dfaa8e46d52943cf4fd8f7b,50107__81885__mesna__100.png
+50111,81885,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50111_processed.png,c33029da8a3cc72ac0ff8c82895b463c,50111__81885__mesna__100.png
+50115,81885,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50115_processed.png,ada3db208a49d36d89afb730a0c8788d,50115__81885__mesna__100.png
+50116,81885,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50116_processed.png,42989ffdb4923bb2ec48c81d6e090ce9,50116__81885__mesna__100.png
+50145,80640,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50145_processed.png,6ba5eba217369d0e3412d2d1cfff82a4,50145__80640__mesna__100.png
+50149,80640,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50149_processed.png,b9c58c26c164faf921ab7cc9248ebc92,50149__80640__mesna__100.png
+50153,80640,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50153_processed.png,249aa5ef8d46190ffccd97f40c7bfed6,50153__80640__mesna__100.png
+50157,80640,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50157_processed.png,5397d364914626c63e98c983f959cad6,50157__80640__mesna__100.png
+50161,80640,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50161_processed.png,fb9e8ca63c12b798cf1bf1dd8991b902,50161__80640__mesna__100.png
+50162,80640,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50162_processed.png,6fb472ce9c9209c2994b7d453baf36b4,50162__80640__mesna__100.png
+50182,80637,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50182_processed.png,65d90fbb8f24934cabf3661bec083451,50182__80637__mesna__100.png
+50186,80637,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50186_processed.png,634dccbf3db89e400723adc971612d0e,50186__80637__mesna__100.png
+50190,80637,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50190_processed.png,d6ba37eae1888f35994b88ac2e36aece,50190__80637__mesna__100.png
+50194,80637,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50194_processed.png,0b59c4523e32076710f51ed52c99ef53,50194__80637__mesna__100.png
+50199,80637,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50199_processed.png,ba0c22b93562ce6ba5362377f4571e36,50199__80637__mesna__100.png
+50200,80637,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50200_processed.png,7dd968464d04ceaaa09f32043c7e8e9d,50200__80637__mesna__100.png
+50209,82224,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50209_processed.png,55d72b65b39506aa282fd8861b56052e,50209__82224__mesna__100.png
+50213,82224,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50213_processed.png,d0f260e5abe88127aa226e7b9925983d,50213__82224__mesna__100.png
+50214,82224,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50214_processed.png,adaf9e9e1fb88d6d9533ccf9b6fc799a,50214__82224__mesna__100.png
+50217,82224,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50217_processed.png,1ae75cd752a6d0bf17eb62761a3e836b,50217__82224__mesna__100.png
+50221,82224,mesna,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50221_processed.png,77098c9a74470aaed423c5ca11b47973,50221__82224__mesna__100.png
+50222,82224,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50222_processed.png,96d8f5209fa89b5485ec95d5a94cf1f5,50222__82224__mesna__100.png
+50235,82058,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50235_processed.png,8c8adcbf739e94883cb9aec9b76c2a65,50235__82058__mesna__100.png
+50242,82058,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50242_processed.png,c311d83b13295e4b5f40997af6b1106d,50242__82058__mesna__100.png
+50249,82058,mesna,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50249_processed.png,0a70216ebc601f144dafe8905a872c4c,50249__82058__mesna__100.png
+50339,80968,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50339_processed.png,65a3c73ba47c20e2f3d4abeef036c8c3,50339__80968__mesna__66.png
+50341,80968,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50341_processed.png,869e29e94395c673668c2e8b5c443b6c,50341__80968__mesna__66.png
+50345,80968,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50345_processed.png,9950b2fdb566f1f389460cb9a854bc0a,50345__80968__mesna__66.png
+50346,80968,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50346_processed.png,f7fe3d1b7467a5aa61e4a268ae295b76,50346__80968__mesna__66.png
+50349,80968,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50349_processed.png,da860c2e9ae61c9c1ee4958a929a533b,50349__80968__mesna__66.png
+50350,80968,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50350_processed.png,80a63528a1ad44a967c4b792e517e839,50350__80968__mesna__66.png
+50358,81876,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50358_processed.png,0d93bc28ac8a6288d295b1a6de28024a,50358__81876__mesna__66.png
+50362,81876,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50362_processed.png,d275b9ccb670b2e003146a4d26531853,50362__81876__mesna__66.png
+50364,81139,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50364_processed.png,857bda54f1878c3fabd0827c938a8bd9,50364__81139__mesna__66.png
+50366,81876,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50366_processed.png,23cbd05f5fd5da94899b850fd9ce95a5,50366__81876__mesna__66.png
+50368,81139,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50368_processed.png,1538771d6a28de8f68c546209a4cdaa5,50368__81139__mesna__66.png
+50370,81876,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50370_processed.png,32bd4a5b2f9dfbaf155a813d185de7a3,50370__81876__mesna__66.png
+50372,81139,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50372_processed.png,2bc4f05cb674bebf6d36e897307dbb79,50372__81139__mesna__66.png
+50375,81876,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50375_processed.png,9d8dd44e4c0967cfb4f60a0c7aae9061,50375__81876__mesna__66.png
+50376,81876,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50376_processed.png,348b8c5bb9c68bdb4ec550bc2465c0db,50376__81876__mesna__66.png
+50379,81139,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50379_processed.png,03a92f26872e604a942a2844578bb215,50379__81139__mesna__66.png
+50380,81139,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50380_processed.png,2ce65a4adbb3ba48146734367318ab08,50380__81139__mesna__66.png
+50476,80645,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50476_processed.png,21d2bb7eae6c9abb699b69ee57378cb9,50476__80645__mesna__66.png
+50478,80645,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50478_processed.png,17e71fa30dc9f37b5538e2db6ca504d2,50478__80645__mesna__66.png
+50480,80070,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50480_processed.png,34b06710b1461bfa92663324d0c2f46f,50480__80070__mesna__66.png
+50482,80645,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50482_processed.png,25340d8fa308be30da715fbf03597028,50482__80645__mesna__66.png
+50484,80070,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50484_processed.png,55599959a0edba7fda6c947132a96cc1,50484__80070__mesna__66.png
+50488,80070,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50488_processed.png,8c1b0b65e99bbce8344a7fd6cd3f86db,50488__80070__mesna__66.png
+50489,80070,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50489_processed.png,94c2304f3e146a934c202dfabb7fadcc,50489__80070__mesna__66.png
+50490,80645,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50490_processed.png,9fe5e6c24afd71b069e859c8b15a4d68,50490__80645__mesna__66.png
+50492,80070,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50492_processed.png,804d1b0a2aea282c5a0a7f3fab06958c,50492__80070__mesna__66.png
+50494,82191,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50494_processed.png,28f334409a6de530396185cff76bf538,50494__82191__mesna__66.png
+50498,82191,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50498_processed.png,528492d8cdb77a02b9a6639c2d66eb57,50498__82191__mesna__66.png
+50502,82191,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50502_processed.png,286951af593758611ecc17902f129645,50502__82191__mesna__66.png
+50506,82191,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50506_processed.png,7b7a40402c5944e611eda2b22c247221,50506__82191__mesna__66.png
+50511,80645,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50511_processed.png,c6b940803801f7b29a7ad423df50d237,50511__80645__mesna__66.png
+50512,80645,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50512_processed.png,ebb6cd1d085f48bb1905f6f0e1a2d16e,50512__80645__mesna__66.png
+50515,80070,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50515_processed.png,2f8bef6f903bac803c2c16628a4d4c94,50515__80070__mesna__66.png
+50516,80070,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50516_processed.png,f1015225f303c640c0dcfe08a183a5c1,50516__80070__mesna__66.png
+50519,82191,mesna,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50519_processed.png,6cae782affda756bd07e0dfac14937f9,50519__82191__mesna__66.png
+50520,82191,mesna,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50520_processed.png,5a477b7af7ce28222cdc31a7298da20d,50520__82191__mesna__66.png
+50525,80044,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50525_processed.png,ab04c5aa518552c50dea3cac4c8948cb,50525__80044__mesna__33.png
+50527,80044,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50527_processed.png,73d64d6e77e312e6f428caa1c40331d9,50527__80044__mesna__33.png
+50529,80044,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50529_processed.png,601578eae3a9655015bce8b9dce4e08a,50529__80044__mesna__33.png
+50532,80044,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50532_processed.png,a92c170b5f52d7c9ec60aa84eb47f4f2,50532__80044__mesna__33.png
+50533,80044,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50533_processed.png,5c3a1421a7fb6122c8cbadc04db9accc,50533__80044__mesna__33.png
+50535,80044,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50535_processed.png,fcfd572fac48bf1548d489ac6ad7dfbc,50535__80044__mesna__33.png
+50604,80213,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50604_processed.png,05b320f1d35593edacab7e914fd1dafe,50604__80213__mesna__33.png
+50606,81662,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50606_processed.png,a2c0dd8939fbeca0d4869f87a602975c,50606__81662__mesna__33.png
+50608,80213,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50608_processed.png,1f935275557df0102b080b5eb6198d7e,50608__80213__mesna__33.png
+50611,80213,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50611_processed.png,7111a1bbce02ce5d15701a7014dbe167,50611__80213__mesna__33.png
+50613,81662,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50613_processed.png,f885d53cd8fcc75669bb4ac7491aa752,50613__81662__mesna__33.png
+50615,80213,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50615_processed.png,3e7207f7e905a454be22f3b84d43a79e,50615__80213__mesna__33.png
+50618,80213,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50618_processed.png,af96c32740981a31527bce0caf0c9105,50618__80213__mesna__33.png
+50623,81662,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50623_processed.png,bd0f7a6a3cd5103bce5898873ea73135,50623__81662__mesna__33.png
+50626,81370,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50626_processed.png,1ae2ab4b7f8eae7f71d7416a65600671,50626__81370__mesna__33.png
+50628,81405,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50628_processed.png,56bfbf5e85d9ad251d18efe05a86fb82,50628__81405__mesna__33.png
+50629,81368,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50629_processed.png,1ec3504cc4bcdddb46757c9002c580fe,50629__81368__mesna__33.png
+50630,81368,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50630_processed.png,1ec3504cc4bcdddb46757c9002c580fe,50630__81368__mesna__33.png
+50631,81368,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50631_processed.png,1ec3504cc4bcdddb46757c9002c580fe,50631__81368__mesna__33.png
+50632,81370,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50632_processed.png,91df600faf29feacf749d8ec59e890ce,50632__81370__mesna__33.png
+50634,81405,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50634_processed.png,c3a10a7f36d9c3023e4b202851a1c4d7,50634__81405__mesna__33.png
+50635,81405,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50635_processed.png,bf3db02a8c1307cd22cc0d69ac69d6e0,50635__81405__mesna__33.png
+50636,81370,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50636_processed.png,acce071e5adb7ddbac1ea3816aadae7b,50636__81370__mesna__33.png
+50639,81405,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50639_processed.png,878fccd7347ab0806f5826f8fb93e4f9,50639__81405__mesna__33.png
+50640,81405,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50640_processed.png,878fccd7347ab0806f5826f8fb93e4f9,50640__81405__mesna__33.png
+50641,81405,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50641_processed.png,878fccd7347ab0806f5826f8fb93e4f9,50641__81405__mesna__33.png
+50642,81405,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50642_processed.png,878fccd7347ab0806f5826f8fb93e4f9,50642__81405__mesna__33.png
+50643,81405,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50643_processed.png,878fccd7347ab0806f5826f8fb93e4f9,50643__81405__mesna__33.png
+50644,81405,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50644_processed.png,133331b23fd78d69ebec063a2455de6e,50644__81405__mesna__33.png
+50646,81368,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50646_processed.png,8a5428f61134cd744819f85dc93c5091,50646__81368__mesna__33.png
+50647,81368,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50647_processed.png,8a5428f61134cd744819f85dc93c5091,50647__81368__mesna__33.png
+50648,81368,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50648_processed.png,8a5428f61134cd744819f85dc93c5091,50648__81368__mesna__33.png
+50649,81405,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50649_processed.png,6c605309079204aa69e16d142d0b15c5,50649__81405__mesna__33.png
+50650,81368,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50650_processed.png,8a5428f61134cd744819f85dc93c5091,50650__81368__mesna__33.png
+50651,81405,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50651_processed.png,1248b3b4f4a91019999ce5cc8e0ef185,50651__81405__mesna__33.png
+50652,81370,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50652_processed.png,9760dfe18b96b12253442612ad2fb369,50652__81370__mesna__33.png
+50653,81370,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50653_processed.png,94a5178936432ffeef8be7f70203213c,50653__81370__mesna__33.png
+50654,81370,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50654_processed.png,94a5178936432ffeef8be7f70203213c,50654__81370__mesna__33.png
+50658,81405,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50658_processed.png,f4dcaeecf8bd4579a894c80b5af45c5c,50658__81405__mesna__33.png
+50659,81405,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50659_processed.png,b3cccbab4813f0b10e8efac7a02c0379,50659__81405__mesna__33.png
+50660,81368,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50660_processed.png,e46c2491a39622b36dec8aa7cd63f51a,50660__81368__mesna__33.png
+50661,81368,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50661_processed.png,9ffcad7cce75572fef403877c4f5a327,50661__81368__mesna__33.png
+50693,81536,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50693_processed.png,5622fce43d1b57179332095df57aceb5,50693__81536__mesna__33.png
+50697,81536,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50697_processed.png,8a7f91a1dc315e10178040fcaddac553,50697__81536__mesna__33.png
+50701,81536,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50701_processed.png,03c75d985475e7093b89192146636c6c,50701__81536__mesna__33.png
+50705,81536,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50705_processed.png,9233b50e7814fa6c3e47c0c371daa806,50705__81536__mesna__33.png
+50712,81536,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50712_processed.png,5f6f4255d8d04476c27452a1bbd769fb,50712__81536__mesna__33.png
+50713,81536,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50713_processed.png,856cc7dbfebf1d83813b167ec8adef3c,50713__81536__mesna__33.png
+50714,80519,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50714_processed.png,d7f836e3ec1962405b5885fc12320f0b,50714__80519__mesna__33.png
+50718,80519,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50718_processed.png,4ec96a60238948c407f2753755da8958,50718__80519__mesna__33.png
+50719,80519,mesna,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50719_processed.png,ce4fb0ca110bd612dfdd885c7ecd433a,50719__80519__mesna__33.png
+50722,80519,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50722_processed.png,f1d20fb200f07707a0c4c6cf321b197d,50722__80519__mesna__33.png
+50729,80519,mesna,33,HMD Global Nokia 2.3,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/50729_processed.png,5074d061c960fd834182ad77fd3c1943,50729__80519__mesna__33.png
+51874,81176,oxaliplatin-5-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51874_processed.png,0c29b2de1e6399bf119c6038a0dd9b0d,51874__81176__oxaliplatin-5-mg-ml__100.png
+51877,81176,oxaliplatin-5-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51877_processed.png,1b0d1529ceb9db5d8dbea3c9596a1bb7,51877__81176__oxaliplatin-5-mg-ml__100.png
+51882,81176,oxaliplatin-5-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51882_processed.png,58281d93315f180e0cd00a3dde9c14ca,51882__81176__oxaliplatin-5-mg-ml__100.png
+51887,81176,oxaliplatin-5-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51887_processed.png,09dfdbe3a9c56042c8a36c72269112f6,51887__81176__oxaliplatin-5-mg-ml__100.png
+51894,81176,oxaliplatin-5-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51894_processed.png,79cbdbdcc513fef2f118a9214b613197,51894__81176__oxaliplatin-5-mg-ml__100.png
+51895,81176,oxaliplatin-5-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51895_processed.png,6244861ad204daf7ff7e880381e47fcc,51895__81176__oxaliplatin-5-mg-ml__100.png
+51897,81176,oxaliplatin-5-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51897_processed.png,e7c115c0accb2983ae1c71a63aedf2e8,51897__81176__oxaliplatin-5-mg-ml__100.png
+51900,81715,oxaliplatin-5-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51900_processed.png,7993bb7a3828cf8dcd44c3aa94bdb1ac,51900__81715__oxaliplatin-5-mg-ml__100.png
+51903,81715,oxaliplatin-5-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51903_processed.png,59fb11e39fd76b0c5b24172f8d565b6f,51903__81715__oxaliplatin-5-mg-ml__100.png
+51904,74890,oxaliplatin-5-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51904_processed.png,36ff2f36132aa847aee1c77048450cbc,51904__74890__oxaliplatin-5-mg-ml__100.png
+51907,81715,oxaliplatin-5-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51907_processed.png,0b09856ec8d76ac15c8e0822dfa98ac7,51907__81715__oxaliplatin-5-mg-ml__100.png
+51908,81715,oxaliplatin-5-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51908_processed.png,34a088cc84e94fb31b1b7735969c3878,51908__81715__oxaliplatin-5-mg-ml__100.png
+51910,74890,oxaliplatin-5-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51910_processed.png,bcca9d096992b4884676204053028f52,51910__74890__oxaliplatin-5-mg-ml__100.png
+51912,74890,oxaliplatin-5-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51912_processed.png,f012c73e23dfc42c327829e31f56cce7,51912__74890__oxaliplatin-5-mg-ml__100.png
+51913,74890,oxaliplatin-5-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51913_processed.png,be0e9496fa215c38cd7e5d468cd32a45,51913__74890__oxaliplatin-5-mg-ml__100.png
+51918,81715,oxaliplatin-5-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51918_processed.png,253ae7e9021c12bf33c98226d8b2f0c7,51918__81715__oxaliplatin-5-mg-ml__100.png
+51989,75008,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51989_processed.png,bc24ca02ec1be492acba7cec352ccae5,51989__75008__oxaliplatin-5-mg-ml__66.png
+51990,75008,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51990_processed.png,3bf428042bc3754cabc1d530efcd2e31,51990__75008__oxaliplatin-5-mg-ml__66.png
+51991,75008,oxaliplatin-5-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51991_processed.png,b9a38ee82a041710f3b97ff12d1e2be8,51991__75008__oxaliplatin-5-mg-ml__66.png
+51992,75008,oxaliplatin-5-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51992_processed.png,190fde73333ac105deada60ea92e102f,51992__75008__oxaliplatin-5-mg-ml__66.png
+51993,75008,oxaliplatin-5-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51993_processed.png,7ec86c54cea31a23cfec2fe36e8efa18,51993__75008__oxaliplatin-5-mg-ml__66.png
+51994,75008,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51994_processed.png,159c304f6e3286f8a5cb802c8e510015,51994__75008__oxaliplatin-5-mg-ml__66.png
+51995,75008,oxaliplatin-5-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51995_processed.png,a41585c4973336df59e50da0271b4177,51995__75008__oxaliplatin-5-mg-ml__66.png
+51996,75008,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/51996_processed.png,6c9173eb00d7e3da2d6d2a58d5e3b6ed,51996__75008__oxaliplatin-5-mg-ml__66.png
+52065,75003,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52065_processed.png,3430f2f5aa730405ee174c99b99e2b09,52065__75003__oxaliplatin-5-mg-ml__66.png
+52067,82197,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52067_processed.png,3c7edfbfaa994fdc6c4c401bd35c4a3a,52067__82197__oxaliplatin-5-mg-ml__66.png
+52068,82197,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52068_processed.png,5ac892edb21bf6188230ab61f0690274,52068__82197__oxaliplatin-5-mg-ml__66.png
+52069,75003,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52069_processed.png,ae1db4819bcd2f4d08ab3d6775040b03,52069__75003__oxaliplatin-5-mg-ml__66.png
+52071,82197,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52071_processed.png,90f917c816aa34b2e269501bbd41f03f,52071__82197__oxaliplatin-5-mg-ml__66.png
+52072,82197,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52072_processed.png,57a8fd7af7e08c9baca0978beba47ed9,52072__82197__oxaliplatin-5-mg-ml__66.png
+52073,75003,oxaliplatin-5-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52073_processed.png,830932baabe276507a6cde6e11e746de,52073__75003__oxaliplatin-5-mg-ml__66.png
+52077,82197,oxaliplatin-5-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52077_processed.png,ddb926e9de459fa5d261a920d4047252,52077__82197__oxaliplatin-5-mg-ml__66.png
+52078,75003,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52078_processed.png,759677a126b6e360c3f6085ebd99ce4e,52078__75003__oxaliplatin-5-mg-ml__66.png
+52079,75003,oxaliplatin-5-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52079_processed.png,9f86be0071917eeefb4e1797d13343ff,52079__75003__oxaliplatin-5-mg-ml__66.png
+52082,82197,oxaliplatin-5-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52082_processed.png,51fef6a17f48bd2ff4869b9d4cce5e38,52082__82197__oxaliplatin-5-mg-ml__66.png
+52083,82197,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52083_processed.png,8f2dcafc9c42e6afae43576a92899501,52083__82197__oxaliplatin-5-mg-ml__66.png
+52084,82197,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52084_processed.png,836618c6edc81972a9b75821fed29773,52084__82197__oxaliplatin-5-mg-ml__66.png
+52089,75002,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52089_processed.png,463d69b323a45440c485b0ea5ce84ffa,52089__75002__oxaliplatin-5-mg-ml__66.png
+52093,75002,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52093_processed.png,78ffd7c08a609801cb3ca1a8a54be213,52093__75002__oxaliplatin-5-mg-ml__66.png
+52097,75002,oxaliplatin-5-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52097_processed.png,c0b49d2c02907a52701fe50b938aabe1,52097__75002__oxaliplatin-5-mg-ml__66.png
+52100,75002,oxaliplatin-5-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52100_processed.png,a5f4d2ef05f7a7dc92dcb20cf397b666,52100__75002__oxaliplatin-5-mg-ml__66.png
+52103,75002,oxaliplatin-5-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52103_processed.png,037aae6d74e356ff0e5baa1f7e32dccd,52103__75002__oxaliplatin-5-mg-ml__66.png
+52104,75002,oxaliplatin-5-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52104_processed.png,bf9975be8401c3e6550be095a99379e6,52104__75002__oxaliplatin-5-mg-ml__66.png
+52107,75010,oxaliplatin-5-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52107_processed.png,f3fefec0dbcc0bf4cfa7f3f5deb3984e,52107__75010__oxaliplatin-5-mg-ml__33.png
+52108,75010,oxaliplatin-5-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52108_processed.png,6c9c083edb399f02097be5da26510345,52108__75010__oxaliplatin-5-mg-ml__33.png
+52109,75010,oxaliplatin-5-mg-ml,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52109_processed.png,6a469b9364d39f0fb1c5ab34c3c66b37,52109__75010__oxaliplatin-5-mg-ml__33.png
+52110,75010,oxaliplatin-5-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52110_processed.png,15e58180f071042995ed2c577cd88233,52110__75010__oxaliplatin-5-mg-ml__33.png
+52162,75011,oxaliplatin-5-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52162_processed.png,b2f1414f7fea9648cd5959152d442dcf,52162__75011__oxaliplatin-5-mg-ml__33.png
+52167,75011,oxaliplatin-5-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52167_processed.png,cd9ad61694e94244c2d30a1e439f1ff0,52167__75011__oxaliplatin-5-mg-ml__33.png
+52170,75011,oxaliplatin-5-mg-ml,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52170_processed.png,47318d08aebfdb65a314e942d06d8544,52170__75011__oxaliplatin-5-mg-ml__33.png
+52171,75011,oxaliplatin-5-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52171_processed.png,7b1259aa17b17dd059b4384d723a7709,52171__75011__oxaliplatin-5-mg-ml__33.png
+52200,82157,oxaliplatin-5-mg-ml,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52200_processed.png,28f8e27d836ae0cb10acbdc136f90b65,52200__82157__oxaliplatin-5-mg-ml__33.png
+52202,75017,oxaliplatin-5-mg-ml,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52202_processed.png,7c3c19610ba4519e08a8966f9e67110f,52202__75017__oxaliplatin-5-mg-ml__33.png
+52204,82157,oxaliplatin-5-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52204_processed.png,265f41a66ca34667a3181b65e9b2e6a9,52204__82157__oxaliplatin-5-mg-ml__33.png
+52207,75017,oxaliplatin-5-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52207_processed.png,71bbb69b4d1e669dd7cfd27483321e2a,52207__75017__oxaliplatin-5-mg-ml__33.png
+52208,82157,oxaliplatin-5-mg-ml,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52208_processed.png,1d2b10ac25ea44e7bc2960927b9610c0,52208__82157__oxaliplatin-5-mg-ml__33.png
+52210,82157,oxaliplatin-5-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52210_processed.png,f56709e4a9c02e6dc8f8eff0a6ba839c,52210__82157__oxaliplatin-5-mg-ml__33.png
+52212,75017,oxaliplatin-5-mg-ml,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52212_processed.png,21e5502d0e2789b9d1b118c56018feae,52212__75017__oxaliplatin-5-mg-ml__33.png
+52213,75017,oxaliplatin-5-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52213_processed.png,6dcee6c2ecd46015c4771b904e241053,52213__75017__oxaliplatin-5-mg-ml__33.png
+52216,82157,oxaliplatin-5-mg-ml,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52216_processed.png,d7548e478a963ea21be2e214ce7f091e,52216__82157__oxaliplatin-5-mg-ml__33.png
+52217,82157,oxaliplatin-5-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52217_processed.png,51bcffdda732bed059d598b7cc58cf82,52217__82157__oxaliplatin-5-mg-ml__33.png
+52222,75017,oxaliplatin-5-mg-ml,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52222_processed.png,3fa95b5df2013634202b67cb34fcdba3,52222__75017__oxaliplatin-5-mg-ml__33.png
+52226,75017,oxaliplatin-5-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52226_processed.png,8e446d20d6b17552fc908cf80f79e5b0,52226__75017__oxaliplatin-5-mg-ml__33.png
+52238,81274,oxaliplatin-2-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52238_processed.png,3016b3b6854ba1d5dcd8c7b2fefdf4c7,52238__81274__oxaliplatin-2-mg-ml__100.png
+52244,81274,oxaliplatin-2-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52244_processed.png,0f53281b2cf5502df6f9a153039c7624,52244__81274__oxaliplatin-2-mg-ml__100.png
+52246,81274,oxaliplatin-2-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52246_processed.png,8db317af3886b4db58ed4d1ed70c4885,52246__81274__oxaliplatin-2-mg-ml__100.png
+52250,81274,oxaliplatin-2-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52250_processed.png,74809d0eb5c79d57b9d8c18e17cca468,52250__81274__oxaliplatin-2-mg-ml__100.png
+52254,81274,oxaliplatin-2-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52254_processed.png,0d3f8cd06055baf2e9bedd36e8c407db,52254__81274__oxaliplatin-2-mg-ml__100.png
+52255,81274,oxaliplatin-2-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52255_processed.png,322ed36b647fce9591657a4c6188a14c,52255__81274__oxaliplatin-2-mg-ml__100.png
+52314,81897,oxaliplatin-2-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52314_processed.png,b9a270473ff9e1dddc7fe43fc199dcfa,52314__81897__oxaliplatin-2-mg-ml__100.png
+52315,74887,oxaliplatin-2-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52315_processed.png,250892c5bfafe09c96cd25e01971ae6f,52315__74887__oxaliplatin-2-mg-ml__100.png
+52316,81897,oxaliplatin-2-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52316_processed.png,b9a270473ff9e1dddc7fe43fc199dcfa,52316__81897__oxaliplatin-2-mg-ml__100.png
+52319,81897,oxaliplatin-2-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52319_processed.png,b22b247f59c78f5b4224b33e5e105c04,52319__81897__oxaliplatin-2-mg-ml__100.png
+52320,74887,oxaliplatin-2-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52320_processed.png,c92666793df89346ae3399f18a5e30b7,52320__74887__oxaliplatin-2-mg-ml__100.png
+52323,81897,oxaliplatin-2-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52323_processed.png,58dc181dd3b05cc32423f5caacda86f9,52323__81897__oxaliplatin-2-mg-ml__100.png
+52325,81897,oxaliplatin-2-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52325_processed.png,7701149fa376e794bb0632d789ada660,52325__81897__oxaliplatin-2-mg-ml__100.png
+52326,74887,oxaliplatin-2-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52326_processed.png,445a22f9bfa296a20eb40c4611fe7eab,52326__74887__oxaliplatin-2-mg-ml__100.png
+52331,74887,oxaliplatin-2-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52331_processed.png,4aa0b1282bb88db686b6bc06fac25073,52331__74887__oxaliplatin-2-mg-ml__100.png
+52332,74887,oxaliplatin-2-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52332_processed.png,289afb931168fec03d280ee987d9c494,52332__74887__oxaliplatin-2-mg-ml__100.png
+52333,81897,oxaliplatin-2-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52333_processed.png,afcedc4042480fb0f33d5d6b293ea94d,52333__81897__oxaliplatin-2-mg-ml__100.png
+52334,81897,oxaliplatin-2-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52334_processed.png,c9de4001574ba1f9b49f9dee7e49992b,52334__81897__oxaliplatin-2-mg-ml__100.png
+52337,74886,oxaliplatin-2-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52337_processed.png,b7d1b5ad2600c6b5da1bd253a5331fb8,52337__74886__oxaliplatin-2-mg-ml__100.png
+52341,74886,oxaliplatin-2-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52341_processed.png,596fd76e56fcac44c1282c84fcee30a3,52341__74886__oxaliplatin-2-mg-ml__100.png
+52345,74886,oxaliplatin-2-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52345_processed.png,cab6844a1795d8907dca8eeacda9fc95,52345__74886__oxaliplatin-2-mg-ml__100.png
+52349,74886,oxaliplatin-2-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52349_processed.png,db843812e227ca07f5df81285f0801ff,52349__74886__oxaliplatin-2-mg-ml__100.png
+52358,74886,oxaliplatin-2-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52358_processed.png,7422bf5cfefc136e2f6d290d65cd618d,52358__74886__oxaliplatin-2-mg-ml__100.png
+52359,74886,oxaliplatin-2-mg-ml,100,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52359_processed.png,8d95781393c45d04ba42390da5364591,52359__74886__oxaliplatin-2-mg-ml__100.png
+52360,74886,oxaliplatin-2-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52360_processed.png,03ffdf7706cb9a7098698a883ec56658,52360__74886__oxaliplatin-2-mg-ml__100.png
+52361,74886,oxaliplatin-2-mg-ml,100,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52361_processed.png,df7cc17747d469d45aafdb828d8e7b72,52361__74886__oxaliplatin-2-mg-ml__100.png
+52395,74885,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52395_processed.png,d361bb5528d356653b979d1d1ca40a2a,52395__74885__oxaliplatin-2-mg-ml__66.png
+52396,74885,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52396_processed.png,897c352f52f32395d13b792819e7f089,52396__74885__oxaliplatin-2-mg-ml__66.png
+52399,74885,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52399_processed.png,84a1bbe2a4734b474f0d837ba6014dff,52399__74885__oxaliplatin-2-mg-ml__66.png
+52403,74885,oxaliplatin-2-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52403_processed.png,ba86f04bc389a456f5738c0dc3953b4d,52403__74885__oxaliplatin-2-mg-ml__66.png
+52407,74885,oxaliplatin-2-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52407_processed.png,08ae8746089ccbf92a250b8ea8a6e197,52407__74885__oxaliplatin-2-mg-ml__66.png
+52412,74885,oxaliplatin-2-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52412_processed.png,c34419b1e7c6ee4d66b24c73da4b5b04,52412__74885__oxaliplatin-2-mg-ml__66.png
+52413,74885,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52413_processed.png,a7ce7507b695689dced37e1a3156bade,52413__74885__oxaliplatin-2-mg-ml__66.png
+52419,74878,oxaliplatin-2-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52419_processed.png,6de1efffc87bcc0ad8b92ccd093bee16,52419__74878__oxaliplatin-2-mg-ml__66.png
+52423,74878,oxaliplatin-2-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52423_processed.png,d60f0011e8cc6ce0628890e09187bf14,52423__74878__oxaliplatin-2-mg-ml__66.png
+52427,74878,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52427_processed.png,c39ca209b9b7299b0f6308504393b398,52427__74878__oxaliplatin-2-mg-ml__66.png
+52428,74878,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52428_processed.png,dd12ceba3e968233e133828c4c2f0053,52428__74878__oxaliplatin-2-mg-ml__66.png
+52434,74878,oxaliplatin-2-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52434_processed.png,d39327c982a56ab71fadff7afcb7ad32,52434__74878__oxaliplatin-2-mg-ml__66.png
+52435,74878,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52435_processed.png,ed4df645625e84c64077295b0f2ac9e9,52435__74878__oxaliplatin-2-mg-ml__66.png
+52436,74878,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52436_processed.png,e235225d860e6e780e67dfb97261749b,52436__74878__oxaliplatin-2-mg-ml__66.png
+52439,74878,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52439_processed.png,f626a2d6ecb8967d029332fa2bdd23be,52439__74878__oxaliplatin-2-mg-ml__66.png
+52440,80141,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52440_processed.png,f8f2c72a3d10aaa0cdc9c44d0e7d87df,52440__80141__oxaliplatin-2-mg-ml__66.png
+52442,74879,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52442_processed.png,2e07dd46a92f02de23072ded85270f9b,52442__74879__oxaliplatin-2-mg-ml__66.png
+52445,74879,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52445_processed.png,254007ebea5555c50c80ee3af93fe72d,52445__74879__oxaliplatin-2-mg-ml__66.png
+52447,80141,oxaliplatin-2-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52447_processed.png,37f35090de6e56097e5e7ef0e42dd3e3,52447__80141__oxaliplatin-2-mg-ml__66.png
+52449,74879,oxaliplatin-2-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52449_processed.png,c497751a5410afaa273608575ff1763e,52449__74879__oxaliplatin-2-mg-ml__66.png
+52451,80141,oxaliplatin-2-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52451_processed.png,b3328e1f6ae7e0d7ed6da885dd747a42,52451__80141__oxaliplatin-2-mg-ml__66.png
+52453,74879,oxaliplatin-2-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52453_processed.png,c22535682dbcd88775ee5a15a01a8547,52453__74879__oxaliplatin-2-mg-ml__66.png
+52455,74879,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52455_processed.png,a0012bec03f18372c9220a6bc0139d77,52455__74879__oxaliplatin-2-mg-ml__66.png
+52456,80141,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52456_processed.png,4a40533ff189fbccb577d6afc206ab24,52456__80141__oxaliplatin-2-mg-ml__66.png
+52457,80141,oxaliplatin-2-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52457_processed.png,fc4142ef0a9b8a271f13efcee63f1192,52457__80141__oxaliplatin-2-mg-ml__66.png
+52458,74879,oxaliplatin-2-mg-ml,66,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52458_processed.png,cbba74fe68f051db1d70b8945c1f57bf,52458__74879__oxaliplatin-2-mg-ml__66.png
+52459,74879,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52459_processed.png,2c15e5afd02ef80d36899909ce7f2078,52459__74879__oxaliplatin-2-mg-ml__66.png
+52460,74879,oxaliplatin-2-mg-ml,66,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52460_processed.png,d5fdd5cd1c1717792ddc6d776bf949e9,52460__74879__oxaliplatin-2-mg-ml__66.png
+52514,81273,oxaliplatin-2-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52514_processed.png,b79cfd5a8eec86200e6021a214fd97ec,52514__81273__oxaliplatin-2-mg-ml__33.png
+52520,81273,oxaliplatin-2-mg-ml,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52520_processed.png,a25c11db2484445938575ee3c6373d03,52520__81273__oxaliplatin-2-mg-ml__33.png
+52526,81273,oxaliplatin-2-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52526_processed.png,0e941335a5e46b1bead64175c8775df7,52526__81273__oxaliplatin-2-mg-ml__33.png
+52531,81273,oxaliplatin-2-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52531_processed.png,1c5102980210f7df40f0580d0ed185cc,52531__81273__oxaliplatin-2-mg-ml__33.png
+52532,81273,oxaliplatin-2-mg-ml,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52532_processed.png,b067dde2deb50b55a97cc22149b1c084,52532__81273__oxaliplatin-2-mg-ml__33.png
+52563,81711,oxaliplatin-2-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52563_processed.png,af156726e45700f29bbe9099ae1e4416,52563__81711__oxaliplatin-2-mg-ml__33.png
+52564,81711,oxaliplatin-2-mg-ml,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52564_processed.png,aebb3ae36bc23397538e8f1325310733,52564__81711__oxaliplatin-2-mg-ml__33.png
+52565,74874,oxaliplatin-2-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52565_processed.png,f52287c7976f93f1a3d742d73aec391e,52565__74874__oxaliplatin-2-mg-ml__33.png
+52568,81711,oxaliplatin-2-mg-ml,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52568_processed.png,7fa8a182b71a8f913dc13dc04bc97e5e,52568__81711__oxaliplatin-2-mg-ml__33.png
+52569,74874,oxaliplatin-2-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52569_processed.png,c66a32833fe0f189ee5ea12014710064,52569__74874__oxaliplatin-2-mg-ml__33.png
+52570,74874,oxaliplatin-2-mg-ml,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52570_processed.png,afc486dc3367fa347e98e0fd90a79f1a,52570__74874__oxaliplatin-2-mg-ml__33.png
+52573,81711,oxaliplatin-2-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52573_processed.png,9d02454f9632c113781bc2881ef0f995,52573__81711__oxaliplatin-2-mg-ml__33.png
+52575,74874,oxaliplatin-2-mg-ml,33,iPad,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52575_processed.png,88d0cb5d244a206263ccfca3718874c7,52575__74874__oxaliplatin-2-mg-ml__33.png
+52576,74874,oxaliplatin-2-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52576_processed.png,78c8f0a4bcfcc2bac28e0c3c0774def5,52576__74874__oxaliplatin-2-mg-ml__33.png
+52580,81711,oxaliplatin-2-mg-ml,33,Google Pixel 3a,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52580_processed.png,39890215ace26a775e6ec13bb33f254f,52580__81711__oxaliplatin-2-mg-ml__33.png
+52654,79847,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52654_processed.png,102631d15353251dff7b8c9c53f46e3d,52654__79847__mtx-oral__100.png
+52655,79847,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52655_processed.png,6aacd6c1436c93b5fc59fbfcd7228b05,52655__79847__mtx-oral__100.png
+52656,79847,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52656_processed.png,fa8bd00a51328de843139d56d21e9a2c,52656__79847__mtx-oral__100.png
+52657,79847,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52657_processed.png,21accd938e898509ab6b2a4d6ebb2f22,52657__79847__mtx-oral__100.png
+52658,79847,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52658_processed.png,279cc71486425a66b3c1adbee356889b,52658__79847__mtx-oral__100.png
+52659,79847,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52659_processed.png,d3c482d0b65b5decf44ad76e8acaa65e,52659__79847__mtx-oral__100.png
+52660,79853,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52660_processed.png,dece2da865f824ed48e8fc677ca93581,52660__79853__mtx-oral__100.png
+52661,79853,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52661_processed.png,a9e81e8df250c755092f7637305432b4,52661__79853__mtx-oral__100.png
+52662,79853,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52662_processed.png,20e090c6f8cd2fc446f59ad0fcf297d5,52662__79853__mtx-oral__100.png
+52663,79853,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52663_processed.png,d4e6b62db352e25829cb075238a3568b,52663__79853__mtx-oral__100.png
+52664,79853,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52664_processed.png,dfd3cce2371b5de964ea2d30f3c59a3b,52664__79853__mtx-oral__100.png
+52665,79853,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52665_processed.png,288a39b34d6415d7b99fe7badf14ecce,52665__79853__mtx-oral__100.png
+52787,80361,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52787_processed.png,3dc043b7f01002aa028971d99809181b,52787__80361__mtx-oral__100.png
+52788,80361,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52788_processed.png,cca68dfb56bc1a7c87e96c400076e265,52788__80361__mtx-oral__100.png
+52789,80361,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52789_processed.png,d232dfeed5eb10c444f5690f76023d31,52789__80361__mtx-oral__100.png
+52790,80361,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52790_processed.png,0babfbae43e2bc47408d9dbe68de5e1e,52790__80361__mtx-oral__100.png
+52791,80361,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52791_processed.png,b74915986d499a93a17afffcc85bff01,52791__80361__mtx-oral__100.png
+52792,80361,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52792_processed.png,c4e180171a00e8d6daf03403437c1406,52792__80361__mtx-oral__100.png
+52972,81181,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52972_processed.png,6f1b1bbe57f30580fef32740f4b6fd5d,52972__81181__mtx-oral__100.png
+52973,81181,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52973_processed.png,0a37a4c0bcf75ee8a7f209d4e9a40b16,52973__81181__mtx-oral__100.png
+52974,81181,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52974_processed.png,5a1f0366125d4b533561d5f3841f216e,52974__81181__mtx-oral__100.png
+52975,81181,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52975_processed.png,cea7ca5c40dca56b993dfdd163c82de0,52975__81181__mtx-oral__100.png
+52976,81181,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52976_processed.png,813fa767a53965053df0c5bbb2b2cfc9,52976__81181__mtx-oral__100.png
+52977,81181,mtx-oral,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52977_processed.png,1a825bb5fac8da36ca129b90ec49b84a,52977__81181__mtx-oral__100.png
+52714,80015,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52714_processed.png,264b41e514840169ff1de015c6f78e97,52714__80015__mtx-oral__66.png
+52715,80015,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52715_processed.png,568d272f824ae00bd65f5f877f7a1f51,52715__80015__mtx-oral__66.png
+52751,80221,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52751_processed.png,2d24c4a4e88b007586864f0881611ee4,52751__80221__mtx-oral__66.png
+52752,80221,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52752_processed.png,9be6db70b4cc4da5a78e2ed5b6356065,52752__80221__mtx-oral__66.png
+52753,80221,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52753_processed.png,e1b63e457a18a7fe8fe7585ee06e0333,52753__80221__mtx-oral__66.png
+52754,80221,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52754_processed.png,b2eb4e8d1156e79549a08e06dbefb891,52754__80221__mtx-oral__66.png
+52755,80221,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52755_processed.png,e849a6d68134bb7cc78358f3befa4b6f,52755__80221__mtx-oral__66.png
+52756,80221,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52756_processed.png,4c8578ae662b7bd863ad26e5bebb05f3,52756__80221__mtx-oral__66.png
+52757,80221,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52757_processed.png,fb310eef466d50daac4277d192bb33c5,52757__80221__mtx-oral__66.png
+52758,80221,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52758_processed.png,ececd2c01274fdd88393b0fcc9eb4869,52758__80221__mtx-oral__66.png
+52759,80221,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52759_processed.png,aef404c7bd540de7136e9ee15d7df66a,52759__80221__mtx-oral__66.png
+52760,80221,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52760_processed.png,08d2b24fda9d7c675c053aa52a162619,52760__80221__mtx-oral__66.png
+52761,80221,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52761_processed.png,ac9f432da95e4d62f71b5e6b2cb1e8a7,52761__80221__mtx-oral__66.png
+52762,80221,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52762_processed.png,f8420902ba3cb02f4533c6ca42cad85f,52762__80221__mtx-oral__66.png
+52905,81060,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52905_processed.png,78b03e38956d15013d69a7f824012a2a,52905__81060__mtx-oral__66.png
+52906,81060,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52906_processed.png,c9244b0e7e7e238c04a34ed600f19c62,52906__81060__mtx-oral__66.png
+52907,81060,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52907_processed.png,e44b3a4866b76bb7e45fd8ba0e14275d,52907__81060__mtx-oral__66.png
+52908,81060,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52908_processed.png,da50afa82bab45e780580b84702eaea6,52908__81060__mtx-oral__66.png
+52909,81060,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52909_processed.png,a5b544713f845000051098a172d6c1d8,52909__81060__mtx-oral__66.png
+52910,81060,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52910_processed.png,becf0dc58ea8c920128dff9baa4a4d3b,52910__81060__mtx-oral__66.png
+52960,81157,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52960_processed.png,bcbd1caf47e0415abec0eab84f6b1898,52960__81157__mtx-oral__66.png
+52961,81157,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52961_processed.png,366106ff568234f02abd900b04e41a12,52961__81157__mtx-oral__66.png
+52962,81157,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52962_processed.png,9223d05690287fd1363c92781bc4fb4d,52962__81157__mtx-oral__66.png
+52963,81157,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52963_processed.png,8ac82450ecc229bf2077894d40fde5e5,52963__81157__mtx-oral__66.png
+52964,81157,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52964_processed.png,689cc332ad751d81f60468a425ee1f01,52964__81157__mtx-oral__66.png
+52965,81157,mtx-oral,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52965_processed.png,3400f80221133f79900b78db07f5f3c9,52965__81157__mtx-oral__66.png
+52666,79951,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52666_processed.png,5a6958e43059e869831d7ce3342ad38d,52666__79951__mtx-oral__33.png
+52667,79951,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52667_processed.png,a25d885a105420dca2616dac8d463585,52667__79951__mtx-oral__33.png
+52668,79951,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52668_processed.png,9524cc9453c766c17ec1ce326e3f4aff,52668__79951__mtx-oral__33.png
+52669,79951,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52669_processed.png,43abd03b0446e44788c1c4dcf66871b2,52669__79951__mtx-oral__33.png
+52670,79951,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52670_processed.png,d0f7b2f89869acc197b57fa774e28e75,52670__79951__mtx-oral__33.png
+52671,79951,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52671_processed.png,63eb42a8399c0420b55a925f398015c2,52671__79951__mtx-oral__33.png
+52672,80006,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52672_processed.png,47897f042f7e79563531daf3850db19d,52672__80006__mtx-oral__33.png
+52673,80006,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52673_processed.png,664831bac187fe90c2687b370daee7c4,52673__80006__mtx-oral__33.png
+52674,80006,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52674_processed.png,3ffbf664994d8b50505e15a6dc6809b2,52674__80006__mtx-oral__33.png
+52675,80006,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52675_processed.png,57367463e4fb85f3b5d7fb88bca57b10,52675__80006__mtx-oral__33.png
+52676,80006,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52676_processed.png,093b7a45432570312cd89b39c6702d72,52676__80006__mtx-oral__33.png
+52677,80006,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52677_processed.png,1696982f63f8ee9243889cb2c306f9d0,52677__80006__mtx-oral__33.png
+52984,81285,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52984_processed.png,1cc75003813e76b15456366971b37e36,52984__81285__mtx-oral__33.png
+52985,81285,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52985_processed.png,c6713edd70a76f3472f87db2e865f8aa,52985__81285__mtx-oral__33.png
+52986,81285,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52986_processed.png,4423877871ab3b713bbabeabe5640784,52986__81285__mtx-oral__33.png
+52987,81285,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52987_processed.png,feabd28b273e4a1d2428423a0b766371,52987__81285__mtx-oral__33.png
+52988,81285,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52988_processed.png,1efd7f1ea89b722363bd2ebcfe20ba6a,52988__81285__mtx-oral__33.png
+52989,81285,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52989_processed.png,22e5c555331df90efe088ec69172e8c1,52989__81285__mtx-oral__33.png
+52990,81285,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52990_processed.png,d8c74bf97c8d206729fbc8d120cb4577,52990__81285__mtx-oral__33.png
+52991,81285,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52991_processed.png,ad30fbf765ac3f04698ade892009747f,52991__81285__mtx-oral__33.png
+52992,81285,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52992_processed.png,44083807e7aa6a5435816ab312533c17,52992__81285__mtx-oral__33.png
+53117,81713,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53117_processed.png,59eb5a10888e4282ca127ba782e887bd,53117__81713__mtx-oral__33.png
+53118,81713,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53118_processed.png,dbb9c602547f7e009a467be11583b711,53118__81713__mtx-oral__33.png
+53119,81713,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53119_processed.png,29c2374867932e6fc555e59c569bbea6,53119__81713__mtx-oral__33.png
+53120,81713,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53120_processed.png,ec54b589cbb5efcb5b34552af8e23cde,53120__81713__mtx-oral__33.png
+53121,81713,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53121_processed.png,0c43d5f9a8d03509bb8b99dd81aca8b4,53121__81713__mtx-oral__33.png
+53122,81713,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53122_processed.png,be409b9b1ef435d4cb483653d10135c5,53122__81713__mtx-oral__33.png
+53123,81713,mtx-oral,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53123_processed.png,5d9f51e1396ec28f903b0063d038f671,53123__81713__mtx-oral__33.png
+52873,80977,mtx-injectable,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52873_processed.png,3d0b201cfca886a2d1aa71eef6b51d6c,52873__80977__mtx-injectable__100.png
+52874,80977,mtx-injectable,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52874_processed.png,def1d4adbe07e131797b19d6e53a1dd8,52874__80977__mtx-injectable__100.png
+52875,80977,mtx-injectable,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52875_processed.png,714c6a269f395ba3b137656edafa4a44,52875__80977__mtx-injectable__100.png
+52876,80977,mtx-injectable,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52876_processed.png,d4446f80fcaf6e31c74a812da424d9ad,52876__80977__mtx-injectable__100.png
+52877,80977,mtx-injectable,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52877_processed.png,8cf236db86af31e439e5a2fd4e3c3806,52877__80977__mtx-injectable__100.png
+52878,80977,mtx-injectable,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52878_processed.png,4776c192d4cfb829229542aa48e0e266,52878__80977__mtx-injectable__100.png
+53267,82225,mtx-injectable,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53267_processed.png,e60454dbf278d1e2bf1feb7161a4524d,53267__82225__mtx-injectable__100.png
+53268,82225,mtx-injectable,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53268_processed.png,1eb64e14b73869c9ee5e61b1a67e1cd9,53268__82225__mtx-injectable__100.png
+53269,82225,mtx-injectable,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53269_processed.png,a2d0c3adcd01e7a153b52c2bc7c9b69a,53269__82225__mtx-injectable__100.png
+53270,82225,mtx-injectable,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53270_processed.png,9dcc8cacf6a5d1443a8a4fc9051f6569,53270__82225__mtx-injectable__100.png
+53271,82225,mtx-injectable,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53271_processed.png,8300ab1f9248b77a8b2967494cd5a017,53271__82225__mtx-injectable__100.png
+53272,82225,mtx-injectable,100,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53272_processed.png,da5ae787210f22619d7940823c1829af,53272__82225__mtx-injectable__100.png
+52830,80619,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52830_processed.png,4fcff5ea9ff393403ac37b2e40319272,52830__80619__mtx-injectable__66.png
+52831,80619,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52831_processed.png,305ba4af1910970b35cd07e95c93d865,52831__80619__mtx-injectable__66.png
+52832,80619,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52832_processed.png,566bd2b389eef603f7f8acb14ab62ab1,52832__80619__mtx-injectable__66.png
+52833,80619,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52833_processed.png,b7b0f64718ad8e7674aa5736951daa98,52833__80619__mtx-injectable__66.png
+52834,80619,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52834_processed.png,c5c44e9366291570cd8571f74daef402,52834__80619__mtx-injectable__66.png
+52835,80619,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52835_processed.png,02906b80327be504c03429c6740552c2,52835__80619__mtx-injectable__66.png
+53150,81840,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53150_processed.png,92e910830dcfc8b277d24539c5050fec,53150__81840__mtx-injectable__66.png
+53151,81840,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53151_processed.png,2a0011a62404e794addc8a1236b925fc,53151__81840__mtx-injectable__66.png
+53152,81840,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53152_processed.png,793b83cf66e1eed4e854ab416873304a,53152__81840__mtx-injectable__66.png
+53153,81840,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53153_processed.png,3f484752f95214a85bb2ce928c08da48,53153__81840__mtx-injectable__66.png
+53154,81840,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53154_processed.png,78a85dc360d75b7be91d3be2b5b6c173,53154__81840__mtx-injectable__66.png
+53155,81840,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53155_processed.png,5087089cafc3763a7f06ab452a8c08a8,53155__81840__mtx-injectable__66.png
+53194,81899,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53194_processed.png,7250847dbe5255649a0ba912a2e784b0,53194__81899__mtx-injectable__66.png
+53195,81899,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53195_processed.png,56fd3c46a7c104c9a1e4b65cf230c37e,53195__81899__mtx-injectable__66.png
+53196,81899,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53196_processed.png,4f5c4162160999ac4b46e12e9d0ccd96,53196__81899__mtx-injectable__66.png
+53197,81899,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53197_processed.png,4581a2436589cf594d7ce2248b926d0b,53197__81899__mtx-injectable__66.png
+53198,81899,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53198_processed.png,93855540db0197bfe5e4e27a5feee47f,53198__81899__mtx-injectable__66.png
+53199,81899,mtx-injectable,66,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53199_processed.png,236f596fc726d7fe4af49807e5992326,53199__81899__mtx-injectable__66.png
+52744,80176,mtx-injectable,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52744_processed.png,ddde878516fe7b043895d9e5a51e2d69,52744__80176__mtx-injectable__33.png
+52745,80176,mtx-injectable,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52745_processed.png,6970d709a6bba26573a8d7de45df20c2,52745__80176__mtx-injectable__33.png
+52746,80176,mtx-injectable,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52746_processed.png,790568f8707dda21b7a197a17ec8e395,52746__80176__mtx-injectable__33.png
+52747,80176,mtx-injectable,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52747_processed.png,977aa05b92f0c9be76966c204f56992c,52747__80176__mtx-injectable__33.png
+52748,80176,mtx-injectable,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52748_processed.png,ce923971a998012b1f960824d62a6200,52748__80176__mtx-injectable__33.png
+52749,80176,mtx-injectable,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52749_processed.png,1bee40abbacc29b4e84cc09895db88e6,52749__80176__mtx-injectable__33.png
+52750,80176,mtx-injectable,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/52750_processed.png,220c129edd01bf35ecac6ced59af5af8,52750__80176__mtx-injectable__33.png
+53249,82201,mtx-injectable,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53249_processed.png,2180ffbf98d6d38e8635934acbf4a028,53249__82201__mtx-injectable__33.png
+53250,82201,mtx-injectable,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53250_processed.png,2ef0cb7148e678fdb78a5d289a229272,53250__82201__mtx-injectable__33.png
+53251,82201,mtx-injectable,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53251_processed.png,29337917273b620dc242b5dbba443032,53251__82201__mtx-injectable__33.png
+53252,82201,mtx-injectable,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53252_processed.png,a3f76d4ab4b9d07cadc89c77eb86e25b,53252__82201__mtx-injectable__33.png
+53253,82201,mtx-injectable,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53253_processed.png,6f6ffb7b88f94e09a31ecb844fe695dd,53253__82201__mtx-injectable__33.png
+53254,82201,mtx-injectable,33,unknown,https://pad.crc.nd.edu//var/www/html/images/padimages/processed/50000/53254_processed.png,114079396688f17845adbbf9edf0c6e3,53254__82201__mtx-injectable__33.png

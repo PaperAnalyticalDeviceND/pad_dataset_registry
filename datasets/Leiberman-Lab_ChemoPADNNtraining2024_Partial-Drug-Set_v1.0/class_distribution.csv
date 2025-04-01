@@ -1,0 +1,11 @@
+class,#dev,#test,#total
+hydroxyurea,561,141,702
+mesna,509,128,637
+doxorubicin,474,118,592
+cisplatin,421,105,526
+mtx-oral,282,71,353
+oxaliplatin-2-mg-ml,248,62,310
+oxaliplatin-5-mg-ml,210,52,262
+mtx-injectable,141,35,176
+lactose,41,10,51
+#total,2891,723,3614

@@ -1,0 +1,184 @@
+{
+  "@context": {
+    "@language": "en",
+    "cr": "http://mlcommons.org/croissant/",
+    "schema": "http://schema.org/",
+    "dct": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "@vocab": "http://mlcommons.org/croissant/",
+    "name": "schema:name",
+    "description": "schema:description",
+    "version": "schema:version",
+    "datePublished": {
+      "@id": "schema:datePublished",
+      "@type": "xsd:dateTime"
+    },
+    "license": {
+      "@id": "schema:license",
+      "@type": "@id"
+    },
+    "creator": "schema:creator",
+    "recordCount": {
+      "@id": "cr:recordCount",
+      "@type": "xsd:integer"
+    },
+    "fileCount": {
+      "@id": "cr:fileCount",
+      "@type": "xsd:integer"
+    },
+    "distribution": "schema:distribution",
+    "contentUrl": {
+      "@id": "schema:contentUrl",
+      "@type": "@id"
+    },
+    "encodingFormat": "schema:encodingFormat",
+    "sha256": "cr:sha256"
+  },
+  "@id": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
+  "@type": [
+    "cr:Dataset",
+    "schema:Dataset"
+  ],
+  "name": "Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
+  "description": "The ChemoPADNNtraining2024 Dataset is a curated collection of Paper Analytical Device (PAD) images used for chemotherapy drug identification and analysis.",
+  "version": "v1.0",
+  "datePublished": "2025-03-31T21:22:22Z",
+  "license": "https://www.apache.org/licenses/LICENSE-2.0",
+  "creator": {
+    "@type": "schema:Person",
+    "name": "Priscila Saboia Moreira",
+    "url": "https://github.com/PaperAnalyticalDeviceND"
+  },
+  "publisher": {
+    "@type": "schema:Organization",
+    "name": "PaperAnalyticalDeviceND",
+    "url": "https://github.com/PaperAnalyticalDeviceND"
+  },
+  "url": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "DATASET_NAME",
+    "machine learning",
+    "computer vision",
+    "dataset"
+  ],
+  "citations": [],
+  "distribution": [
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_dev.csv",
+      "name": "metadata_dev.csv",
+      "description": "Train dataset for Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_dev.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "ad49b5832951e574b57bac48283fde4555373c20da21206045fc1b16450ea742",
+      "dateModified": "2025-03-31T21:22:29Z",
+      "contentSize": "555878 bytes",
+      "inLanguage": "en"
+    },
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_test.csv",
+      "name": "metadata_test.csv",
+      "description": "Test dataset for Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_test.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "c0c35e31681279fc8f6d03aebdeae9b080667087036f70f25daad8fa3ad656b5",
+      "dateModified": "2025-03-31T21:22:29Z",
+      "contentSize": "149248 bytes",
+      "inLanguage": "en"
+    }
+  ],
+  "recordCount": 3609,
+  "fileCount": 2,
+  "temporalCoverage": "DATE",
+  "datasetSchema": {
+    "@type": "cr:TableSchema",
+    "columns": [
+      {
+        "@type": "xsd:integer",
+        "name": "id",
+        "description": "Column: id",
+        "dataType": "integer"
+      },
+      {
+        "@type": "xsd:integer",
+        "name": "sample_id",
+        "description": "Column: sample_id",
+        "dataType": "integer"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "sample_name",
+        "description": "Column: sample_name",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:integer",
+        "name": "quantity",
+        "description": "Column: quantity",
+        "dataType": "integer"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "camera_type_1",
+        "description": "Column: camera_type_1",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "url",
+        "description": "Column: url",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "hashlib_md5",
+        "description": "Column: hashlib_md5",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "image_name",
+        "description": "Column: image_name",
+        "dataType": "string"
+      }
+    ]
+  },
+  "dataSplits": [
+    {
+      "@type": "cr:DataSplit",
+      "name": "train",
+      "description": "Training data split",
+      "recordCount": 2847,
+      "splits": [
+        {
+          "@type": "schema:PropertyValue",
+          "propertyID": "train",
+          "value": "train"
+        }
+      ]
+    },
+    {
+      "@type": "cr:DataSplit",
+      "name": "test",
+      "description": "Test data split",
+      "recordCount": 762,
+      "splits": [
+        {
+          "@type": "schema:PropertyValue",
+          "propertyID": "test",
+          "value": "test"
+        }
+      ]
+    }
+  ]
+}
