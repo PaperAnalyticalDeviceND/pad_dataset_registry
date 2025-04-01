@@ -1,72 +1,53 @@
-# PAD Dataset Registry Website
+# PAD Dataset Registry
 
-This directory contains the GitHub Pages website for the Paper Analytical Device (PAD) Dataset Registry. The website provides a user-friendly interface to browse and access the datasets in the repository, along with a Croissant-compliant API.
+This directory contains the GitHub Pages website for the Paper Analytical Device (PAD) Dataset Registry. The website provides a user-friendly interface to browse and access the datasets in the repository.
 
-## Overview
+## Features
 
-The PAD Dataset Registry website serves as:
+- **Croissant-Compliant API**: All datasets are available through a Croissant-compliant API
+- **Dataset Catalog**: A searchable catalog of all available datasets
+- **Dataset Details**: Detailed information about each dataset, including metadata, files, and data splits
+- **Automated Deployment**: The website is automatically built and deployed using GitHub Actions
 
-1. A public-facing interface for dataset discovery and access
-2. A Croissant-compliant API for programmatic access to datasets
-3. Documentation for the PAD datasets and how to use them
+## Getting Started
+
+For detailed instructions on setting up and deploying the dataset server, see [SETUP.md](SETUP.md).
+
+## Quick Start
+
+1. **Generate a Croissant JSONLD file for a dataset**
+
+```bash
+cd _scripts
+python create_croissant.py --dataset-dir ../../datasets/YourDatasetName
+```
+
+2. **Generate the dataset catalog**
+
+```bash
+python generate_catalog.py
+```
+
+3. **Test the site locally**
+
+```bash
+cd ..
+bundle exec jekyll serve
+```
+
+4. **Access the site**
+
+Open your browser to http://localhost:4000/pad_dataset_registry/
 
 ## Directory Structure
 
 - **_data/**: Contains the dataset catalog JSON file
-- **_layouts/**: Contains the layout templates for the website
+- **_layouts/**: Contains the Jekyll layout templates
 - **_scripts/**: Contains Python scripts for generating metadata and catalogs
-- **api/**: Contains the API endpoints and Croissant JSONLD files
-- **assets/**: Contains CSS and JavaScript files for the website
-- **datasets/**: Contains the individual dataset pages
-
-## Key Scripts
-
-The website generation relies on two main Python scripts:
-
-### 1. validate_croissant.py
-
-This script validates all Croissant JSONLD files in the repository to ensure they comply with the Croissant specification. It checks for:
-- Required fields and properties
-- Valid JSON-LD syntax
-- Proper schema references
-- Consistency in dataset descriptions
-
-Usage:
-```bash
-python docs/_scripts/validate_croissant.py
-```
-
-### 2. generate_catalog.py
-
-This script generates the dataset catalog that powers the website. It:
-- Scans all dataset directories in the repository
-- Extracts metadata from the croissant.jsonld files
-- Creates a catalog.json file in the _data directory
-- Generates individual dataset pages in the datasets directory
-- Copies the croissant.jsonld files to the API directory
-
-Usage:
-```bash
-python docs/_scripts/generate_catalog.py
-```
-
-## Automated Deployment
-
-The website is automatically built and deployed using GitHub Actions whenever changes are pushed to the main branch. The workflow:
-
-1. Validates all Croissant JSONLD files using validate_croissant.py
-2. Generates the dataset catalog using generate_catalog.py
-3. Builds the website
-4. Deploys to GitHub Pages
-
-## Additional Scripts
-
-The _scripts directory contains additional utilities:
-
-- **create_croissant.py**: Generates a Croissant JSONLD file for a new dataset
-- **template_croissant.jsonld**: Template file used by create_croissant.py
-- **requirements.txt**: Python dependencies required by the scripts
+- **api/**: Contains the API endpoints
+- **assets/**: Contains CSS and JavaScript files
+- **datasets/**: Contains the dataset pages
 
 ## Contributing
 
-For information on contributing to the PAD Dataset Registry, including adding new datasets, please see the main [README.md](../README.md) file.
+If you'd like to contribute to the PAD Dataset Registry, please see the main [README.md](../README.md) file for information.
