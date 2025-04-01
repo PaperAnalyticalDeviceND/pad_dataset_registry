@@ -748,6 +748,133 @@
     "readme_url": null
   },
   {
+    "name": "Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
+    "description": "The ChemoPADNNtraining2024 Dataset is a curated collection of Paper Analytical Device (PAD) images used for chemotherapy drug identification and analysis.",
+    "recordCount": 3609,
+    "fileCount": 2,
+    "version": "v1.0",
+    "datePublished": "2025-03-31T21:22:22Z",
+    "distribution": [
+      {
+        "@type": [
+          "cr:FileObject",
+          "schema:MediaObject",
+          "schema:DataDownload"
+        ],
+        "@id": "datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_dev.csv",
+        "name": "metadata_dev.csv",
+        "description": "Train dataset for Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
+        "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_dev.csv",
+        "encodingFormat": "text/csv",
+        "sha256": "ad49b5832951e574b57bac48283fde4555373c20da21206045fc1b16450ea742",
+        "dateModified": "2025-03-31T21:22:29Z",
+        "contentSize": "555878 bytes",
+        "inLanguage": "en"
+      },
+      {
+        "@type": [
+          "cr:FileObject",
+          "schema:MediaObject",
+          "schema:DataDownload"
+        ],
+        "@id": "datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_test.csv",
+        "name": "metadata_test.csv",
+        "description": "Test dataset for Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
+        "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_test.csv",
+        "encodingFormat": "text/csv",
+        "sha256": "c0c35e31681279fc8f6d03aebdeae9b080667087036f70f25daad8fa3ad656b5",
+        "dateModified": "2025-03-31T21:22:29Z",
+        "contentSize": "149248 bytes",
+        "inLanguage": "en"
+      }
+    ],
+    "datasetSchema": {
+      "@type": "cr:TableSchema",
+      "columns": [
+        {
+          "@type": "xsd:integer",
+          "name": "id",
+          "description": "Column: id",
+          "dataType": "integer"
+        },
+        {
+          "@type": "xsd:integer",
+          "name": "sample_id",
+          "description": "Column: sample_id",
+          "dataType": "integer"
+        },
+        {
+          "@type": "xsd:string",
+          "name": "sample_name",
+          "description": "Column: sample_name",
+          "dataType": "string"
+        },
+        {
+          "@type": "xsd:integer",
+          "name": "quantity",
+          "description": "Column: quantity",
+          "dataType": "integer"
+        },
+        {
+          "@type": "xsd:string",
+          "name": "camera_type_1",
+          "description": "Column: camera_type_1",
+          "dataType": "string"
+        },
+        {
+          "@type": "xsd:string",
+          "name": "url",
+          "description": "Column: url",
+          "dataType": "string"
+        },
+        {
+          "@type": "xsd:string",
+          "name": "hashlib_md5",
+          "description": "Column: hashlib_md5",
+          "dataType": "string"
+        },
+        {
+          "@type": "xsd:string",
+          "name": "image_name",
+          "description": "Column: image_name",
+          "dataType": "string"
+        }
+      ]
+    },
+    "dataSplits": [
+      {
+        "@type": "cr:DataSplit",
+        "name": "train",
+        "description": "Training data split",
+        "recordCount": 2847,
+        "splits": [
+          {
+            "@type": "schema:PropertyValue",
+            "propertyID": "train",
+            "value": "train"
+          }
+        ]
+      },
+      {
+        "@type": "cr:DataSplit",
+        "name": "test",
+        "description": "Test data split",
+        "recordCount": 762,
+        "splits": [
+          {
+            "@type": "schema:PropertyValue",
+            "propertyID": "test",
+            "value": "test"
+          }
+        ]
+      }
+    ],
+    "url": "/pad_dataset_registry/datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
+    "apiUrl": "/pad_dataset_registry/api/datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0.json",
+    "has_readme": true,
+    "readme_url": "/pad_dataset_registry/datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/readme"
+  },
+  {
     "name": "TFDA_MSH-Tanzania_v2.0",
     "description": "New version of the dataset based on the MSH Tanzania project.",
     "recordCount": 2949,
