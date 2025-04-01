@@ -24,6 +24,15 @@ Welcome to the **FHI2020 Stratified Sampling Dataset**, a comprehensive collecti
       - [**Test set (2078 images)**](#test-set-2078-images)
       - [**Camera and Drug Heatmap**](#camera-and-drug-heatmap)
     - [Directory Structure](#directory-structure)
+  - [How to download the dataset](#how-to-download-the-dataset)
+    - [Using DVC](#using-dvc)
+    - [Using Google Colab](#using-google-colab)
+  - [License](#license)
+  - [Contact](#contact)
+  - [How to cite](#how-to-cite)
+  - [Acknowledgements](#acknowledgements)
+  - [Contributors](#contributors)
+  - [Versioning](#versioning)
 
 <!-- vscode-jupyter-toc-config
 	numbering=false
@@ -86,3 +95,25 @@ datasets/FHI2020_Stratified_Sampling
 ├── dev_images [5923 images]
 └── test_images [2078 images]
 ```
+
+
+## <a id='toc1_2_'></a>[How to download the dataset](#toc0_)
+
+### <a id='toc1_2_1_'></a>[Using DVC](#toc0_)
+```
+dvc get https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry datasets/FHI2020_Stratified_Sampling
+```
+
+### <a id='toc1_2_2_'></a>[Using Google Colab](#toc0_)
+
+Please refer to the [Google Colab Instructions](../../../gcolab_instructions/README.md) before downloading the dataset using Google Colab.
+
+There is also a notebook available that demonstrates how to download the dataset along with an extracted RGB pixel, which can be used to generate PLSR coefficients. You can find it at [PADs__get_dataset_with_processed_RGB.ipynb](../../../gcolab_instructions/PADs__get_dataset_with_processed_RGB.ipynb).
+
+## <a id='toc1_3_'></a>[License](#toc0_)
+## <a id='toc1_4_'></a>[Contact](#toc0_)
+## <a id='toc1_5_'></a>[How to cite](#toc0_)
+## <a id='toc1_6_'></a>[Acknowledgements](#toc0_)
+## <a id='toc1_7_'></a>[Contributors](#toc0_)
+## <a id='toc1_8_'></a>[Versioning](#toc0_)
+

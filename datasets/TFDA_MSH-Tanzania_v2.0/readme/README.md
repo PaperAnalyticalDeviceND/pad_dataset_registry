@@ -52,6 +52,13 @@ datasets/MHS-Tanzania
 
 ![Figure Description](./figs/class_distribution_combined.png)
 
+## How to download the dataset 
+
+### Using DVC 
+
+```bash
+dvc get https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry datasets/MHS-Tanzania
+```
 
 <!-- 
 ## License
