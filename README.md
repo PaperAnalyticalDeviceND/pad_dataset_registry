@@ -75,9 +75,14 @@ To add a new dataset to the registry:
 
 1. Create a new directory in the `datasets` folder with your dataset name
 2. Add the required files to the directory:
-   - `croissant.jsonld`: The Croissant metadata file
    - `metadata_dev.csv`: The training dataset metadata
    - `metadata_test.csv`: The test dataset metadata
+   - To generate the Croissant metadata file, 
+     ```bash
+     cd _scripts
+     python create_croissant.py --dataset-dir ../../datasets/YourDatasetName
+     ```
+   - Optionally you can add a README.md file which will get rendered as a webpage under **Documentation**
 
 3. Push your changes to the repository. GitHub Actions will automatically:
    - Validate your Croissant metadata
