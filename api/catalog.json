@@ -875,6 +875,192 @@
     "readme_url": "/pad_dataset_registry/datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/readme"
   },
   {
+    "name": "Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
+    "description": "Hand-curated annotated successor to the ChemoPADNNtraining2024 Partial-Drug-Set release. Carries HPLC-measured concentration labels plus annotation-specific quality flags (lighting, background, status, missing_card) on a PAD#-grouped deterministic split.",
+    "recordCount": 3279,
+    "fileCount": 3,
+    "version": "v1.0",
+    "datePublished": "2026-06-07T11:42:27Z",
+    "distribution": [
+      {
+        "@type": [
+          "cr:FileObject",
+          "schema:MediaObject",
+          "schema:DataDownload"
+        ],
+        "@id": "datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_dev.csv",
+        "name": "metadata_dev.csv",
+        "description": "Train dataset for Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
+        "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_dev.csv",
+        "encodingFormat": "text/csv",
+        "sha256": "5db7f4f47eca09a24a1d6e58c7431bbdb1f947c5016bc87e125a39378df4df21",
+        "dateModified": "2026-06-07T11:42:27Z",
+        "contentSize": "458041 bytes",
+        "inLanguage": "en"
+      },
+      {
+        "@type": [
+          "cr:FileObject",
+          "schema:MediaObject",
+          "schema:DataDownload"
+        ],
+        "@id": "datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_test.csv",
+        "name": "metadata_test.csv",
+        "description": "Test dataset for Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
+        "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_test.csv",
+        "encodingFormat": "text/csv",
+        "sha256": "a73acfec2e36fb8df78ca8a49a27f714529f3053ba238ed91e24fcc475e2a559",
+        "dateModified": "2026-06-07T11:42:27Z",
+        "contentSize": "108487 bytes",
+        "inLanguage": "en"
+      },
+      {
+        "@type": [
+          "cr:FileObject",
+          "schema:MediaObject",
+          "schema:DataDownload"
+        ],
+        "@id": "datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_val.csv",
+        "name": "metadata_val.csv",
+        "description": "Validation dataset for Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
+        "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_val.csv",
+        "encodingFormat": "text/csv",
+        "sha256": "8ad9c6de90b51d8fc0b0dd00b27af6a8836323fa6b203edda2015823849f08db",
+        "dateModified": "2026-06-07T11:42:27Z",
+        "contentSize": "188335 bytes",
+        "inLanguage": "en"
+      }
+    ],
+    "datasetSchema": {
+      "@type": "cr:TableSchema",
+      "columns": [
+        {
+          "@type": "xsd:integer",
+          "name": "id",
+          "description": "Column: id",
+          "dataType": "integer"
+        },
+        {
+          "@type": "xsd:integer",
+          "name": "sample_id",
+          "description": "Column: sample_id",
+          "dataType": "integer"
+        },
+        {
+          "@type": "xsd:string",
+          "name": "sample_name",
+          "description": "Column: sample_name",
+          "dataType": "string"
+        },
+        {
+          "@type": "xsd:decimal",
+          "name": "quantity",
+          "description": "Column: quantity",
+          "dataType": "number"
+        },
+        {
+          "@type": "xsd:string",
+          "name": "camera_type_1",
+          "description": "Column: camera_type_1",
+          "dataType": "string"
+        },
+        {
+          "@type": "xsd:string",
+          "name": "url",
+          "description": "Column: url",
+          "dataType": "string"
+        },
+        {
+          "@type": "xsd:string",
+          "name": "hashlib_md5",
+          "description": "Column: hashlib_md5",
+          "dataType": "string"
+        },
+        {
+          "@type": "xsd:string",
+          "name": "image_name",
+          "description": "Column: image_name",
+          "dataType": "string"
+        },
+        {
+          "@type": "xsd:string",
+          "name": "camera_bucket",
+          "description": "Column: camera_bucket",
+          "dataType": "string"
+        },
+        {
+          "@type": "xsd:string",
+          "name": "lighting",
+          "description": "Column: lighting",
+          "dataType": "string"
+        },
+        {
+          "@type": "xsd:string",
+          "name": "background",
+          "description": "Column: background",
+          "dataType": "string"
+        },
+        {
+          "@type": "xsd:string",
+          "name": "status",
+          "description": "Column: status",
+          "dataType": "string"
+        },
+        {
+          "@type": "xsd:boolean",
+          "name": "missing_card",
+          "description": "Column: missing_card",
+          "dataType": "boolean"
+        }
+      ]
+    },
+    "dataSplits": [
+      {
+        "@type": "cr:DataSplit",
+        "name": "train",
+        "description": "Training data split",
+        "recordCount": 1990,
+        "splits": [
+          {
+            "@type": "schema:PropertyValue",
+            "propertyID": "train",
+            "value": "train"
+          }
+        ]
+      },
+      {
+        "@type": "cr:DataSplit",
+        "name": "validation",
+        "description": "Validation data split",
+        "recordCount": 818,
+        "splits": [
+          {
+            "@type": "schema:PropertyValue",
+            "propertyID": "validation",
+            "value": "validation"
+          }
+        ]
+      },
+      {
+        "@type": "cr:DataSplit",
+        "name": "test",
+        "description": "Test data split",
+        "recordCount": 471,
+        "splits": [
+          {
+            "@type": "schema:PropertyValue",
+            "propertyID": "test",
+            "value": "test"
+          }
+        ]
+      }
+    ],
+    "url": "/pad_dataset_registry/datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
+    "apiUrl": "/pad_dataset_registry/api/datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0.json",
+    "has_readme": true,
+    "readme_url": "/pad_dataset_registry/datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/readme"
+  },
+  {
     "name": "TFDA_MSH-Tanzania_v2.0",
     "description": "New version of the dataset based on the MSH Tanzania project.",
     "recordCount": 2949,
