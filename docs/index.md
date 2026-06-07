@@ -46,3 +46,9 @@ All datasets are available through a Croissant-compliant API at:
 A catalog of all available datasets can be accessed at:
 
 `{{ site.url }}{{ site.baseurl }}/api/catalog.json`
+
+## Contributing
+
+We welcome contributions from any PAD research group. To add a new dataset to the registry, see **[How to add a dataset]({{ site.baseurl }}/how-to-add-a-dataset.html)** — the canonical step-by-step procedure, covering the required file list, the 8-column metadata schema, Croissant generation, local validation, the PR flow, and common gotchas.
+
+For bug reports about the catalog generator, the Croissant generator, or the validator, please open an issue on the [registry repository](https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry).
