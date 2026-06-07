@@ -71,7 +71,7 @@ test_df = pd.read_csv(test_data_url)
 
 ### Contributing a New Dataset
 
-To add a new dataset to the registry:
+For the full step-by-step procedure see [How to add a dataset](docs/how-to-add-a-dataset.md), also published at <https://padproject.info/pad_dataset_registry/how-to-add-a-dataset/>. Quick summary:
 
 1. Create a new directory in the `datasets` folder with your dataset name
 2. Add the required files to the directory:
