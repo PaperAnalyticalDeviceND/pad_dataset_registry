@@ -23,12 +23,12 @@ The `val` split is the original "categorize" set: a held-out partition consumed 
 |:---|:------------|-----:|-----:|------:|-------:|
 | 0  | amoxicillin |   68 |   20 |    32 |    120 |
 | 1  | cellulose   |   18 |    4 |     5 |     27 |
-| 2  | cipfloxacin |   71 |   25 |    22 |    118 |
+| 2  | ciprofloxacin |   71 |   25 |    22 |    118 |
 | 3  | doxycycline |   72 |   23 |    25 |    120 |
-| 4  | isonaizid   |   83 |   13 |    22 |    118 |
+| 4  | isoniazid   |   83 |   13 |    22 |    118 |
 | -  | #total      |  312 |   85 |   106 |    503 |
 
-The class names `cipfloxacin` and `isonaizid` are preserved from the upstream FHI360 source CSVs and are typographic variants of "ciprofloxacin" and "isoniazid"; they refer to the same physical drugs.
+The class names `ciprofloxacin` and `isoniazid` are preserved from the upstream FHI360 source CSVs and are typographic variants of "ciprofloxacin" and "isoniazid"; they refer to the same physical drugs.
 
 #### Dataset Visualizations
 
@@ -48,7 +48,7 @@ Each row carries the standard 8-column registry schema:
 |---|---|
 | `id` | Upstream PAD image ID on `pad.crc.nd.edu` |
 | `sample_id` | Physical card ID (PAD#) |
-| `sample_name` | Lowercase drug class (`amoxicillin`, `cellulose`, `cipfloxacin`, `doxycycline`, `isonaizid`) |
+| `sample_name` | Lowercase drug class (`amoxicillin`, `cellulose`, `ciprofloxacin`, `doxycycline`, `isoniazid`) |
 | `quantity` | API concentration as integer percent (0, 20, 50, 80, 100) |
 | `camera_type_1` | Raw upstream camera string (`Google Pixel 3a`, `iPad`) |
 | `url` | Full HTTPS URL to the PNG on the PAD server |
@@ -79,7 +79,7 @@ The split is reproducible: rerun `scripts/build_registry_release.py` against the
 ### Directory Structure
 
 ```markdown
-datasets/FHI360_Subset_PADFusion_v1.0/
+datasets/FHI360_Subset_PADFusion_v2.0/
 ├── README.md
 ├── class_distribution.csv
 ├── croissant.jsonld
@@ -98,7 +98,7 @@ datasets/FHI360_Subset_PADFusion_v1.0/
 
 If you use this dataset, please cite:
 
-> Mike, M., Sweet, C. *FHI360 PAD-NIR Fusion Subset, v1.0.* Lieberman Lab, University of Notre Dame. <https://github.com/PaperAnalyticalDeviceND/model_fusion>
+> Mike, M., Sweet, C. *FHI360 PAD-NIR Fusion Subset, v2.0.* Lieberman Lab, University of Notre Dame. <https://github.com/PaperAnalyticalDeviceND/model_fusion>
 
 ### License
 

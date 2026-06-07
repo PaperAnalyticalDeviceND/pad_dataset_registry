@@ -34,14 +34,14 @@
     "encodingFormat": "schema:encodingFormat",
     "sha256": "cr:sha256"
   },
-  "@id": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/FHI360_Subset_PADFusion_v1.0",
+  "@id": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/FHI360_Subset_PADFusion_v2.0",
   "@type": [
     "cr:Dataset",
     "schema:Dataset"
   ],
-  "name": "FHI360_Subset_PADFusion_v1.0",
+  "name": "FHI360_Subset_PADFusion_v2.0",
   "description": "CNN training corpus for the PaperAnalyticalDeviceND/model_fusion PAD + NIR multimodal fusion project. 503 PAD card images from 85 unique sample IDs covering four antibiotic APIs (Amoxicillin, Ciprofloxacin, Doxycycline, Isoniazid) at five concentration buckets (0, 20, 50, 80, 100 percent) plus a Cellulose zero-API control. Frozen 60/25/15 train/test/categorize split.",
-  "version": "v1.0",
+  "version": "v2.0",
   "datePublished": "2026-06-07T18:04:48Z",
   "license": "https://www.apache.org/licenses/LICENSE-2.0",
   "creator": {
@@ -54,7 +54,7 @@
     "name": "PaperAnalyticalDeviceND",
     "url": "https://github.com/PaperAnalyticalDeviceND"
   },
-  "url": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/FHI360_Subset_PADFusion_v1.0",
+  "url": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/FHI360_Subset_PADFusion_v2.0",
   "isAccessibleForFree": true,
   "keywords": [
     "DATASET_NAME",
@@ -70,10 +70,10 @@
         "schema:MediaObject",
         "schema:DataDownload"
       ],
-      "@id": "datasets/FHI360_Subset_PADFusion_v1.0/metadata_dev.csv",
+      "@id": "datasets/FHI360_Subset_PADFusion_v2.0/metadata_dev.csv",
       "name": "metadata_dev.csv",
-      "description": "Train dataset for FHI360_Subset_PADFusion_v1.0",
-      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/FHI360_Subset_PADFusion_v1.0/metadata_dev.csv",
+      "description": "Train dataset for FHI360_Subset_PADFusion_v2.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/FHI360_Subset_PADFusion_v2.0/metadata_dev.csv",
       "encodingFormat": "text/csv",
       "sha256": "1c26efdb76136295fdecd9f5eb1d583b782d5e2b89f6c667bd499bdd7a493366",
       "dateModified": "2026-06-07T18:04:48Z",
@@ -86,10 +86,10 @@
         "schema:MediaObject",
         "schema:DataDownload"
       ],
-      "@id": "datasets/FHI360_Subset_PADFusion_v1.0/metadata_test.csv",
+      "@id": "datasets/FHI360_Subset_PADFusion_v2.0/metadata_test.csv",
       "name": "metadata_test.csv",
-      "description": "Test dataset for FHI360_Subset_PADFusion_v1.0",
-      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/FHI360_Subset_PADFusion_v1.0/metadata_test.csv",
+      "description": "Test dataset for FHI360_Subset_PADFusion_v2.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/FHI360_Subset_PADFusion_v2.0/metadata_test.csv",
       "encodingFormat": "text/csv",
       "sha256": "585d18db07f96d3f7b5a5c251e46ea6cd01770c1152867a914bf2debf25a29dd",
       "dateModified": "2026-06-07T18:04:48Z",
@@ -102,10 +102,10 @@
         "schema:MediaObject",
         "schema:DataDownload"
       ],
-      "@id": "datasets/FHI360_Subset_PADFusion_v1.0/metadata_val.csv",
+      "@id": "datasets/FHI360_Subset_PADFusion_v2.0/metadata_val.csv",
       "name": "metadata_val.csv",
-      "description": "Validation dataset for FHI360_Subset_PADFusion_v1.0",
-      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/FHI360_Subset_PADFusion_v1.0/metadata_val.csv",
+      "description": "Validation dataset for FHI360_Subset_PADFusion_v2.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/FHI360_Subset_PADFusion_v2.0/metadata_val.csv",
       "encodingFormat": "text/csv",
       "sha256": "c079f95b5cdd38b4c21784c2f7d49b625436dd1389bf539657bfd4a0496e9e3b",
       "dateModified": "2026-06-07T18:04:48Z",
