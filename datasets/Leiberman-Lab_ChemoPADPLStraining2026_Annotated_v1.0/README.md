@@ -101,7 +101,11 @@ datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/
 
 If you use this dataset, please cite:
 
-> Wilfinger, M., Mike, M., Sweet, C. *Annotated ChemoPAD NN Training Dataset, v1.0.* Lieberman Lab, University of Notre Dame. <https://github.com/PaperAnalyticalDeviceND/annotated_chemopad>
+> Wilfinger, M., Moreira, P., Mike, M., Sweet, C. *Annotated ChemoPAD NN Training Dataset, v1.0.* Lieberman Lab, University of Notre Dame. <https://github.com/PaperAnalyticalDeviceND/annotated_chemopad>
+
+### Annotation tool
+
+The hand-annotation pass was carried out using **Priscila Moreira's PAD annotation web tool**: source at [github.com/psaboia/chemo-pad-annotations](https://github.com/psaboia/chemo-pad-annotations), deployed instance at <http://pad-annotation.crc.nd.edu:8080>. The tool's controlled vocabulary is what defines the `lighting`, `background`, `status`, `missing_card`, and `camera_bucket` value sets in the metadata CSVs above. See the source-repo wiki page [`Annotation-Process`](https://github.com/PaperAnalyticalDeviceND/annotated_chemopad/wiki/Annotation-Process) for the per-card workflow.
 
 ### License
 
