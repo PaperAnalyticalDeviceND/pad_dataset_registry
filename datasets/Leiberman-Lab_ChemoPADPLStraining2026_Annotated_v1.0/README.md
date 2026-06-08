@@ -105,7 +105,7 @@ If you use this dataset, please cite:
 
 ### Annotation tool
 
-The hand-annotation pass was carried out using **Priscila Moreira's PAD annotation web tool**: source at [github.com/psaboia/chemo-pad-annotations](https://github.com/psaboia/chemo-pad-annotations), deployed instance at <http://pad-annotation.crc.nd.edu:8080>. The tool's controlled vocabulary is what defines the `lighting`, `background`, `status`, `missing_card`, and `camera_bucket` value sets in the metadata CSVs above. See the source-repo wiki page [`Annotation-Process`](https://github.com/PaperAnalyticalDeviceND/annotated_chemopad/wiki/Annotation-Process) for the per-card workflow.
+The hand-annotation pass was carried out using **Priscila Moreira's PAD annotation web tool**: source at [github.com/PaperAnalyticalDeviceND/chemo-pad-annotations](https://github.com/PaperAnalyticalDeviceND/chemo-pad-annotations), deployed instance at <http://pad-annotation.crc.nd.edu:8080>. The tool's controlled vocabulary is what defines the `lighting`, `background`, `status`, `missing_card`, and `camera_bucket` value sets in the metadata CSVs above. See the source-repo wiki page [`Annotation-Process`](https://github.com/PaperAnalyticalDeviceND/annotated_chemopad/wiki/Annotation-Process) for the per-card workflow.
 
 ### License
 
