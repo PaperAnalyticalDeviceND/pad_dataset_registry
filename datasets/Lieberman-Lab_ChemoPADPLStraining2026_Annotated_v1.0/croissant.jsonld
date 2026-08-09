@@ -34,12 +34,12 @@
     "encodingFormat": "schema:encodingFormat",
     "sha256": "cr:sha256"
   },
-  "@id": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
+  "@id": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
   "@type": [
     "cr:Dataset",
     "schema:Dataset"
   ],
-  "name": "Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
+  "name": "Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
   "description": "Hand-curated annotated successor to the ChemoPADNNtraining2024 Partial-Drug-Set release. Carries HPLC-measured concentration labels plus annotation-specific quality flags (lighting, background, status, missing_card) on a PAD#-grouped deterministic split.",
   "version": "v1.0",
   "datePublished": "2026-06-07T11:42:27Z",
@@ -54,7 +54,7 @@
     "name": "PaperAnalyticalDeviceND",
     "url": "https://github.com/PaperAnalyticalDeviceND"
   },
-  "url": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
+  "url": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
   "isAccessibleForFree": true,
   "keywords": [
     "DATASET_NAME",
@@ -70,10 +70,10 @@
         "schema:MediaObject",
         "schema:DataDownload"
       ],
-      "@id": "datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_dev.csv",
+      "@id": "datasets/Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_dev.csv",
       "name": "metadata_dev.csv",
-      "description": "Train dataset for Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
-      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_dev.csv",
+      "description": "Train dataset for Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_dev.csv",
       "encodingFormat": "text/csv",
       "sha256": "5db7f4f47eca09a24a1d6e58c7431bbdb1f947c5016bc87e125a39378df4df21",
       "dateModified": "2026-06-07T11:42:27Z",
@@ -86,10 +86,10 @@
         "schema:MediaObject",
         "schema:DataDownload"
       ],
-      "@id": "datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_test.csv",
+      "@id": "datasets/Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_test.csv",
       "name": "metadata_test.csv",
-      "description": "Test dataset for Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
-      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_test.csv",
+      "description": "Test dataset for Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_test.csv",
       "encodingFormat": "text/csv",
       "sha256": "a73acfec2e36fb8df78ca8a49a27f714529f3053ba238ed91e24fcc475e2a559",
       "dateModified": "2026-06-07T11:42:27Z",
@@ -102,10 +102,10 @@
         "schema:MediaObject",
         "schema:DataDownload"
       ],
-      "@id": "datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_val.csv",
+      "@id": "datasets/Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_val.csv",
       "name": "metadata_val.csv",
-      "description": "Validation dataset for Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
-      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_val.csv",
+      "description": "Validation dataset for Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/metadata_val.csv",
       "encodingFormat": "text/csv",
       "sha256": "8ad9c6de90b51d8fc0b0dd00b27af6a8836323fa6b203edda2015823849f08db",
       "dateModified": "2026-06-07T11:42:27Z",
