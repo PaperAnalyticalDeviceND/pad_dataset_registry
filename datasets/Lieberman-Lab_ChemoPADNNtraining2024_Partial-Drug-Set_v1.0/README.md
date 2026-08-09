@@ -42,10 +42,10 @@ The dataset is split into:
 
 ### Directory Structure
 
-The dataset is organized within the `datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0` directory. Below is an overview of its structure and contents:
+The dataset is organized within the `datasets/Lieberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0` directory. Below is an overview of its structure and contents:
 
 ```markdown
-datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/
+datasets/Lieberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/
 ├── metadata_dev.csv
 ├── metadata_test.csv
 ├── labels.csv

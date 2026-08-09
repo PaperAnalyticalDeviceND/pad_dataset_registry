@@ -1,6 +1,6 @@
 # `ChemoPADPLStraining2026_Annotated` Dataset
 
-The annotated successor to the `Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0` release. The project label is updated to `ChemoPADPLStraining2026` because (a) the predominant downstream method on this corpus has been per-drug PLS concentration regression and PLS-DA classification, with neural-network experiments filed as comparison points rather than the primary modelling line, and (b) the annotation pass and HPLC re-labelling completed in 2026. This version is a hand-curated extension of the original ChemoPAD corpus and ships HPLC-measured concentration labels alongside annotation-specific quality flags (Lighting, Background, upstream `status`, `missing_card`).
+The annotated successor to the `Lieberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0` release. The project label is updated to `ChemoPADPLStraining2026` because (a) the predominant downstream method on this corpus has been per-drug PLS concentration regression and PLS-DA classification, with neural-network experiments filed as comparison points rather than the primary modelling line, and (b) the annotation pass and HPLC re-labelling completed in 2026. This version is a hand-curated extension of the original ChemoPAD corpus and ships HPLC-measured concentration labels alongside annotation-specific quality flags (Lighting, Background, upstream `status`, `missing_card`).
 
 ## Description
 
@@ -80,7 +80,7 @@ Strict-schema consumers ignore unknown columns; tools that know them can use the
 ### Directory Structure
 
 ```markdown
-datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/
+datasets/Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/
 ├── README.md
 ├── class_distribution.csv
 ├── croissant.jsonld

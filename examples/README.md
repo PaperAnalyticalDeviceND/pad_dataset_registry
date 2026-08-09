@@ -1,6 +1,6 @@
 # Examples
 
-Reference implementations of the scripts referenced from [How to add a dataset](../docs/how-to-add-a-dataset.md). Both files are working code that produced the [Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0](../datasets/Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/) entry in this registry. They are intended to be **copied and adapted** for a new dataset, not run as-is.
+Reference implementations of the scripts referenced from [How to add a dataset](../docs/how-to-add-a-dataset.md). Both files are working code that produced the [Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0](../datasets/Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0/) entry in this registry. They are intended to be **copied and adapted** for a new dataset, not run as-is.
 
 ## What's here
 
