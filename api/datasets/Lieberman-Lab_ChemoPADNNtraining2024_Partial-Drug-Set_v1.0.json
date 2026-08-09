@@ -34,12 +34,12 @@
     "encodingFormat": "schema:encodingFormat",
     "sha256": "cr:sha256"
   },
-  "@id": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
+  "@id": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/Lieberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
   "@type": [
     "cr:Dataset",
     "schema:Dataset"
   ],
-  "name": "Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
+  "name": "Lieberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
   "description": "The ChemoPADNNtraining2024 Dataset is a curated collection of Paper Analytical Device (PAD) images used for chemotherapy drug identification and analysis.",
   "version": "v1.0",
   "datePublished": "2025-03-31T21:22:22Z",
@@ -54,7 +54,7 @@
     "name": "PaperAnalyticalDeviceND",
     "url": "https://github.com/PaperAnalyticalDeviceND"
   },
-  "url": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
+  "url": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/Lieberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
   "isAccessibleForFree": true,
   "keywords": [
     "DATASET_NAME",
@@ -70,10 +70,10 @@
         "schema:MediaObject",
         "schema:DataDownload"
       ],
-      "@id": "datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_dev.csv",
+      "@id": "datasets/Lieberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_dev.csv",
       "name": "metadata_dev.csv",
-      "description": "Train dataset for Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
-      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_dev.csv",
+      "description": "Train dataset for Lieberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Lieberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_dev.csv",
       "encodingFormat": "text/csv",
       "sha256": "ad49b5832951e574b57bac48283fde4555373c20da21206045fc1b16450ea742",
       "dateModified": "2025-03-31T21:22:29Z",
@@ -86,10 +86,10 @@
         "schema:MediaObject",
         "schema:DataDownload"
       ],
-      "@id": "datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_test.csv",
+      "@id": "datasets/Lieberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_test.csv",
       "name": "metadata_test.csv",
-      "description": "Test dataset for Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
-      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Leiberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_test.csv",
+      "description": "Test dataset for Lieberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/Lieberman-Lab_ChemoPADNNtraining2024_Partial-Drug-Set_v1.0/metadata_test.csv",
       "encodingFormat": "text/csv",
       "sha256": "c0c35e31681279fc8f6d03aebdeae9b080667087036f70f25daad8fa3ad656b5",
       "dateModified": "2025-03-31T21:22:29Z",

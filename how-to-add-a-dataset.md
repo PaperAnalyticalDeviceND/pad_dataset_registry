@@ -80,11 +80,11 @@ Both are legitimate; the harm is leaving it undocumented and letting two consume
 
 ### Naming conventions
 
-The dataset directory name follows `<Lab>_<ProjectFamily>_<Subset_or_Variant>_v<version>` (e.g. `Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0`, `FHI360_FHI2020-FHI2022_MidTrainingSet_Good_v1.0`). Hyphens within tokens (`Partial-Drug-Set`); underscores separate the major segments.
+The dataset directory name follows `<Lab>_<ProjectFamily>_<Subset_or_Variant>_v<version>` (e.g. `Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0`, `FHI360_FHI2020-FHI2022_MidTrainingSet_Good_v1.0`). Hyphens within tokens (`Partial-Drug-Set`); underscores separate the major segments.
 
 Two non-obvious things worth knowing:
 
-- **Match the spelling of existing prefixes exactly.** The published catalog joins on the directory name — `site.data.catalog[].name` in `_data/catalog.json` is the directory. If your dataset is part of an existing project family, mirror that family's spelling (the registry uses "Leiberman" with `ei` for the Notre Dame group, for example). Renaming or correcting spellings breaks cross-references that downstream consumers may have already cached, including links from external papers and other datasets' READMEs.
+- **Match the spelling of existing prefixes exactly.** The published catalog joins on the directory name — `site.data.catalog[].name` in `_data/catalog.json` is the directory. If your dataset is part of an existing project family, mirror that family's spelling (the registry uses "Lieberman" with `ie` for the Notre Dame group). Renames after the fact are possible but disruptive: the Croissant `@id` and `contentUrl` fields all embed the directory name, and downstream consumers who cached raw-file URLs will 404 after a rename. Get the spelling right the first time. Historical note: two `Lieberman-Lab` directories were briefly published as `Leiberman-Lab` and renamed on 2026-08-09; git history reflects that.
 - **The year in the project label is a judgment call**, not a formula. It might be the year the original training data was collected, the year the annotation pass completed, the year the registry release was cut, or something else. Pick the year most informative to a future reader; document the choice briefly in the README so the next submitter (potentially you, six months later) doesn't second-guess it.
 
 ---
@@ -124,7 +124,7 @@ Two non-obvious things worth knowing:
 
 ## A worked example with code
 
-Two reference scripts live in this repository under [`examples/`](https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/examples) — they're the working code that produced the `Leiberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0` entry:
+Two reference scripts live in this repository under [`examples/`](https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/examples) — they're the working code that produced the `Lieberman-Lab_ChemoPADPLStraining2026_Annotated_v1.0` entry:
 
 - [`examples/build_registry_release.py`](https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/blob/main/examples/build_registry_release.py) — reads a source manifest + a source annotation CSV + a local image cache, computes md5 hashes, writes the 8-column metadata CSVs (plus 5 extension columns), `labels.csv`, `projects.csv`, `class_distribution.csv`, `dataset_sizes.md`, and a templated `README.md`.
 - [`examples/build_registry_plots.py`](https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/blob/main/examples/build_registry_plots.py) — generates the four catalog-style PNGs under `figs/`: class distribution by split, camera × drug heatmap, lighting × drug heatmap, background × drug heatmap.
