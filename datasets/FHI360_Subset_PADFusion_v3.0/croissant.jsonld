@@ -1,0 +1,213 @@
+{
+  "@context": {
+    "@language": "en",
+    "cr": "http://mlcommons.org/croissant/",
+    "schema": "http://schema.org/",
+    "dct": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "@vocab": "http://mlcommons.org/croissant/",
+    "name": "schema:name",
+    "description": "schema:description",
+    "version": "schema:version",
+    "datePublished": {
+      "@id": "schema:datePublished",
+      "@type": "xsd:dateTime"
+    },
+    "license": {
+      "@id": "schema:license",
+      "@type": "@id"
+    },
+    "creator": "schema:creator",
+    "recordCount": {
+      "@id": "cr:recordCount",
+      "@type": "xsd:integer"
+    },
+    "fileCount": {
+      "@id": "cr:fileCount",
+      "@type": "xsd:integer"
+    },
+    "distribution": "schema:distribution",
+    "contentUrl": {
+      "@id": "schema:contentUrl",
+      "@type": "@id"
+    },
+    "encodingFormat": "schema:encodingFormat",
+    "sha256": "cr:sha256"
+  },
+  "@id": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/FHI360_Subset_PADFusion_v3.0",
+  "@type": [
+    "cr:Dataset",
+    "schema:Dataset"
+  ],
+  "name": "FHI360_Subset_PADFusion_v3.0",
+  "description": "CNN/NIR training corpus for the PaperAnalyticalDeviceND/model_fusion PAD + NIR multimodal fusion project. 503 PAD card images from 85 unique physical cards across four antibiotic APIs (amoxicillin, ciprofloxacin, doxycycline, isoniazid) at 20/50/80/100% plus a cellulose 0% control. v3.0 is a leak-free re-split of v2.0: grouped by sample_id and jointly stratified by (drug x concentration), 3 train / 1 val / 1 test cards per cell (no sample_id straddles splits).",
+  "version": "v3.0",
+  "datePublished": "2026-08-09T20:57:30Z",
+  "license": "https://www.apache.org/licenses/LICENSE-2.0",
+  "creator": {
+    "@type": "schema:Person",
+    "name": "Mike, M., Sweet, C. (Lieberman Lab, University of Notre Dame)",
+    "url": "https://github.com/PaperAnalyticalDeviceND"
+  },
+  "publisher": {
+    "@type": "schema:Organization",
+    "name": "PaperAnalyticalDeviceND",
+    "url": "https://github.com/PaperAnalyticalDeviceND"
+  },
+  "url": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/tree/main/datasets/FHI360_Subset_PADFusion_v3.0",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "DATASET_NAME",
+    "machine learning",
+    "computer vision",
+    "dataset"
+  ],
+  "citations": [],
+  "distribution": [
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/FHI360_Subset_PADFusion_v3.0/metadata_dev.csv",
+      "name": "metadata_dev.csv",
+      "description": "Train dataset for FHI360_Subset_PADFusion_v3.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/FHI360_Subset_PADFusion_v3.0/metadata_dev.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "b081e8de49af848a1e9889bf24e0c271e7902c2beca55e3f4e7aa167b928c43a",
+      "dateModified": "2026-08-09T20:57:30Z",
+      "contentSize": "57650 bytes",
+      "inLanguage": "en"
+    },
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/FHI360_Subset_PADFusion_v3.0/metadata_test.csv",
+      "name": "metadata_test.csv",
+      "description": "Test dataset for FHI360_Subset_PADFusion_v3.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/FHI360_Subset_PADFusion_v3.0/metadata_test.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "89a2994358c1493d11af55771d0802222504ff03f12c6943f3255cb59e6a142a",
+      "dateModified": "2026-08-09T20:57:30Z",
+      "contentSize": "20419 bytes",
+      "inLanguage": "en"
+    },
+    {
+      "@type": [
+        "cr:FileObject",
+        "schema:MediaObject",
+        "schema:DataDownload"
+      ],
+      "@id": "datasets/FHI360_Subset_PADFusion_v3.0/metadata_val.csv",
+      "name": "metadata_val.csv",
+      "description": "Validation dataset for FHI360_Subset_PADFusion_v3.0",
+      "contentUrl": "https://github.com/PaperAnalyticalDeviceND/pad_dataset_registry/raw/main/datasets/FHI360_Subset_PADFusion_v3.0/metadata_val.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "15190509a12d04d7d933f9f1d843931c5a62d5b176d14f62eaf0cfaf598788ef",
+      "dateModified": "2026-08-09T20:57:30Z",
+      "contentSize": "20647 bytes",
+      "inLanguage": "en"
+    }
+  ],
+  "recordCount": 503,
+  "fileCount": 3,
+  "temporalCoverage": "DATE",
+  "datasetSchema": {
+    "@type": "cr:TableSchema",
+    "columns": [
+      {
+        "@type": "xsd:integer",
+        "name": "id",
+        "description": "Column: id",
+        "dataType": "integer"
+      },
+      {
+        "@type": "xsd:integer",
+        "name": "sample_id",
+        "description": "Column: sample_id",
+        "dataType": "integer"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "sample_name",
+        "description": "Column: sample_name",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:integer",
+        "name": "quantity",
+        "description": "Column: quantity",
+        "dataType": "integer"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "camera_type_1",
+        "description": "Column: camera_type_1",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "url",
+        "description": "Column: url",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "hashlib_md5",
+        "description": "Column: hashlib_md5",
+        "dataType": "string"
+      },
+      {
+        "@type": "xsd:string",
+        "name": "image_name",
+        "description": "Column: image_name",
+        "dataType": "string"
+      }
+    ]
+  },
+  "dataSplits": [
+    {
+      "@type": "cr:DataSplit",
+      "name": "train",
+      "description": "Training data split",
+      "recordCount": 294,
+      "splits": [
+        {
+          "@type": "schema:PropertyValue",
+          "propertyID": "train",
+          "value": "train"
+        }
+      ]
+    },
+    {
+      "@type": "cr:DataSplit",
+      "name": "validation",
+      "description": "Validation data split",
+      "recordCount": 105,
+      "splits": [
+        {
+          "@type": "schema:PropertyValue",
+          "propertyID": "validation",
+          "value": "validation"
+        }
+      ]
+    },
+    {
+      "@type": "cr:DataSplit",
+      "name": "test",
+      "description": "Test data split",
+      "recordCount": 104,
+      "splits": [
+        {
+          "@type": "schema:PropertyValue",
+          "propertyID": "test",
+          "value": "test"
+        }
+      ]
+    }
+  ]
+}
